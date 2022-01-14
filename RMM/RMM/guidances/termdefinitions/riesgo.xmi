@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-40wqgNNhOzUNpJ86l7-_6g" name="new_term_definition,_swrLgM18Eeu9DYw48QRJHQ" guid="-40wqgNNhOzUNpJ86l7-_6g" changeDate="2021-06-14T20:55:31.419-0500">
+  <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 11pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Evento o condición incierta que de ocurrir puede producir un&#xD;
+    efecto positivo o negativo en uno o más objetivos del activo.&lt;/font>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

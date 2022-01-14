@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-E1XehrRAKic1r2OOt0_-iw" name="RC,_-0BSAKuXEeuuCssargsKeA" guid="-E1XehrRAKic1r2OOt0_-iw" changeDate="2021-06-03T18:43:42.463-0500">
+  <mainDescription>&lt;p>&#xD;
+    Profesional experto en las necesidades de formación requeridas por la organización y que será responsable de implantar&#xD;
+    el plan de capacitación de manera exitosa.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

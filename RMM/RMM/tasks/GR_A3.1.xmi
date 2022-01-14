@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yrBmEqXPcAoRLZw3VHFqbg" name=",_fIpFUKxbEeuVEdXlov3DVQ" guid="-yrBmEqXPcAoRLZw3VHFqbg" changeDate="2021-06-04T17:23:02.481-0500">
+  <mainDescription>Recolectar, analizar e informar el avance de la implementación del PGR. Así como también, evaluar su eficiencia para ayudar&#xD;
+a conseguir los objetivos de un activo e identificar problemas y posibles causas, a fin de que puedan ser corregidas.</mainDescription>
+  <sections xmi:id="_5sFK8axfEeuVEdXlov3DVQ" name="P1. Recolectar y analizar los informes de las tareas de GR y el informe de medición del proceso de GR." guid="_5sFK8axfEeuVEdXlov3DVQ">
+    <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
+class=&quot;MsoListParagraph&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_5sFK86xfEeuVEdXlov3DVQ" name="P2. Dar seguimiento al PGR del activo." guid="_5sFK86xfEeuVEdXlov3DVQ">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span     style=&quot;FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; FONT-SIZE: 9pt; mso-themecolor: text1; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: ES; mso-bidi-language: AR-SA&quot;>&#xD;
+    Revisar la ejecución de la implementación del PGR según lo establecido. Considerar los informes de seguimiento a los&#xD;
+    riesgos.&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_5sFK8qxfEeuVEdXlov3DVQ" name="P3. Evaluar el cumplimiento y eficacia del PGR." guid="_5sFK8qxfEeuVEdXlov3DVQ">
+    <sectionDescription>Verificar si el PGR ayuda a cumplir los objetivos de un activo, si cumple con el calendario y presupuesto asignado.&#xD;
+Verificar si las prácticas de GR son adecuadas para gestionar los riesgos, respecto al tipo de activo y a las capacidades&#xD;
+de la organización, considere el informe de medición del proceso de GR.</sectionDescription>
+  </sections>
+  <sections xmi:id="_hXPdEMWEEeukqNeDnMQEfA" name="P4. Generar los informes de seguimiento y evaluación del PGR del activo." guid="_hXPdEMWEEeukqNeDnMQEfA"/>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

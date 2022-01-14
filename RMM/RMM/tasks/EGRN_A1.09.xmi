@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dYyTY24tJhc7K3YJBtPN2Q" name=",_BTv7cKumEeuuCssargsKeA" guid="-dYyTY24tJhc7K3YJBtPN2Q" changeDate="2021-06-14T15:11:08.722-0500">
+  <mainDescription>Desarrollar una estrategia de comunicación que plasme la intención y expectativas de la organización con la implementación&#xD;
+de la EGR. Así como también que promueva una comunicación y compresión efectiva en los diferentes niveles de la&#xD;
+organización.</mainDescription>
+  <sections xmi:id="_ZvzaoKumEeuuCssargsKeA" name="P1. Identificar el público objetivo. " guid="_ZvzaoKumEeuuCssargsKeA"/>
+  <sections xmi:id="_c6lUkKumEeuuCssargsKeA" name="P2. Definir los objetivos del plan de capacitación." guid="_c6lUkKumEeuuCssargsKeA"/>
+  <sections xmi:id="_hhAtIKumEeuuCssargsKeA" name="P3. Definir la estructura temática." guid="_hhAtIKumEeuuCssargsKeA"/>
+  <sections xmi:id="_lrdUUKumEeuuCssargsKeA" name="P4. Establecer el tipo de estrategia y los recursos necesarios." guid="_lrdUUKumEeuuCssargsKeA"/>
+  <sections xmi:id="_qINzgKumEeuuCssargsKeA" name="P5. Establecer el presupuesto." guid="_qINzgKumEeuuCssargsKeA"/>
+  <sections xmi:id="_s1_BUKumEeuuCssargsKeA" name="P6. Planificar la capacitación." guid="_s1_BUKumEeuuCssargsKeA"/>
+  <sections xmi:id="_waL6EMTPEeuSQpRAqzZuYg" name="P7. Seleccionar los participantes y capacitadores." guid="_waL6EMTPEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_0Iq-AMTPEeuSQpRAqzZuYg" name="P8. Aprobar el plan de capacitación de la EGR" guid="_0Iq-AMTPEeuSQpRAqzZuYg"/>
+  <purpose>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Desarrollar un plan de capacitacion que permita crear&#xD;
+    concienciacion y comprension al público objetivo sobre el valor de la GR para ayudar al logro de los objetivos de la&#xD;
+    organizacion.&lt;/font>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

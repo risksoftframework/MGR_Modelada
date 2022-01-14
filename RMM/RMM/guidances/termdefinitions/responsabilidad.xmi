@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wzGiPRaOKLZl_hShCOo4Lw" name="new_term_definition,_LohtoM12EeulHfspCiGMPA" guid="-wzGiPRaOKLZl_hShCOo4Lw" changeDate="2022-01-11T11:40:14.622-0500">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+    Representa los diferentes tipos o niveles de responsabilidades que pueden ser asumidos por los recursos de gestión que&#xD;
+    participan en una EGR. Las responsabilidades, representan las obligaciones o autoridades de cada uno de los recursos,&#xD;
+    sobre las actividades de los activos involucrados en el alcance de una EGR. Las responsabilidades pueden estar&#xD;
+    asociados a los definidos en la matriz RACI (Responsable, Aprobador, Consultado, Informado) y para llevar a cabo su&#xD;
+    asignación, una organización puede hacer uso de una matriz de asignación de responsabilidades (RAM).&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

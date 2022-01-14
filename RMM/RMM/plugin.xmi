@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_v0Z04auTEeuuCssargsKeA" guid="_v0Z04auTEeuuCssargsKeA">
+    <subManagers xmi:id="_5HbxEaz0EeuleM-t5CAq6g" href="uma://_5GZPQKz0EeuleM-t5CAq6g#_5HbxEaz0EeuleM-t5CAq6g"/>
+    <subManagers xmi:id="_H5J48Kz1EeuleM-t5CAq6g" href="uma://_H42-AKz1EeuleM-t5CAq6g#_H5J48Kz1EeuleM-t5CAq6g"/>
+    <subManagers xmi:id="_O11-Qqz1EeuleM-t5CAq6g" href="uma://_O1icQKz1EeuleM-t5CAq6g#_O11-Qqz1EeuleM-t5CAq6g"/>
+    <subManagers xmi:id="_Wr8-4Kz1EeuleM-t5CAq6g" href="uma://_WrDnAKz1EeuleM-t5CAq6g#_Wr8-4Kz1EeuleM-t5CAq6g"/>
+    <subManagers xmi:id="_Yae9Qqz1EeuleM-t5CAq6g" href="uma://_YaMCUKz1EeuleM-t5CAq6g#_Yae9Qqz1EeuleM-t5CAq6g"/>
+    <subManagers xmi:id="_nFziMqz1EeuleM-t5CAq6g" href="uma://_nFgnQKz1EeuleM-t5CAq6g#_nFziMqz1EeuleM-t5CAq6g"/>
+    <subManagers xmi:id="__eGiwqz1EeuleM-t5CAq6g" href="uma://__dzn0Kz1EeuleM-t5CAq6g#__eGiwqz1EeuleM-t5CAq6g"/>
+    <subManagers xmi:id="_zxD4wa01EeuleM-t5CAq6g" href="uma://_zwwWwK01EeuleM-t5CAq6g#_zxD4wa01EeuleM-t5CAq6g"/>
+    <resourceDescriptors xmi:id="_1vIfMauZEeuuCssargsKeA" id="-q4VsILrHRfupKtrKpxPsSA" uri="tasks/EGRN_A1.02.xmi"/>
+    <resourceDescriptors xmi:id="_SWWXQauaEeuuCssargsKeA" id="-q3XEUwdEBp0ySVXNaYmSBg" uri="tasks/EGRN_A1.01.xmi"/>
+    <resourceDescriptors xmi:id="_zpJ_QaubEeuuCssargsKeA" id="-_lnUuQXJrC1aXIppFcGjyA" uri="tasks/EGRN_A1.03.xmi"/>
+    <resourceDescriptors xmi:id="_QYPH8queEeuuCssargsKeA" id="-WaBh2wUMZsdimQr9zkno-g" uri="tasks/EGRN_A1.04.xmi"/>
+    <resourceDescriptors xmi:id="_f_cQ4KufEeuuCssargsKeA" id="-9X96jH6HZB88g5YJyMsnAA" uri="tasks/EGRN_A1.06.xmi"/>
+    <resourceDescriptors xmi:id="_TmG1UquiEeuuCssargsKeA" id="-iqOm55kUwslqu4wMYsIkTQ" uri="tasks/EGRN_A1.07.xmi"/>
+    <resourceDescriptors xmi:id="_TBKDQKukEeuuCssargsKeA" id="-ZMOts_zOCeLUrmB76-WPMQ" uri="tasks/EGRN_A1.05.xmi"/>
+    <resourceDescriptors xmi:id="_KYUIsqulEeuuCssargsKeA" id="-tq_BKYeztPv54Moa7J5zmg" uri="tasks/EGRN_A1.08.xmi"/>
+    <resourceDescriptors xmi:id="_PKb-cKumEeuuCssargsKeA" id="-dYyTY24tJhc7K3YJBtPN2Q" uri="tasks/EGRN_A1.09.xmi"/>
+    <resourceDescriptors xmi:id="_OWi0oKusEeuuCssargsKeA" id="-fQRyb0I3OVc732ju0thdNQ" uri="tasks/EGRN_A2.01.xmi"/>
+    <resourceDescriptors xmi:id="_vu_VIquuEeuuCssargsKeA" id="-Dxtmzmj2Ch0Kcj0reb9E0g" uri="tasks/EGRN_A2.02.xmi"/>
+    <resourceDescriptors xmi:id="_Wgr9YKwhEeuVEdXlov3DVQ" id="-r4uRtCuvhgU_GAkdfxpeeQ" uri="tasks/EGRN_A3.01.xmi"/>
+    <resourceDescriptors xmi:id="_Wgr9YawhEeuVEdXlov3DVQ" id="-b3_j8PKUV2jjkPNyKgIo3A" uri="tasks/EGRN_A3.02.xmi"/>
+    <resourceDescriptors xmi:id="_Wg1uYKwhEeuVEdXlov3DVQ" id="-2OIYneKT9OkiH5fXPTswCQ" uri="tasks/EGRN_A3.03.xmi"/>
+    <resourceDescriptors xmi:id="_Wg1uYawhEeuVEdXlov3DVQ" id="-w-6lNAehLC0ecK_nYCQqRQ" uri="tasks/EGRN_A3.04.xmi"/>
+    <resourceDescriptors xmi:id="_TlqH8qwnEeuVEdXlov3DVQ" id="-41tj3g4kzg4YTPyqm9j5Bg" uri="tasks/GR_A1.01.xmi"/>
+    <resourceDescriptors xmi:id="_IOMZEKwqEeuVEdXlov3DVQ" id="-FoqHcqbaV7Nf8wPmxy5oiQ" uri="tasks/GR_A1.02.xmi"/>
+    <resourceDescriptors xmi:id="_yL4tkKwrEeuVEdXlov3DVQ" id="-hYAWULDWZQdE0yUuJ_Kf4A" uri="tasks/GR_A1.03.xmi"/>
+    <resourceDescriptors xmi:id="_BgNZ8qwxEeuVEdXlov3DVQ" id="-7X7rIzW5cnf7jeRBtMoGyA" uri="tasks/GR_A2.01.xmi"/>
+    <resourceDescriptors xmi:id="_hhhUIqxOEeuVEdXlov3DVQ" id="-9itozSR8nlSv46Ey45SkKw" uri="tasks/GR_A2.02.xmi"/>
+    <resourceDescriptors xmi:id="_sGjcUqxSEeuVEdXlov3DVQ" id="-jtlxNwBbJ7xqP42jj5g_kw" uri="tasks/GR_A2.03.xmi"/>
+    <resourceDescriptors xmi:id="_rby9MqxUEeuVEdXlov3DVQ" id="-If95WIsnj-nIt1R-AaLlLA" uri="tasks/GR_A2.04.xmi"/>
+    <resourceDescriptors xmi:id="_0uolEaxVEeuVEdXlov3DVQ" id="-i3IxEra30awybFRrvSuJzQ" uri="tasks/GR_A2.05.xmi"/>
+    <resourceDescriptors xmi:id="_3oowsKxYEeuVEdXlov3DVQ" id="-CV6DRbBNlzUX_rOjNEdpZw" uri="tasks/GR_A2.06.xmi"/>
+    <resourceDescriptors xmi:id="_7bw_4axfEeuVEdXlov3DVQ" id="-yrBmEqXPcAoRLZw3VHFqbg" uri="tasks/GR_A3.1.xmi"/>
+    <resourceDescriptors xmi:id="_7bw_4qxfEeuVEdXlov3DVQ" id="-hvu5z85PpC8qnh0QdWdWLw" uri="tasks/GR_A3.2.xmi"/>
+    <resourceDescriptors xmi:id="_7b3GgKxfEeuVEdXlov3DVQ" id="-ren0X7ltmZnvGnVlVA8WjQ" uri="tasks/GR_A3.3.xmi"/>
+    <resourceDescriptors xmi:id="_u70REqyFEeuVEdXlov3DVQ" id="-CsXtNQwc0WLuSe9y5aJNlw" uri="customcategories/MGR.xmi"/>
+    <resourceDescriptors xmi:id="_CKd3QayGEeuVEdXlov3DVQ" id="-j5YN9TeO2ET7V4Cj-zqsAw" uri="customcategories/RiskSoft.xmi"/>
+    <resourceDescriptors xmi:id="_5HbxEKz0EeuleM-t5CAq6g" id="_5GZPQKz0EeuleM-t5CAq6g" uri="capabilitypatterns/EGRN_Proceso/model.xmi"/>
+    <resourceDescriptors xmi:id="_H5AvAaz1EeuleM-t5CAq6g" id="_H42-AKz1EeuleM-t5CAq6g" uri="capabilitypatterns/EGRN_A2/model.xmi"/>
+    <resourceDescriptors xmi:id="_O11-Qaz1EeuleM-t5CAq6g" id="_O1icQKz1EeuleM-t5CAq6g" uri="capabilitypatterns/EGRN_A3/model.xmi"/>
+    <resourceDescriptors xmi:id="_WrzN4Kz1EeuleM-t5CAq6g" id="_WrDnAKz1EeuleM-t5CAq6g" uri="capabilitypatterns/GR_Proceso/model.xmi"/>
+    <resourceDescriptors xmi:id="_Yae9Qaz1EeuleM-t5CAq6g" id="_YaMCUKz1EeuleM-t5CAq6g" uri="capabilitypatterns/GR_A1/model.xmi"/>
+    <resourceDescriptors xmi:id="_nFziMaz1EeuleM-t5CAq6g" id="_nFgnQKz1EeuleM-t5CAq6g" uri="capabilitypatterns/GR_A3/model.xmi"/>
+    <resourceDescriptors xmi:id="__eGiwaz1EeuleM-t5CAq6g" id="__dzn0Kz1EeuleM-t5CAq6g" uri="capabilitypatterns/EGRN_A1/model.xmi"/>
+    <resourceDescriptors xmi:id="_zxD4wK01EeuleM-t5CAq6g" id="_zwwWwK01EeuleM-t5CAq6g" uri="capabilitypatterns/GR_A2/model.xmi"/>
+    <resourceDescriptors xmi:id="_p1eL8LzkEeu3ILgUBk6OWQ" id="-LVlQMLfUFoTKinbAZNiMWw" uri="roles/CRN.xmi"/>
+    <resourceDescriptors xmi:id="_wvCEwbzkEeu3ILgUBk6OWQ" id="-XGMAyBxnLXoI-nw7k9WkQw" uri="roles/CEO.xmi"/>
+    <resourceDescriptors xmi:id="_U_Jn4LzlEeu3ILgUBk6OWQ" id="-ZKmch_o6Y0_etG0v9ZhT4w" uri="roles/EAS.xmi"/>
+    <resourceDescriptors xmi:id="_cB548bzlEeu3ILgUBk6OWQ" id="-twZtETm2vcuI_sJSZmEZ3A" uri="roles/EV.xmi"/>
+    <resourceDescriptors xmi:id="_hoMMALzlEeu3ILgUBk6OWQ" id="-hd7xIU-HeAM6b0UAQX5e3w" uri="roles/GD.xmi"/>
+    <resourceDescriptors xmi:id="_vs1LcbzlEeu3ILgUBk6OWQ" id="-ZVKqcLZ9Cu7l-_I5Gk2kWw" uri="roles/META.xmi"/>
+    <resourceDescriptors xmi:id="_8jswMbzlEeu3ILgUBk6OWQ" id="-WJawypUNjJ7my4DIL0iZ5Q" uri="roles/RA.xmi"/>
+    <resourceDescriptors xmi:id="_DHplYbzmEeu3ILgUBk6OWQ" id="-E1XehrRAKic1r2OOt0_-iw" uri="roles/RC.xmi"/>
+    <resourceDescriptors xmi:id="_LTEusbzmEeu3ILgUBk6OWQ" id="-EkAXQzmx4NQSTXXdlKuXyw" uri="roles/RGRA.xmi"/>
+    <resourceDescriptors xmi:id="_RR1zMbzmEeu3ILgUBk6OWQ" id="-ZR3PNjGQjL7Rd88Arb_yjg" uri="roles/RGRH.xmi"/>
+    <resourceDescriptors xmi:id="_m9VPQbzmEeu3ILgUBk6OWQ" id="-mFtYFH1LR-c0sYcmvzZ9LQ" uri="roles/RGRN.xmi"/>
+    <resourceDescriptors xmi:id="_m9fAQLzmEeu3ILgUBk6OWQ" id="-oLpYbYgWSAKFKgPDKAL_fQ" uri="roles/RR.xmi"/>
+    <resourceDescriptors xmi:id="_8-KYAcTPEeuSQpRAqzZuYg" id="-U8FPzxhGZu0MneahkdHR6g" uri="tasks/EGRN_A1.10.xmi"/>
+    <resourceDescriptors xmi:id="_lCAbQso9EeucFriJucRSqQ" id="-585kIDc8DgeOInKOWCPeBg" uri="guidances/templates/P_EGR.xmi"/>
+    <resourceDescriptors xmi:id="_hU5jcMpVEeugzOHm42dHog" id="-JVoa6rF00K3xabU0PO1ibg" uri="guidances/templates/P_IE.xmi"/>
+    <resourceDescriptors xmi:id="_3PvzcMsAEeuTbqH7vO10mQ" id="-4hf0yOtJGlMa4wO5aXE_RA" uri="guidances/templates/P_PR.xmi"/>
+    <resourceDescriptors xmi:id="_RDiEIssNEeuTbqH7vO10mQ" id="-fmNRSJCzZnwWUvk59CCwQw" uri="guidances/templates/P_Acta.xmi"/>
+    <resourceDescriptors xmi:id="_PeHTkMsPEeuTbqH7vO10mQ" id="-vh1AHx6EiREwP0Zs111Yzw" uri="guidances/templates/P_IV.xmi"/>
+    <resourceDescriptors xmi:id="_Of9XUssREeuTbqH7vO10mQ" id="-Osuo3-9IW0YRdJkZ0VBpcw" uri="guidances/templates/P_IS.xmi"/>
+    <resourceDescriptors xmi:id="_NO1TIMvAEeurUu0Uc60fZg" id="-yhe9j96K-DUfRWnuAF1DCg" uri="guidances/templates/P_PGRA.xmi"/>
+    <resourceDescriptors xmi:id="_A4GGUsvIEeurUu0Uc60fZg" id="-4pElp7V0qGkf7VEQGkpSdw" uri="guidances/templates/P_CR.xmi"/>
+    <resourceDescriptors xmi:id="_A95C8MvhEeurUu0Uc60fZg" id="-kBtoNvjO-vVGUWco48WLkg" uri="guidances/templates/P_PRiesgo.xmi"/>
+    <resourceDescriptors xmi:id="_7csuccvkEeurUu0Uc60fZg" id="-r-ZO5QlgX3IhtuS3l4JMeA" uri="guidances/templates/P_RR.xmi"/>
+    <resourceDescriptors xmi:id="_ip7tgsvmEeurUu0Uc60fZg" id="-63wx4EnbtcVbWzXDrnNyeg" uri="guidances/templates/P_TR.xmi"/>
+    <resourceDescriptors xmi:id="_ytisMM10EeulHfspCiGMPA" id="-Qz-8SGV4ARtPTAl2-3YK9w" uri="guidances/termdefinitions/activo.xmi"/>
+    <resourceDescriptors xmi:id="_7ZER4M10EeulHfspCiGMPA" id="-WAjfXixcTs1bKmGby1u4DA" uri="guidances/termdefinitions/estrategia_de_gestion_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_mjCows11EeulHfspCiGMPA" id="-CFOeQ_3X82VX6bZ34Oclpw" uri="guidances/termdefinitions/poltica_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_Acer8c12EeulHfspCiGMPA" id="-hlGNmsGMWb9DiTxYWn5tRQ" uri="guidances/termdefinitions/recurso_de_gestion.xmi"/>
+    <resourceDescriptors xmi:id="_OA3eAM12EeulHfspCiGMPA" id="-wzGiPRaOKLZl_hShCOo4Lw" uri="guidances/termdefinitions/responsabilidad.xmi"/>
+    <resourceDescriptors xmi:id="_nMQIYs12EeulHfspCiGMPA" id="-KcN3UKS3Z-r6znLbfIMzOg" uri="guidances/termdefinitions/criterios_de_aceptacion_del_Riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_edt1gs13EeulHfspCiGMPA" id="-9NGpkXEnq-JK2lbGC_-Vuw" uri="guidances/termdefinitions/categoria_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_rKBJAs13EeulHfspCiGMPA" id="-FKLR28Bl-1s8ZEASq6Vi1g" uri="guidances/termdefinitions/categoria_de_factores_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_FzsWUs14EeulHfspCiGMPA" id="-SvRbvlfVqFcNpJCekvsaPA" uri="guidances/termdefinitions/factor_de_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_VX4c8M14EeulHfspCiGMPA" id="-Odsg-rAeqnr3LuL8UVb0Ww" uri="guidances/termdefinitions/criterios_de_probabilidad_del_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_cqSTkM14EeulHfspCiGMPA" id="--NvXjVqvw1aZMHMgWQy0UA" uri="guidances/termdefinitions/criterios_de_impacto_del_Riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_v0Ufgs14EeulHfspCiGMPA" id="-gk9rxrP6qQyv4AQeGJBUlA" uri="guidances/termdefinitions/variables_de_control.xmi"/>
+    <resourceDescriptors xmi:id="_KQVEQs15EeulHfspCiGMPA" id="-TxHP7YFlSGQMJxOI8Bd_mA" uri="guidances/termdefinitions/metrica.xmi"/>
+    <resourceDescriptors xmi:id="_Wo01gM16EeulHfspCiGMPA" id="-LNIhdrCmRDeTY1Itu8s1bw" uri="guidances/termdefinitions/criterios_de_nivel_de_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_ho-JMM16EeulHfspCiGMPA" id="-o9z1Yb_OHmKg5B-bn2J_3Q" uri="guidances/termdefinitions/plan_de_gestion_de_riesgos.xmi"/>
+    <resourceDescriptors xmi:id="_Fc6RMM18Eeu9DYw48QRJHQ" id="-WfV201WCnkDPBw0dIm6RAQ" uri="guidances/termdefinitions/causa.xmi"/>
+    <resourceDescriptors xmi:id="_QHougM18Eeu9DYw48QRJHQ" id="-1f2m-ijf-1rIHrAXi2uyIQ" uri="guidances/termdefinitions/consecuencia.xmi"/>
+    <resourceDescriptors xmi:id="_VbbjYM18Eeu9DYw48QRJHQ" id="-6kXR6E0Q4fsZAdmmLcCY9g" uri="guidances/termdefinitions/estimacion_de_impacto.xmi"/>
+    <resourceDescriptors xmi:id="_cELZAs18Eeu9DYw48QRJHQ" id="-gdJthIzSF_AMqZa-T-DxVA" uri="guidances/termdefinitions/accion_de_respuesta.xmi"/>
+    <resourceDescriptors xmi:id="_gMjjos18Eeu9DYw48QRJHQ" id="-e5t78813oFHZnFCPqYqmQA" uri="guidances/termdefinitions/evento_de_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_mRceQM18Eeu9DYw48QRJHQ" id="-h4YdvW_aiirRysKXO6Qj7w" uri="guidances/termdefinitions/respuesta_al_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_qYxgAs18Eeu9DYw48QRJHQ" id="-4Lv6VJEwTep0S4eaO1aBYg" uri="guidances/termdefinitions/perfil_del_riesgo.xmi"/>
+    <resourceDescriptors xmi:id="_xCtocs18Eeu9DYw48QRJHQ" id="-40wqgNNhOzUNpJ86l7-_6g" uri="guidances/termdefinitions/riesgo.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_v0Qq8KuTEeuuCssargsKeA" name="RMM" guid="_v0Qq8KuTEeuuCssargsKeA" presentationName="RiskSoft" changeDate="2021-05-03T18:29:07.024-0500">
+    <methodElementProperty xmi:id="_v0Z046uTEeuuCssargsKeA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_0hq1QKuTEeuuCssargsKeA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq8auTEeuuCssargsKeA" name="Content" guid="_v0Qq8auTEeuuCssargsKeA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq8quTEeuuCssargsKeA" name="Categories" guid="_v0Qq8quTEeuuCssargsKeA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq86uTEeuuCssargsKeA" name="Domains" guid="_v0Qq86uTEeuuCssargsKeA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq9KuTEeuuCssargsKeA" name="Disciplines" guid="_v0Qq9KuTEeuuCssargsKeA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq9auTEeuuCssargsKeA" name="RoleSets" guid="_v0Qq9auTEeuuCssargsKeA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq9quTEeuuCssargsKeA" name="WP Types" guid="_v0Qq9quTEeuuCssargsKeA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq96uTEeuuCssargsKeA" name="Tools" guid="_v0Qq96uTEeuuCssargsKeA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq-KuTEeuuCssargsKeA" name="StandardCategories" guid="_v0Qq-KuTEeuuCssargsKeA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq-auTEeuuCssargsKeA" name="CustomCategories" guid="_v0Qq-auTEeuuCssargsKeA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq-quTEeuuCssargsKeA" name="Hidden" guid="_v0Qq-quTEeuuCssargsKeA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_v0Qq-6uTEeuuCssargsKeA" name="Custom Categories" guid="_v0Qq-6uTEeuuCssargsKeA" categorizedElements="_KhvgsKyFEeuVEdXlov3DVQ"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_KhvgsKyFEeuVEdXlov3DVQ" name="RiskSoft" guid="_KhvgsKyFEeuVEdXlov3DVQ" presentationName="RiskSoft" categorizedElements="_iZn70KyFEeuVEdXlov3DVQ _wYo9QM1nEeulHfspCiGMPA">
+            <methodElementProperty xmi:id="_u8HMAKyFEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_RVH_gHM3Eey0Jd_K03nSHw" name="PUBLISH_CATEGORY" value="true"/>
+            <presentation xmi:id="-j5YN9TeO2ET7V4Cj-zqsAw" href="uma://-j5YN9TeO2ET7V4Cj-zqsAw#-j5YN9TeO2ET7V4Cj-zqsAw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_iZn70KyFEeuVEdXlov3DVQ" name="MGR" guid="_iZn70KyFEeuVEdXlov3DVQ" presentationName="RiskSoft: Metodología de Gestión de Riesgos" briefDescription="La metodología de GR (MGR) es un framework metodológico que permite soportar la GR de los activos de una organización desde un enfoque integrado. Esta metodología está fundamentada en la ontología para la gestión de riesgos software (OGRS), la cual proporciona la estructura conceptual del dominio de la GR en los diferentes niveles de gestión de una organización a través de cada una de sus subontologías.&#xD;&#xA;1.&#x9;Ontología para el Establecimiento de la Gestión de Riesgos (OEGR): Establece los conceptos claves para el establecimiento de la GR en una organización.&#xD;&#xA;2.&#x9; Ontología para el Establecimiento del Contexto del Riesgo (OECR): Establece los conceptos claves que permiten establecer el contexto del riesgo y que son fundamentales para el proceso de evaluación de riesgos.&#xD;&#xA;3.&#x9;Ontología para la Gestión del Perfil de Riesgo (OGPR): Establece los conceptos claves para llevar a cabo la gestión del perfil de riesgo de un activo de la organización.">
+            <methodElementProperty xmi:id="_u70REKyFEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_5xymkKz9EeuleM-t5CAq6g" name="PUBLISH_CATEGORY" value="false"/>
+            <presentation xmi:id="-CsXtNQwc0WLuSe9y5aJNlw" href="uma://-CsXtNQwc0WLuSe9y5aJNlw#-CsXtNQwc0WLuSe9y5aJNlw"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_5GZPQKz0EeuleM-t5CAq6g#_5GZPQaz0EeuleM-t5CAq6g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_WrDnAKz1EeuleM-t5CAq6g#_WrDnAaz1EeuleM-t5CAq6g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_wYo9QM1nEeulHfspCiGMPA" name="GT" guid="_wYo9QM1nEeulHfspCiGMPA" presentationName="Glosario de Términos" briefDescription="Definición de los conceptos básicos de la Metodología de Gestión de Riesgos." categorizedElements="_YSugoM18Eeu9DYw48QRJHQ _vZrHsM10EeulHfspCiGMPA _oHkrsM13EeulHfspCiGMPA _bVdrIM13EeulHfspCiGMPA __9D9UM17Eeu9DYw48QRJHQ _NlndsM18Eeu9DYw48QRJHQ _gjMJsM12EeulHfspCiGMPA _WryU0M14EeulHfspCiGMPA _yBynMM15EeulHfspCiGMPA _TK_HkM14EeulHfspCiGMPA _R5mbYM18Eeu9DYw48QRJHQ _1HOgYM10EeulHfspCiGMPA _cvoJwM18Eeu9DYw48QRJHQ _7flCMM13EeulHfspCiGMPA _G8U84M15EeulHfspCiGMPA _oRr3sM18Eeu9DYw48QRJHQ _fX6skM16EeulHfspCiGMPA _kY_MAM11EeulHfspCiGMPA _80_A0M11EeulHfspCiGMPA _LohtoM12EeulHfspCiGMPA _kKD7AM18Eeu9DYw48QRJHQ _swrLgM18Eeu9DYw48QRJHQ _tsyyUM14EeulHfspCiGMPA">
+            <methodElementProperty xmi:id="_zByw0M1nEeulHfspCiGMPA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_v0Qq_KuTEeuuCssargsKeA" name="CoreContent" guid="_v0Qq_KuTEeuuCssargsKeA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_C2Mq0KuUEeuuCssargsKeA" name="RM_Core" guid="_C2Mq0KuUEeuuCssargsKeA" presentationName="Risk Management Core">
+          <methodElementProperty xmi:id="_C2Mq0auUEeuuCssargsKeA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_3f85YKuVEeuuCssargsKeA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_iA_A8KuWEeuuCssargsKeA" name="RGRN" guid="_iA_A8KuWEeuuCssargsKeA" presentationName="Responsable de la Gestión de Riesgos del Negocio" responsibleFor="_dF0D0MvJEeurUu0Uc60fZg _qqaI8MsTEeuTbqH7vO10mQ _V90QAMsREeuTbqH7vO10mQ _rfZgEMvrEeurUu0Uc60fZg _3CEDEMvMEeurUu0Uc60fZg _tanQsMpYEeugzOHm42dHog _o2jJMMsUEeuTbqH7vO10mQ _U4ChgMpSEeugzOHm42dHog _VWtR8Mo7EeucFriJucRSqQ _CmLlkMsUEeuTbqH7vO10mQ _yNc24MsDEeuTbqH7vO10mQ _M_4mUMr-EeuTbqH7vO10mQ">
+            <methodElementProperty xmi:id="_ylLWkKuXEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-mFtYFH1LR-c0sYcmvzZ9LQ" href="uma://-mFtYFH1LR-c0sYcmvzZ9LQ#-mFtYFH1LR-c0sYcmvzZ9LQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_qGtx8KuWEeuuCssargsKeA" name="GD" guid="_qGtx8KuWEeuuCssargsKeA" presentationName="Grupo Directivo">
+            <methodElementProperty xmi:id="_ylBlkquXEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-hd7xIU-HeAM6b0UAQX5e3w" href="uma://-hd7xIU-HeAM6b0UAQX5e3w#-hd7xIU-HeAM6b0UAQX5e3w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_sq9QUKuWEeuuCssargsKeA" name="CEO" guid="_sq9QUKuWEeuuCssargsKeA" presentationName="Director General Ejecutivo">
+            <methodElementProperty xmi:id="_ylBlkKuXEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-XGMAyBxnLXoI-nw7k9WkQw" href="uma://-XGMAyBxnLXoI-nw7k9WkQw#-XGMAyBxnLXoI-nw7k9WkQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_MEcbsKuXEeuuCssargsKeA" name="CRN" guid="_MEcbsKuXEeuuCssargsKeA" presentationName="Comité de Riesgos del Negocio ">
+            <methodElementProperty xmi:id="_yk30kKuXEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-LVlQMLfUFoTKinbAZNiMWw" href="uma://-LVlQMLfUFoTKinbAZNiMWw#-LVlQMLfUFoTKinbAZNiMWw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_P7aGMKuXEeuuCssargsKeA" name="RA" guid="_P7aGMKuXEeuuCssargsKeA" presentationName="Responsable del activo" responsibleFor="_k_7DsMpVEeugzOHm42dHog _GyLpsMvJEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_ykuqoKuXEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-WJawypUNjJ7my4DIL0iZ5Q" href="uma://-WJawypUNjJ7my4DIL0iZ5Q#-WJawypUNjJ7my4DIL0iZ5Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_SP4qQKuXEeuuCssargsKeA" name="RR" guid="_SP4qQKuXEeuuCssargsKeA" presentationName="Responsable del Riesgo" responsibleFor="_KX_MkMvmEeurUu0Uc60fZg _Z-xM0MvpEeurUu0Uc60fZg _o2jJMMsUEeuTbqH7vO10mQ">
+            <methodElementProperty xmi:id="_ykk5oauXEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-oLpYbYgWSAKFKgPDKAL_fQ" href="uma://-oLpYbYgWSAKFKgPDKAL_fQ#-oLpYbYgWSAKFKgPDKAL_fQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_e9rLgKuXEeuuCssargsKeA" name="EV" guid="_e9rLgKuXEeuuCssargsKeA" presentationName="Evaluador" responsibleFor="_3PoK0MpUEeugzOHm42dHog">
+            <methodElementProperty xmi:id="_ykk5oKuXEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-twZtETm2vcuI_sJSZmEZ3A" href="uma://-twZtETm2vcuI_sJSZmEZ3A#-twZtETm2vcuI_sJSZmEZ3A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_-0BSAKuXEeuuCssargsKeA" name="RC" guid="_-0BSAKuXEeuuCssargsKeA" presentationName="Responsable de la Capacitación" responsibleFor="_EFDqMMvLEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_Be9_5KuZEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-E1XehrRAKic1r2OOt0_-iw" href="uma://-E1XehrRAKic1r2OOt0_-iw#-E1XehrRAKic1r2OOt0_-iw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_LzNsUKuYEeuuCssargsKeA" name="RGRH" guid="_LzNsUKuYEeuuCssargsKeA" presentationName="Responsable de la Gestión de Recursos Humanos" responsibleFor="_DbWbYMsGEeuTbqH7vO10mQ _bVGCMMvLEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_Be9_4quZEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZR3PNjGQjL7Rd88Arb_yjg" href="uma://-ZR3PNjGQjL7Rd88Arb_yjg#-ZR3PNjGQjL7Rd88Arb_yjg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_hDbhoKuYEeuuCssargsKeA" name="RGRA" guid="_hDbhoKuYEeuuCssargsKeA" presentationName="Responsable de la Gestión de Riesgos del Activo" responsibleFor="_s9WWgMvEEeurUu0Uc60fZg _4QTRcMvEEeurUu0Uc60fZg _iu5eIMvHEeurUu0Uc60fZg _Cr7JgMvKEeurUu0Uc60fZg _FF0rAMvIEeurUu0Uc60fZg _UOm-IMu_EeurUu0Uc60fZg _g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg _p-Rd0MvmEeurUu0Uc60fZg _AsRlAMsREeuTbqH7vO10mQ _C_v24MvqEeurUu0Uc60fZg _ISBYAMpZEeugzOHm42dHog _o2jJMMsUEeuTbqH7vO10mQ _XScaMMvNEeurUu0Uc60fZg _ky9_8MvNEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_Be9_4KuZEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-EkAXQzmx4NQSTXXdlKuXyw" href="uma://-EkAXQzmx4NQSTXXdlKuXyw#-EkAXQzmx4NQSTXXdlKuXyw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_osvcYKuYEeuuCssargsKeA" name="META" guid="_osvcYKuYEeuuCssargsKeA" presentationName="Miembros del Equipo de Trabajo del Activo">
+            <methodElementProperty xmi:id="_Be0O4KuZEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZVKqcLZ9Cu7l-_I5Gk2kWw" href="uma://-ZVKqcLZ9Cu7l-_I5Gk2kWw#-ZVKqcLZ9Cu7l-_I5Gk2kWw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_zAHJoKuYEeuuCssargsKeA" name="EAS" guid="_zAHJoKuYEeuuCssargsKeA" presentationName="Stakeholders Externos del Activo">
+            <methodElementProperty xmi:id="_BerE8KuZEeuuCssargsKeA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ZKmch_o6Y0_etG0v9ZhT4w" href="uma://-ZKmch_o6Y0_etG0v9ZhT4w#-ZKmch_o6Y0_etG0v9ZhT4w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="_ZQMBwMo3EeucFriJucRSqQ" name="D1_BPGRI" guid="_ZQMBwMo3EeucFriJucRSqQ" presentationName="Buenas prácticas de gestión de riesgos de la industria" briefDescription="Comprende una serie de documentos (estándares, frameworks, métodos, modelos, etc.) los cuales son ampliamente reconocidos por la industria y que tienen como finalidad ayudar en la implementación de las prácticas de gestión de riesgos al interior de la organización.">
+            <methodElementProperty xmi:id="_msG0UMo3EeucFriJucRSqQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VWtR8Mo7EeucFriJucRSqQ" name="WP_EGR" guid="_VWtR8Mo7EeucFriJucRSqQ" presentationName="Estrategia de Gestión de Riesgos" briefDescription="Este documento recoge cada uno de los elementos necesarios que han sido seleccionados y definidos por la organización para apoyar y soportar las prácticas de gestión de riesgos, conforme a las necesidades y objetivos estratégicos para hacer frente a los riesgos." templates="_FLZPAMo9EeucFriJucRSqQ">
+            <methodElementProperty xmi:id="_Zbij4Mo8EeucFriJucRSqQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_FLZPAMo9EeucFriJucRSqQ" name="P_EGR" guid="_FLZPAMo9EeucFriJucRSqQ" presentationName="Estrategia de Gestión de Riesgos" briefDescription="Plantilla para la definición de la Estrategia de Gestión de Riesgos de la organización.">
+            <methodElementProperty xmi:id="_lCAbQMo9EeucFriJucRSqQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-585kIDc8DgeOInKOWCPeBg" href="uma://-585kIDc8DgeOInKOWCPeBg#-585kIDc8DgeOInKOWCPeBg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_FsHYoMpMEeugzOHm42dHog" name="WP_PEO" guid="_FsHYoMpMEeugzOHm42dHog" presentationName="Plan estratégico de la organización" briefDescription="Documento que recoge los objetivos estratégicos de una organización y que además establece la hoja de ruta para lograrlos.">
+            <methodElementProperty xmi:id="_aXRZEMpMEeugzOHm42dHog" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_f_QDUMpOEeugzOHm42dHog" name="WP_DA" guid="_f_QDUMpOEeugzOHm42dHog" presentationName="Documentación de los activos" briefDescription="Documentación que establece la información específica (textual y/o grafica) requerida para soportar cada una de las tareas de gestión o ejecución de un activo de la organización.">
+            <methodElementProperty xmi:id="_lnxyEMpOEeugzOHm42dHog" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_U4ChgMpSEeugzOHm42dHog" name="WP_AR" guid="_U4ChgMpSEeugzOHm42dHog" presentationName="Asignación de Recursos" briefDescription="Documento que contiene la información detallada de un recurso de gestión en función de la asignación de una tarea en particular, rol, funciones y responsabilidad que debe cumplir para el logro de esta.">
+            <methodElementProperty xmi:id="_dr3HkMpSEeugzOHm42dHog" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Qh2H4MpTEeugzOHm42dHog" name="WP_IE" guid="_Qh2H4MpTEeugzOHm42dHog" presentationName="Informe de evaluación" briefDescription="Documento que contiene el resultado de la evaluación a un activo de la organización. Este informe, deberá incluir: fecha de realización, responsables,  participantes y una descripción detallada de los resultados de la evaluación en función de fortalezas, hallazgos y oportunidades de mejora." templates="_Fe-lcMpVEeugzOHm42dHog">
+            <methodElementProperty xmi:id="_1-CnIMpUEeugzOHm42dHog" name="me_edited" value="true"/>
+            <containedArtifacts xmi:id="_3PoK0MpUEeugzOHm42dHog" name="WP_IE_EGR" guid="_3PoK0MpUEeugzOHm42dHog" presentationName="Informe de evaluación a la EGR" templates="_Fe-lcMpVEeugzOHm42dHog">
+              <methodElementProperty xmi:id="_-qOUIMpUEeugzOHm42dHog" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_k_7DsMpVEeugzOHm42dHog" name="WP_IE_PGRA" guid="_k_7DsMpVEeugzOHm42dHog" presentationName="Informe de evaluación al PGR del activo" templates="_Fe-lcMpVEeugzOHm42dHog">
+              <methodElementProperty xmi:id="_E3GQoMpWEeugzOHm42dHog" name="me_edited" value="true"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_Fe-lcMpVEeugzOHm42dHog" name="P_IE" guid="_Fe-lcMpVEeugzOHm42dHog" presentationName="Informe de evaluación" briefDescription="Plantilla que permite elaborar un informe de evaluación de un activo de la organización. ">
+            <methodElementProperty xmi:id="_hUvycMpVEeugzOHm42dHog" name="me_edited" value="true"/>
+            <presentation xmi:id="-JVoa6rF00K3xabU0PO1ibg" href="uma://-JVoa6rF00K3xabU0PO1ibg#-JVoa6rF00K3xabU0PO1ibg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_jEBQUMpYEeugzOHm42dHog" name="WP_PM" guid="_jEBQUMpYEeugzOHm42dHog" presentationName="Plan de Mejora" briefDescription="Documento que recoge las propuestas resultantes del análisis de las sugerencias y oportunidades de mejora realizadas a un activo de la organización.">
+            <methodElementProperty xmi:id="_pBxBIMpYEeugzOHm42dHog" name="me_edited" value="true"/>
+            <containedArtifacts xmi:id="_tanQsMpYEeugzOHm42dHog" name="WP_PM_EGR" guid="_tanQsMpYEeugzOHm42dHog" presentationName="Plan de Mejora a la EGR">
+              <methodElementProperty xmi:id="_ydSgYMpYEeugzOHm42dHog" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_ISBYAMpZEeugzOHm42dHog" name="WP_PM_PGRA" guid="_ISBYAMpZEeugzOHm42dHog" presentationName="Plan de Mejora al PGR del Activo">
+              <methodElementProperty xmi:id="_MAZHMMpZEeugzOHm42dHog" name="me_edited" value="true"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_M_4mUMr-EeuTbqH7vO10mQ" name="WP_PR" guid="_M_4mUMr-EeuTbqH7vO10mQ" presentationName="Política de Riesgos" briefDescription="Documento que formaliza las directrices estratégicas definidas por la organización para hacer frente a los riesgos y que servirán para alinear las prácticas de gestión de riesgos a nivel organizacional." templates="_vn7GcMsAEeuTbqH7vO10mQ">
+            <methodElementProperty xmi:id="_uX2bIMr_EeuTbqH7vO10mQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_vn7GcMsAEeuTbqH7vO10mQ" name="P_PR" guid="_vn7GcMsAEeuTbqH7vO10mQ" presentationName="Política de Riesgos">
+            <methodElementProperty xmi:id="_3PmpgMsAEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-4hf0yOtJGlMa4wO5aXE_RA" href="uma://-4hf0yOtJGlMa4wO5aXE_RA#-4hf0yOtJGlMa4wO5aXE_RA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_yNc24MsDEeuTbqH7vO10mQ" name="WP_PC_EGR" guid="_yNc24MsDEeuTbqH7vO10mQ" presentationName="Plan de capacitación de la EGR" briefDescription="Documento que recoge el plan y las estrategias necesarias para capacitar los recursos humanos en temáticas específicas y necesarias demandadas por una organización.">
+            <methodElementProperty xmi:id="_4og10MsDEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_AVGuEMsEEeuTbqH7vO10mQ" name="P_Acta" guid="_AVGuEMsEEeuTbqH7vO10mQ" presentationName="Acta" briefDescription="Plantilla para soportar la redacción de las diferentes actas que permitirán  certificar las reuniones llevadas a cabo en una organización.">
+            <methodElementProperty xmi:id="_RDiEIMsNEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-fmNRSJCzZnwWUvk59CCwQw" href="uma://-fmNRSJCzZnwWUvk59CCwQw#-fmNRSJCzZnwWUvk59CCwQw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xR4UkMsFEeuTbqH7vO10mQ" name="WP_PCOM" guid="_xR4UkMsFEeuTbqH7vO10mQ" presentationName="Plan de comunicación" briefDescription="Documento que sirve de hoja de ruta para comunicar las intenciones de la organización respecto a una temática específica y un público objetivo que puede ser interno o externo.">
+            <methodElementProperty xmi:id="_CkwKkMsGEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <containedArtifacts xmi:id="_DbWbYMsGEeuTbqH7vO10mQ" name="WP_PCOM_EGR" guid="_DbWbYMsGEeuTbqH7vO10mQ" presentationName="Plan de comunicación de la EGR">
+              <methodElementProperty xmi:id="_HeEp8MsGEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_FF0rAMvIEeurUu0Uc60fZg" name="WP_PCOM_PGRA" guid="_FF0rAMvIEeurUu0Uc60fZg" presentationName="Plan de comunicación del PGR del Activo">
+              <methodElementProperty xmi:id="_R5kDQMvIEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_SzYGkMsMEeuTbqH7vO10mQ" name="WP_Acta" guid="_SzYGkMsMEeuTbqH7vO10mQ" presentationName="Acta" briefDescription="Documento que recoge los temas tratados y el desarrollo de los mismo durante las reuniones realizadas, así como también los compromisos/acuerdos a los que se llegan cada uno de los asistentes, con el fin de tener un registro y poder certificar lo acontecido." templates="_AVGuEMsEEeuTbqH7vO10mQ">
+            <methodElementProperty xmi:id="_ZGGo4MsMEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <containedArtifacts xmi:id="_7vR88MvIEeurUu0Uc60fZg" name="WP_Acta_Apr_EGR" guid="_7vR88MvIEeurUu0Uc60fZg" presentationName="Acta de aprobación del documento de la EGR" templates="_AVGuEMsEEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_DTxCEMvJEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_GyLpsMvJEeurUu0Uc60fZg" name="WP_Acta_Apr_PGRA" guid="_GyLpsMvJEeurUu0Uc60fZg" presentationName="Acta de aprobación del PGR del Activo" templates="_AVGuEMsEEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_SX0QEMvJEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_dF0D0MvJEeurUu0Uc60fZg" name="WP_Acta_AFR_EGR" guid="_dF0D0MvJEeurUu0Uc60fZg" presentationName="Acta de asignación de funciones y responsabilidades en la EGR" templates="_AVGuEMsEEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_B9WzUMvKEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_Cr7JgMvKEeurUu0Uc60fZg" name="WP_Acta_AFR_GRA" guid="_Cr7JgMvKEeurUu0Uc60fZg" presentationName="Acta de asignación de funciones y responsabilidades en la GR del Activo" templates="_AVGuEMsEEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_O70N0MvKEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0F3JAMsOEeuTbqH7vO10mQ" name="WP_IV" guid="_0F3JAMsOEeuTbqH7vO10mQ" presentationName="Informe de la validación" briefDescription="Documento que recoge los resultados de la validación de un activo de la organización, el cual deberá incluir: fecha de realización, responsables, participantes y una descripción detallada de los hallazgos encontrados" templates="_-XcGgMsOEeuTbqH7vO10mQ">
+            <methodElementProperty xmi:id="_4xMPsMsOEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <containedArtifacts xmi:id="_CmLlkMsUEeuTbqH7vO10mQ" name="WP_IV_EGR" guid="_CmLlkMsUEeuTbqH7vO10mQ" presentationName="Informe de validación de la EGR" templates="_-XcGgMsOEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_FknFkMsUEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_3CEDEMvMEeurUu0Uc60fZg" name="WP_IV_PM_EGR" guid="_3CEDEMvMEeurUu0Uc60fZg" presentationName="Informe de validación al plan de mejora a la EGR " templates="_-XcGgMsOEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_CIAcwMvNEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_XScaMMvNEeurUu0Uc60fZg" name="WP_IV_CR" guid="_XScaMMvNEeurUu0Uc60fZg" presentationName="Informes de validación a los Criterios del riesgo " templates="_-XcGgMsOEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_eXnGEMvNEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_ky9_8MvNEeurUu0Uc60fZg" name="WP_IV_PGRA" guid="_ky9_8MvNEeurUu0Uc60fZg" presentationName="Informes de validación al PGR del Activo" templates="_-XcGgMsOEeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_q4dXgMvNEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_-XcGgMsOEeuTbqH7vO10mQ" name="P_IV" guid="_-XcGgMsOEeuTbqH7vO10mQ" presentationName="Informe de Validación" briefDescription="Plantilla que permite elaborar un informe de la validación de un activo de la organización. ">
+            <methodElementProperty xmi:id="_Pd9ikMsPEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-vh1AHx6EiREwP0Zs111Yzw" href="uma://-vh1AHx6EiREwP0Zs111Yzw#-vh1AHx6EiREwP0Zs111Yzw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_8D6SwMsQEeuTbqH7vO10mQ" name="WP_IS" guid="_8D6SwMsQEeuTbqH7vO10mQ" presentationName="Informe de seguimiento" briefDescription="Documento que contiene el registro del avance de un elemento constitutivo de un activo de la organización, en donde se refleja la situación actual, los problemas y riesgo evidenciados. Así como también, los compromisos para remediar cada una de estas situaciones. " templates="_EwUpQMsREeuTbqH7vO10mQ">
+            <methodElementProperty xmi:id="_AP2uwMsREeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <containedArtifacts xmi:id="_AsRlAMsREeuTbqH7vO10mQ" name="WP_IS_PGRA" guid="_AsRlAMsREeuTbqH7vO10mQ" presentationName="Informe de seguimiento al PGR del activo" templates="_EwUpQMsREeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_DtX-gMsREeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_V90QAMsREeuTbqH7vO10mQ" name="WP_IS_EGR" guid="_V90QAMsREeuTbqH7vO10mQ" presentationName="Informe de seguimiento de la EGR" templates="_EwUpQMsREeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_ogyxEMsTEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_EFDqMMvLEeurUu0Uc60fZg" name="WP_IS_PCEGR" guid="_EFDqMMvLEeurUu0Uc60fZg" presentationName="Informes de seguimiento al plan de capacitación de la EGR" templates="_EwUpQMsREeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_JEn7gMvLEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_bVGCMMvLEeurUu0Uc60fZg" name="WP_IS_PCOM_EGR" guid="_bVGCMMvLEeurUu0Uc60fZg" presentationName="Informes de seguimiento al plan de comunicación de la EGR" templates="_EwUpQMsREeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_iNxKMMvLEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_p-Rd0MvmEeurUu0Uc60fZg" name="WP_IS_PTR" guid="_p-Rd0MvmEeurUu0Uc60fZg" presentationName="Informe de seguimiento al plan de tratamiento de riesgos" templates="_EwUpQMsREeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_up5fcMvmEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_C_v24MvqEeurUu0Uc60fZg" name="WP_IS_PM_PGRA" guid="_C_v24MvqEeurUu0Uc60fZg" presentationName="Informe de seguimiento del Plan de mejora al PGR del activo" templates="_EwUpQMsREeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_ra6eIMvqEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_rfZgEMvrEeurUu0Uc60fZg" name="WP_IS_PM_EGR" guid="_rfZgEMvrEeurUu0Uc60fZg" presentationName="Informe de seguimiento del Plan de mejora a la EGR" templates="_EwUpQMsREeuTbqH7vO10mQ">
+              <methodElementProperty xmi:id="_4YWIcMvrEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_EwUpQMsREeuTbqH7vO10mQ" name="P_IS" guid="_EwUpQMsREeuTbqH7vO10mQ" presentationName="Informe de Seguimiento" briefDescription="Plantilla que permite elaborar un informe de seguimiento a un activo de la organización.">
+            <methodElementProperty xmi:id="_Of9XUMsREeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Osuo3-9IW0YRdJkZ0VBpcw" href="uma://-Osuo3-9IW0YRdJkZ0VBpcw#-Osuo3-9IW0YRdJkZ0VBpcw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_k701gMsTEeuTbqH7vO10mQ" name="WP_IM" guid="_k701gMsTEeuTbqH7vO10mQ" presentationName="Informe de medición" briefDescription="Documento que recoge los resultados de la medición de un activo de la organización y que servirá como punto de partida para llevar a cabo la evaluación del activo y determinar las acciones de mejora necesarias.">
+            <methodElementProperty xmi:id="_ogpAEMsTEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            <containedArtifacts xmi:id="_qqaI8MsTEeuTbqH7vO10mQ" name="WP_IM_EGR" guid="_qqaI8MsTEeuTbqH7vO10mQ" presentationName="Informe de medición de la EGR">
+              <methodElementProperty xmi:id="_wan0EMsTEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+            </containedArtifacts>
+            <containedArtifacts xmi:id="_M5RBEMvnEeurUu0Uc60fZg" name="WP_IM_PGR" guid="_M5RBEMvnEeurUu0Uc60fZg" presentationName="Informe de medición al proceso de GR">
+              <methodElementProperty xmi:id="_Qd7aoMvnEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            </containedArtifacts>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_o2jJMMsUEeuTbqH7vO10mQ" name="WP_LA" guid="_o2jJMMsUEeuTbqH7vO10mQ" presentationName="Lecciones aprendidas" briefDescription="Documento que recopila el conocimiento adquirido de un activo de la organización durante su ciclo de vida. Estas lecciones aprendidas podrán ser compartidas a toda la organización para generar un aprendizaje y una mejora continua de sus activos.">
+            <methodElementProperty xmi:id="_lMBQ0MsXEeuTbqH7vO10mQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_UOm-IMu_EeurUu0Uc60fZg" name="WP_PGRA" guid="_UOm-IMu_EeurUu0Uc60fZg" presentationName="Plan de Gestión de Riesgos del Activo" briefDescription="Documento que proporciona los lineamientos estratégicos y de gestión para llevar a cabo las prácticas de gestión de riesgos en un activo de la organización." templates="_fcvDcMu_EeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_cxWbQMu_EeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_fcvDcMu_EeurUu0Uc60fZg" name="P_PGRA" guid="_fcvDcMu_EeurUu0Uc60fZg" presentationName="Plan de Gestión de Riesgos del activo" briefDescription="Plantilla que sirve de guía para la definición de un plan de gestión de riesgos de un activo de la organización.">
+            <methodElementProperty xmi:id="_NOsJMMvAEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            <presentation xmi:id="-yhe9j96K-DUfRWnuAF1DCg" href="uma://-yhe9j96K-DUfRWnuAF1DCg#-yhe9j96K-DUfRWnuAF1DCg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_s9WWgMvEEeurUu0Uc60fZg" name="WP_LCFRA" guid="_s9WWgMvEEeurUu0Uc60fZg" presentationName="Lista de categorías y factores de riesgos del activo" briefDescription="Documento que recoge las categorías y factores de riesgos identificados y definidas por la organización, las cuales pueden ser consideradas como relevantes para un activo debido a que pueden tener incidencia en el logro de sus objetivos y que pueden estar en el contexto interno o externo de la organización.">
+            <methodElementProperty xmi:id="_zO83cMvEEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_4QTRcMvEEeurUu0Uc60fZg" name="WP_LCSRA" guid="_4QTRcMvEEeurUu0Uc60fZg" presentationName="Lista de categorías y subcategorías de riesgos del activo" briefDescription="Documento que recoge las categorías y subcategorías de riesgos comunes, definidas y utilizadas por una organización para llevar a cabo la identificación y clasificación de los riesgos que afecta a un activo.">
+            <methodElementProperty xmi:id="_IiwMQMvFEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_iu5eIMvHEeurUu0Uc60fZg" name="WP_CR" guid="_iu5eIMvHEeurUu0Uc60fZg" presentationName="Criterios del riesgo" briefDescription="Documento que recoge los criterios o parámetros del riesgo definidos por una organización, los cuales deberán ser considerados para  soportar y apoyar  las prácticas de gestión de riesgos de un activo, en función de la cantidad y el tipo de riesgo que una organización está dispuesta asumir o no para el logro de los objetivos de un activo." templates="_pzdtEMvHEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_mmKDkMvHEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_pzdtEMvHEeurUu0Uc60fZg" name="P_CR" guid="_pzdtEMvHEeurUu0Uc60fZg" presentationName="Criterios del Riesgos" briefDescription="Plantilla que permite definir los criterios o parametros del riesgos necesarios para soportar y apoyar las prácticas de gestión de riesgos de un activo de la organización.">
+            <methodElementProperty xmi:id="_A4GGUMvIEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            <presentation xmi:id="-4pElp7V0qGkf7VEQGkpSdw" href="uma://-4pElp7V0qGkf7VEQGkpSdw#-4pElp7V0qGkf7VEQGkpSdw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_g89dEMvgEeurUu0Uc60fZg" name="WP_PRiesgo" guid="_g89dEMvgEeurUu0Uc60fZg" presentationName="Perfil de riesgos del activo" briefDescription="Documento que contiene los riesgos a los cuales está expuesto un activo de la organización junto a su documentación asociada a su gestión, la cual, puede estar orientada a la prevención y/o mitigación de los efectos negativos del riesgo o al aprovechamiento de los efectos positivos del riesgo en beneficio de la organización." templates="_x9tBQMvgEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_qDSIYMvgEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_x9tBQMvgEeurUu0Uc60fZg" name="P_PRiesgo" guid="_x9tBQMvgEeurUu0Uc60fZg" presentationName="Perfil de Riesgo del activo" briefDescription="Plantilla para la creación del perfil de riesgo de un activo de la organización.">
+            <methodElementProperty xmi:id="_A9vR8MvhEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            <presentation xmi:id="-kBtoNvjO-vVGUWco48WLkg" href="uma://-kBtoNvjO-vVGUWco48WLkg#-kBtoNvjO-vVGUWco48WLkg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_lfFnoMvkEeurUu0Uc60fZg" name="WP_RR" guid="_lfFnoMvkEeurUu0Uc60fZg" presentationName="Registro del riesgo" briefDescription="Documento que permite consolidar la información asociada un riesgo que afecta a un activo de la organización." templates="_qJh9gMvkEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_o9gPQMvkEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_qJh9gMvkEeurUu0Uc60fZg" name="P_RR" guid="_qJh9gMvkEeurUu0Uc60fZg" presentationName="Registro de Riesgos" briefDescription="Plantilla que permite crear el registro del riesgo de un activo de la organización. ">
+            <methodElementProperty xmi:id="_6WU8QMvkEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            <presentation xmi:id="-r-ZO5QlgX3IhtuS3l4JMeA" href="uma://-r-ZO5QlgX3IhtuS3l4JMeA#-r-ZO5QlgX3IhtuS3l4JMeA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KX_MkMvmEeurUu0Uc60fZg" name="WP_TR" guid="_KX_MkMvmEeurUu0Uc60fZg" presentationName="Plan de tratamiento de riesgos" briefDescription="Documento que recoge cada una de las acciones definidas por los miembros de la organización para llevar a cabo la prevención o mitigación de los riesgos asociados a un activo." templates="_PjAf8MvmEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_iqOocMvmEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_PjAf8MvmEeurUu0Uc60fZg" name="P_TR" guid="_PjAf8MvmEeurUu0Uc60fZg" presentationName="Plan de tratamiento de Riesgos" briefDescription="Plantilla para definir el tratamiento de los riesgos que afectan un activo de la organización.">
+            <methodElementProperty xmi:id="_ip7tgMvmEeurUu0Uc60fZg" name="me_edited" value="true"/>
+            <presentation xmi:id="-63wx4EnbtcVbWzXDrnNyeg" href="uma://-63wx4EnbtcVbWzXDrnNyeg#-63wx4EnbtcVbWzXDrnNyeg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Z-xM0MvpEeurUu0Uc60fZg" name="WP_ISR" guid="_Z-xM0MvpEeurUu0Uc60fZg" presentationName="Informe de seguimiento a los riesgos" briefDescription="Documento que permite recoger las acciones de seguimiento a un riesgo individual que afecta un activo de la organización, el cual deberá incluir: estado del riesgo, evaluación de las acciones respuesta existentes, propuesta de acciones de respuesta adicionales o de mejora a las existentes, evaluación de los controles del riesgo, propuesta de controles adicionales o mejora a los existentes y las lecciones aprendidas respecto al tratamiento del riesgo.  " templates="_ha_t0MvpEeurUu0Uc60fZg">
+            <methodElementProperty xmi:id="_dlElIMvpEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_ha_t0MvpEeurUu0Uc60fZg" name="P_ISR" guid="_ha_t0MvpEeurUu0Uc60fZg" presentationName="Informe de Seguimiento a los Riesgos" briefDescription="Plantilla que permite elaborar un informe de seguimiento a un riesgo individual de un activo de la organización.">
+            <methodElementProperty xmi:id="_s3tBsMvpEeurUu0Uc60fZg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_bSQhwM1ZEeulHfspCiGMPA" name="WP_PGA" guid="_bSQhwM1ZEeulHfspCiGMPA" presentationName="Plan de gestión del activo" briefDescription="Documento que establece las acciones necesarias para lograr los objetivos de un activo de la organización y que además sirve como hoja de ruta para su gestión.">
+            <methodElementProperty xmi:id="_fsLvYM1ZEeulHfspCiGMPA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TsggoKuUEeuuCssargsKeA" name="RM_Methodology" guid="_TsggoKuUEeuuCssargsKeA" presentationName="Metodología de Gestión de Riesgos">
+          <methodElementProperty xmi:id="_TsggoauUEeuuCssargsKeA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_3fzIY6uVEeuuCssargsKeA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_u9UmcKuUEeuuCssargsKeA" name="EGRN" guid="_u9UmcKuUEeuuCssargsKeA" presentationName="EGRN">
+            <methodElementProperty xmi:id="_u9eXcKuUEeuuCssargsKeA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_3fzIYauVEeuuCssargsKeA" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_zvMDAKyREeuVEdXlov3DVQ" name="pakage_supporting" value="false"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_-sOIQKuUEeuuCssargsKeA" name="A1_PER" guid="_-sOIQKuUEeuuCssargsKeA">
+              <methodElementProperty xmi:id="_-sOIQauUEeuuCssargsKeA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_3fp-cauVEeuuCssargsKeA" name="me_edited" value="true"/>
+              <methodElementProperty xmi:id="_zvMDAayREeuVEdXlov3DVQ" name="pakage_supporting" value="false"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_45zoQKuVEeuuCssargsKeA" name="EGRN_A1.02" guid="_45zoQKuVEeuuCssargsKeA" presentationName="A1.02: Identificar las necesidades actuales de la organización frente al riesgo" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" mandatoryInput="_f_QDUMpOEeugzOHm42dHog" additionallyPerformedBy="_sq9QUKuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_ylUggquXEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-q4VsILrHRfupKtrKpxPsSA" href="uma://-q4VsILrHRfupKtrKpxPsSA#-q4VsILrHRfupKtrKpxPsSA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_U-_xUKuWEeuuCssargsKeA" name="EGRN_A1.01" guid="_U-_xUKuWEeuuCssargsKeA" presentationName="A1.01: Formular o actualizar las políticas de riesgos del negocio" conceptsAndPapers="_ZQMBwMo3EeucFriJucRSqQ" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" output="_M_4mUMr-EeuTbqH7vO10mQ" additionallyPerformedBy="_sq9QUKuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA" optionalInput="_M_4mUMr-EeuTbqH7vO10mQ">
+                <methodElementProperty xmi:id="_ylUggKuXEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-q3XEUwdEBp0ySVXNaYmSBg" href="uma://-q3XEUwdEBp0ySVXNaYmSBg#-q3XEUwdEBp0ySVXNaYmSBg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Y1zq0KuWEeuuCssargsKeA" name="EGRN_A1.03" guid="_Y1zq0KuWEeuuCssargsKeA" presentationName="A1.03: Desarrollar o actualizar los objetivos de la EGR y métricas claves" mandatoryInput="_VWtR8Mo7EeucFriJucRSqQ" output="_VWtR8Mo7EeucFriJucRSqQ">
+                <methodElementProperty xmi:id="_ylLWkquXEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-_lnUuQXJrC1aXIppFcGjyA" href="uma://-_lnUuQXJrC1aXIppFcGjyA#-_lnUuQXJrC1aXIppFcGjyA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_98wrIKudEeuuCssargsKeA" name="EGRN_A1.04" guid="_98wrIKudEeuuCssargsKeA" presentationName="A1.04. Definir o actualizar el alcance de la EGR" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" output="_VWtR8Mo7EeucFriJucRSqQ" additionallyPerformedBy="_qGtx8KuWEeuuCssargsKeA _sq9QUKuWEeuuCssargsKeA" optionalInput="_VWtR8Mo7EeucFriJucRSqQ">
+                <methodElementProperty xmi:id="_QYPH8KueEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-WaBh2wUMZsdimQr9zkno-g" href="uma://-WaBh2wUMZsdimQr9zkno-g#-WaBh2wUMZsdimQr9zkno-g"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jRyn4KueEeuuCssargsKeA" name="EGRN_A1.06" guid="_jRyn4KueEeuuCssargsKeA" presentationName="A1.06: Definir o actualizar los recursos de gestión de riesgos del negocio" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" output="_U4ChgMpSEeugzOHm42dHog" additionallyPerformedBy="_qGtx8KuWEeuuCssargsKeA _LzNsUKuYEeuuCssargsKeA" optionalInput="_U4ChgMpSEeugzOHm42dHog">
+                <methodElementProperty xmi:id="_0jLQIKueEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-9X96jH6HZB88g5YJyMsnAA" href="uma://-9X96jH6HZB88g5YJyMsnAA#-9X96jH6HZB88g5YJyMsnAA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DxaNgKuiEeuuCssargsKeA" name="EGRN_A1.07" guid="_DxaNgKuiEeuuCssargsKeA" presentationName="A1.07: Establecer o actualizar la periodicidad para el seguimiento y evaluación de la EGR" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" output="_VWtR8Mo7EeucFriJucRSqQ" additionallyPerformedBy="_e9rLgKuXEeuuCssargsKeA" optionalInput="_VWtR8Mo7EeucFriJucRSqQ">
+                <methodElementProperty xmi:id="_TmG1UKuiEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-iqOm55kUwslqu4wMYsIkTQ" href="uma://-iqOm55kUwslqu4wMYsIkTQ#-iqOm55kUwslqu4wMYsIkTQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1unWQKujEeuuCssargsKeA" name="EGRN_A1.05" guid="_1unWQKujEeuuCssargsKeA" presentationName="A1.05: Definir o actualizar el proceso de GR" conceptsAndPapers="_ZQMBwMo3EeucFriJucRSqQ" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" output="_VWtR8Mo7EeucFriJucRSqQ" optionalInput="_VWtR8Mo7EeucFriJucRSqQ">
+                <methodElementProperty xmi:id="_TBA5UKukEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-ZMOts_zOCeLUrmB76-WPMQ" href="uma://-ZMOts_zOCeLUrmB76-WPMQ#-ZMOts_zOCeLUrmB76-WPMQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5r09QKukEeuuCssargsKeA" name="EGRN_A1.08" guid="_5r09QKukEeuuCssargsKeA" presentationName="A1.08: Generar, validar y aprobar el documento de la EGR" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" mandatoryInput="_FsHYoMpMEeugzOHm42dHog" output="_7vR88MvIEeurUu0Uc60fZg _VWtR8Mo7EeucFriJucRSqQ _CmLlkMsUEeuTbqH7vO10mQ" additionallyPerformedBy="_sq9QUKuWEeuuCssargsKeA" optionalInput="_VWtR8Mo7EeucFriJucRSqQ">
+                <methodElementProperty xmi:id="_KYUIsKulEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-tq_BKYeztPv54Moa7J5zmg" href="uma://-tq_BKYeztPv54Moa7J5zmg#-tq_BKYeztPv54Moa7J5zmg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BTv7cKumEeuuCssargsKeA" name="EGRN_A1.09" guid="_BTv7cKumEeuuCssargsKeA" presentationName="A1.09: Definir y aprobar el plan de capacitación de la EGR" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA _-0BSAKuXEeuuCssargsKeA" mandatoryInput="_VWtR8Mo7EeucFriJucRSqQ" output="_yNc24MsDEeuTbqH7vO10mQ" additionallyPerformedBy="_sq9QUKuWEeuuCssargsKeA _LzNsUKuYEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_IvO1kKumEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-dYyTY24tJhc7K3YJBtPN2Q" href="uma://-dYyTY24tJhc7K3YJBtPN2Q#-dYyTY24tJhc7K3YJBtPN2Q"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_l3r20L9MEeuXwcSzT7huYg" name="EGRN_A1.10" guid="_l3r20L9MEeuXwcSzT7huYg" presentationName="A1.10: Definir y aprobar el plan de comunicacion de la EGR" performedBy="_LzNsUKuYEeuuCssargsKeA" mandatoryInput="_VWtR8Mo7EeucFriJucRSqQ" output="_DbWbYMsGEeuTbqH7vO10mQ" additionallyPerformedBy="_sq9QUKuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA _iA_A8KuWEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_raEhUL9MEeuXwcSzT7huYg" name="me_edited" value="true"/>
+                <presentation xmi:id="-U8FPzxhGZu0MneahkdHR6g" href="uma://-U8FPzxhGZu0MneahkdHR6g#-U8FPzxhGZu0MneahkdHR6g"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RREjgKuVEeuuCssargsKeA" name="A2_PI" guid="_RREjgKuVEeuuCssargsKeA">
+              <methodElementProperty xmi:id="_RREjgauVEeuuCssargsKeA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_3fgNcauVEeuuCssargsKeA" name="me_edited" value="true"/>
+              <methodElementProperty xmi:id="_zvMDAqyREeuVEdXlov3DVQ" name="pakage_supporting" value="false"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FlOwAKusEeuuCssargsKeA" name="EGRN_A2.01" guid="_FlOwAKusEeuuCssargsKeA" presentationName="A2.01: Asignar y notificar las funciones y responsabilidades a los recursos de gestión" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" mandatoryInput="_VWtR8Mo7EeucFriJucRSqQ" output="_dF0D0MvJEeurUu0Uc60fZg">
+                <methodElementProperty xmi:id="_OWZqsKusEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-fQRyb0I3OVc732ju0thdNQ" href="uma://-fQRyb0I3OVc732ju0thdNQ#-fQRyb0I3OVc732ju0thdNQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cuxMgKuuEeuuCssargsKeA" name="EGRN_A2.02" guid="_cuxMgKuuEeuuCssargsKeA" presentationName="A2.02: Capacitar a la organizacion en la EGR" performedBy="_-0BSAKuXEeuuCssargsKeA _LzNsUKuYEeuuCssargsKeA" mandatoryInput="_yNc24MsDEeuTbqH7vO10mQ _DbWbYMsGEeuTbqH7vO10mQ" output="_bVGCMMvLEeurUu0Uc60fZg _EFDqMMvLEeurUu0Uc60fZg">
+                <methodElementProperty xmi:id="_vu_VIKuuEeuuCssargsKeA" name="me_edited" value="true"/>
+                <presentation xmi:id="-Dxtmzmj2Ch0Kcj0reb9E0g" href="uma://-Dxtmzmj2Ch0Kcj0reb9E0g#-Dxtmzmj2Ch0Kcj0reb9E0g"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_blxtgKuVEeuuCssargsKeA" name="A3_SEM" guid="_blxtgKuVEeuuCssargsKeA">
+              <methodElementProperty xmi:id="_blxtgauVEeuuCssargsKeA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_3fXDgKuVEeuuCssargsKeA" name="me_edited" value="true"/>
+              <methodElementProperty xmi:id="_zvMDA6yREeuVEdXlov3DVQ" name="pakage_supporting" value="false"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Tp2TIKwhEeuVEdXlov3DVQ" name="EGRN_A3.01" guid="_Tp2TIKwhEeuVEdXlov3DVQ" presentationName="A3.01: Seguimiento y medición a la implementación de la EGR" performedBy="_sq9QUKuWEeuuCssargsKeA _iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" mandatoryInput="_VWtR8Mo7EeucFriJucRSqQ _AsRlAMsREeuTbqH7vO10mQ _k_7DsMpVEeugzOHm42dHog" output="_V90QAMsREeuTbqH7vO10mQ _qqaI8MsTEeuTbqH7vO10mQ" additionallyPerformedBy="_qGtx8KuWEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_TqcJAKwhEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-r4uRtCuvhgU_GAkdfxpeeQ" href="uma://-r4uRtCuvhgU_GAkdfxpeeQ#-r4uRtCuvhgU_GAkdfxpeeQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Tp2TJawhEeuVEdXlov3DVQ" name="EGRN_A3.02" guid="_Tp2TJawhEeuVEdXlov3DVQ" presentationName="A3.02: Evaluar el cumplimiento y eficacia de la EGR" performedBy="_e9rLgKuXEeuuCssargsKeA" mandatoryInput="_V90QAMsREeuTbqH7vO10mQ _qqaI8MsTEeuTbqH7vO10mQ" output="_3PoK0MpUEeugzOHm42dHog" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_TqcJAawhEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-b3_j8PKUV2jjkPNyKgIo3A" href="uma://-b3_j8PKUV2jjkPNyKgIo3A#-b3_j8PKUV2jjkPNyKgIo3A"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Tp2TKqwhEeuVEdXlov3DVQ" name="EGRN_A3.03" guid="_Tp2TKqwhEeuVEdXlov3DVQ" presentationName="A3.03: Definir, aprobar e implementar el plan de mejora a la EGR" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" mandatoryInput="_3PoK0MpUEeugzOHm42dHog" output="_3CEDEMvMEeurUu0Uc60fZg _tanQsMpYEeugzOHm42dHog _rfZgEMvrEeurUu0Uc60fZg" additionallyPerformedBy="_sq9QUKuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _e9rLgKuXEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_TqcJAqwhEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-2OIYneKT9OkiH5fXPTswCQ" href="uma://-2OIYneKT9OkiH5fXPTswCQ#-2OIYneKT9OkiH5fXPTswCQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Tp2TMawhEeuVEdXlov3DVQ" name="EGRN_A3.04" guid="_Tp2TMawhEeuVEdXlov3DVQ" presentationName="A3.04: Identificar y registrar las lecciones aprendidas" performedBy="_iA_A8KuWEeuuCssargsKeA _MEcbsKuXEeuuCssargsKeA" mandatoryInput="_V90QAMsREeuTbqH7vO10mQ _rfZgEMvrEeurUu0Uc60fZg _3PoK0MpUEeugzOHm42dHog" output="_o2jJMMsUEeuTbqH7vO10mQ">
+                <methodElementProperty xmi:id="_TqcJA6whEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-w-6lNAehLC0ecK_nYCQqRQ" href="uma://-w-6lNAehLC0ecK_nYCQqRQ#-w-6lNAehLC0ecK_nYCQqRQ"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_3XcTEKuUEeuuCssargsKeA" name="MGR" guid="_3XcTEKuUEeuuCssargsKeA" presentationName="MGR">
+            <methodElementProperty xmi:id="_3XcTEauUEeuuCssargsKeA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_3fp-c6uVEeuuCssargsKeA" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_BDlGIKwiEeuVEdXlov3DVQ" name="A1_P" guid="_BDlGIKwiEeuVEdXlov3DVQ" briefDescription=" ">
+              <methodElementProperty xmi:id="_BDlGIawiEeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_xxHzQKwiEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DbDeYKwjEeuVEdXlov3DVQ" name="GR_A1.01" guid="_DbDeYKwjEeuVEdXlov3DVQ" presentationName="A1.01: Establecer o actualizar las categorías de riesgos y factores de riesgos del activo" conceptsAndPapers="_ZQMBwMo3EeucFriJucRSqQ" performedBy="_iA_A8KuWEeuuCssargsKeA _hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA" mandatoryInput="_f_QDUMpOEeugzOHm42dHog" output="_s9WWgMvEEeurUu0Uc60fZg _4QTRcMvEEeurUu0Uc60fZg" additionallyPerformedBy="_qGtx8KuWEeuuCssargsKeA" optionalInput="_UOm-IMu_EeurUu0Uc60fZg">
+                <methodElementProperty xmi:id="_TlqH8KwnEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-41tj3g4kzg4YTPyqm9j5Bg" href="uma://-41tj3g4kzg4YTPyqm9j5Bg#-41tj3g4kzg4YTPyqm9j5Bg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6Alq4KwpEeuVEdXlov3DVQ" name="GR_A1.02" guid="_6Alq4KwpEeuVEdXlov3DVQ" presentationName="A1.02: Definir o actualizar los criterios del riesgo del activo" performedBy="_iA_A8KuWEeuuCssargsKeA _hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA" mandatoryInput="_f_QDUMpOEeugzOHm42dHog _M_4mUMr-EeuTbqH7vO10mQ" output="_iu5eIMvHEeurUu0Uc60fZg _XScaMMvNEeurUu0Uc60fZg" additionallyPerformedBy="_qGtx8KuWEeuuCssargsKeA" optionalInput="_iu5eIMvHEeurUu0Uc60fZg">
+                <methodElementProperty xmi:id="_IOCoEKwqEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-FoqHcqbaV7Nf8wPmxy5oiQ" href="uma://-FoqHcqbaV7Nf8wPmxy5oiQ#-FoqHcqbaV7Nf8wPmxy5oiQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k3Hr4KwrEeuVEdXlov3DVQ" name="GR_A1.03" guid="_k3Hr4KwrEeuVEdXlov3DVQ" presentationName="A1.03: Establecer o actualizar el plan de gestión de riesgos (PGR) del activo" performedBy="_hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA" mandatoryInput="_iu5eIMvHEeurUu0Uc60fZg _s9WWgMvEEeurUu0Uc60fZg _4QTRcMvEEeurUu0Uc60fZg _bSQhwM1ZEeulHfspCiGMPA" output="_Cr7JgMvKEeurUu0Uc60fZg _UOm-IMu_EeurUu0Uc60fZg _FF0rAMvIEeurUu0Uc60fZg _GyLpsMvJEeurUu0Uc60fZg _ky9_8MvNEeurUu0Uc60fZg" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA" optionalInput="_UOm-IMu_EeurUu0Uc60fZg">
+                <methodElementProperty xmi:id="_yLu8kKwrEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-hYAWULDWZQdE0yUuJ_Kf4A" href="uma://-hYAWULDWZQdE0yUuJ_Kf4A#-hYAWULDWZQdE0yUuJ_Kf4A"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_P_lycKwiEeuVEdXlov3DVQ" name="A2_R" guid="_P_lycKwiEeuVEdXlov3DVQ">
+              <methodElementProperty xmi:id="_P_lycawiEeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_xxRkQKwiEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_im3HMKwwEeuVEdXlov3DVQ" name="GR_A2.01" guid="_im3HMKwwEeuVEdXlov3DVQ" presentationName="A2.01: Identificar el riesgo" conceptsAndPapers="_ZQMBwMo3EeucFriJucRSqQ" performedBy="_hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA" mandatoryInput="_f_QDUMpOEeugzOHm42dHog _UOm-IMu_EeurUu0Uc60fZg" output="_g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _SP4qQKuXEeuuCssargsKeA _zAHJoKuYEeuuCssargsKeA" optionalInput="_g89dEMvgEeurUu0Uc60fZg">
+                <methodElementProperty xmi:id="_BgNZ8KwxEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-7X7rIzW5cnf7jeRBtMoGyA" href="uma://-7X7rIzW5cnf7jeRBtMoGyA#-7X7rIzW5cnf7jeRBtMoGyA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JrHfsKxOEeuVEdXlov3DVQ" name="GR_A2.02" guid="_JrHfsKxOEeuVEdXlov3DVQ" presentationName="A2.02: Analizar el riesgo" conceptsAndPapers="_ZQMBwMo3EeucFriJucRSqQ" performedBy="_hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA _SP4qQKuXEeuuCssargsKeA" mandatoryInput="_g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg" output="_g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA _zAHJoKuYEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_hhhUIKxOEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-9itozSR8nlSv46Ey45SkKw" href="uma://-9itozSR8nlSv46Ey45SkKw#-9itozSR8nlSv46Ey45SkKw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bUZtwKxSEeuVEdXlov3DVQ" name="GR_A2.03" guid="_bUZtwKxSEeuVEdXlov3DVQ" presentationName="A2.03: Valorar el riesgo" performedBy="_hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA _SP4qQKuXEeuuCssargsKeA" mandatoryInput="_ISBYAMpZEeugzOHm42dHog _lfFnoMvkEeurUu0Uc60fZg" output="_lfFnoMvkEeurUu0Uc60fZg _KX_MkMvmEeurUu0Uc60fZg" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA _zAHJoKuYEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_sGjcUKxSEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-jtlxNwBbJ7xqP42jj5g_kw" href="uma://-jtlxNwBbJ7xqP42jj5g_kw#-jtlxNwBbJ7xqP42jj5g_kw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_g_gkgKxUEeuVEdXlov3DVQ" name="GR_A2.04" guid="_g_gkgKxUEeuVEdXlov3DVQ" presentationName="A2.04: Tratar el riesgo" performedBy="_hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA _SP4qQKuXEeuuCssargsKeA" mandatoryInput="_g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg" output="_p-Rd0MvmEeurUu0Uc60fZg _g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg _KX_MkMvmEeurUu0Uc60fZg" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA _zAHJoKuYEeuuCssargsKeA" optionalInput="_KX_MkMvmEeurUu0Uc60fZg">
+                <methodElementProperty xmi:id="_rby9MKxUEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-If95WIsnj-nIt1R-AaLlLA" href="uma://-If95WIsnj-nIt1R-AaLlLA#-If95WIsnj-nIt1R-AaLlLA"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_s-UqcKxVEeuVEdXlov3DVQ" name="GR_A2.05" guid="_s-UqcKxVEeuVEdXlov3DVQ" presentationName="A2.05: Monitorear el riesgo" performedBy="_hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA _SP4qQKuXEeuuCssargsKeA" mandatoryInput="_f_QDUMpOEeugzOHm42dHog _g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg _KX_MkMvmEeurUu0Uc60fZg" output="_Z-xM0MvpEeurUu0Uc60fZg _o2jJMMsUEeuTbqH7vO10mQ _g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA _zAHJoKuYEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_u5zfsKxVEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-i3IxEra30awybFRrvSuJzQ" href="uma://-i3IxEra30awybFRrvSuJzQ#-i3IxEra30awybFRrvSuJzQ"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pFKgMKxYEeuVEdXlov3DVQ" name="GR_A2.06" guid="_pFKgMKxYEeuVEdXlov3DVQ" presentationName="A2.06: Mantener el perfil de riesgo del activo" performedBy="_hDbhoKuYEeuuCssargsKeA _P7aGMKuXEeuuCssargsKeA" mandatoryInput="_p-Rd0MvmEeurUu0Uc60fZg _Z-xM0MvpEeurUu0Uc60fZg _g89dEMvgEeurUu0Uc60fZg _lfFnoMvkEeurUu0Uc60fZg" output="_g89dEMvgEeurUu0Uc60fZg" additionallyPerformedBy="_iA_A8KuWEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _zAHJoKuYEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA _SP4qQKuXEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_3ofmwKxYEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-CV6DRbBNlzUX_rOjNEdpZw" href="uma://-CV6DRbBNlzUX_rOjNEdpZw#-CV6DRbBNlzUX_rOjNEdpZw"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_o08icKwiEeuVEdXlov3DVQ" name="A3_SEM" guid="_o08icKwiEeuVEdXlov3DVQ">
+              <methodElementProperty xmi:id="_o08icawiEeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_xxauMKwiEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5sFK8KxfEeuVEdXlov3DVQ" name="GR_A3.1" guid="_5sFK8KxfEeuVEdXlov3DVQ" presentationName="A3.1: Revisar, analizar y evaluar el cumplimiento del PGR del activo" performedBy="_P7aGMKuXEeuuCssargsKeA _hDbhoKuYEeuuCssargsKeA _iA_A8KuWEeuuCssargsKeA" mandatoryInput="_UOm-IMu_EeurUu0Uc60fZg" output="_AsRlAMsREeuTbqH7vO10mQ _k_7DsMpVEeugzOHm42dHog">
+                <methodElementProperty xmi:id="_5sYs8KxfEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-yrBmEqXPcAoRLZw3VHFqbg" href="uma://-yrBmEqXPcAoRLZw3VHFqbg#-yrBmEqXPcAoRLZw3VHFqbg"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5sFK9KxfEeuVEdXlov3DVQ" name="GR_A3.2" guid="_5sFK9KxfEeuVEdXlov3DVQ" presentationName="A3.2: Generar, aprobar e implementar el plan de mejora del PGR del activo" performedBy="_P7aGMKuXEeuuCssargsKeA _hDbhoKuYEeuuCssargsKeA" mandatoryInput="_UOm-IMu_EeurUu0Uc60fZg _AsRlAMsREeuTbqH7vO10mQ _k_7DsMpVEeugzOHm42dHog" output="_AsRlAMsREeuTbqH7vO10mQ _ISBYAMpZEeugzOHm42dHog _C_v24MvqEeurUu0Uc60fZg" additionallyPerformedBy="_zAHJoKuYEeuuCssargsKeA _qGtx8KuWEeuuCssargsKeA _osvcYKuYEeuuCssargsKeA _iA_A8KuWEeuuCssargsKeA _SP4qQKuXEeuuCssargsKeA">
+                <methodElementProperty xmi:id="_5sYs8axfEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-hvu5z85PpC8qnh0QdWdWLw" href="uma://-hvu5z85PpC8qnh0QdWdWLw#-hvu5z85PpC8qnh0QdWdWLw"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5sFK-axfEeuVEdXlov3DVQ" name="GR_A3.3" guid="_5sFK-axfEeuVEdXlov3DVQ" presentationName="A3.3: Identificar y registrar las lecciones aprendidas" performedBy="_P7aGMKuXEeuuCssargsKeA _hDbhoKuYEeuuCssargsKeA" mandatoryInput="_AsRlAMsREeuTbqH7vO10mQ _C_v24MvqEeurUu0Uc60fZg _k_7DsMpVEeugzOHm42dHog" output="_o2jJMMsUEeuTbqH7vO10mQ">
+                <methodElementProperty xmi:id="_5sYs8qxfEeuVEdXlov3DVQ" name="me_edited" value="true"/>
+                <presentation xmi:id="-ren0X7ltmZnvGnVlVA8WjQ" href="uma://-ren0X7ltmZnvGnVlVA8WjQ#-ren0X7ltmZnvGnVlVA8WjQ"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_UNnmEM10EeulHfspCiGMPA" name="RM_Glossary" guid="_UNnmEM10EeulHfspCiGMPA" presentationName="Risk Management Glossary">
+          <methodElementProperty xmi:id="_UNnmEc10EeulHfspCiGMPA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_ytisMc10EeulHfspCiGMPA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_vZrHsM10EeulHfspCiGMPA" name="activo" guid="_vZrHsM10EeulHfspCiGMPA" presentationName="Activo">
+            <methodElementProperty xmi:id="_ytZiQM10EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Qz-8SGV4ARtPTAl2-3YK9w" href="uma://-Qz-8SGV4ARtPTAl2-3YK9w#-Qz-8SGV4ARtPTAl2-3YK9w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_1HOgYM10EeulHfspCiGMPA" name="estrategia_de_gestion_de_riesgos" guid="_1HOgYM10EeulHfspCiGMPA" presentationName="Estrategia de Gestión de Riesgos (EGR)">
+            <methodElementProperty xmi:id="_7Y6g4M10EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-WAjfXixcTs1bKmGby1u4DA" href="uma://-WAjfXixcTs1bKmGby1u4DA#-WAjfXixcTs1bKmGby1u4DA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_kY_MAM11EeulHfspCiGMPA" name="poltica_de_riesgos" guid="_kY_MAM11EeulHfspCiGMPA" presentationName="Política de Riesgos">
+            <methodElementProperty xmi:id="_mjCowM11EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-CFOeQ_3X82VX6bZ34Oclpw" href="uma://-CFOeQ_3X82VX6bZ34Oclpw#-CFOeQ_3X82VX6bZ34Oclpw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_80_A0M11EeulHfspCiGMPA" name="recurso_de_gestion" guid="_80_A0M11EeulHfspCiGMPA" presentationName="Recurso de Gestión">
+            <methodElementProperty xmi:id="_AcU68M12EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-hlGNmsGMWb9DiTxYWn5tRQ" href="uma://-hlGNmsGMWb9DiTxYWn5tRQ#-hlGNmsGMWb9DiTxYWn5tRQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_LohtoM12EeulHfspCiGMPA" name="responsabilidad" guid="_LohtoM12EeulHfspCiGMPA" presentationName="Responsabilidad">
+            <methodElementProperty xmi:id="_OAuUEM12EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-wzGiPRaOKLZl_hShCOo4Lw" href="uma://-wzGiPRaOKLZl_hShCOo4Lw#-wzGiPRaOKLZl_hShCOo4Lw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_gjMJsM12EeulHfspCiGMPA" name="criterios_de_aceptacion_del_Riesgo" guid="_gjMJsM12EeulHfspCiGMPA" presentationName="Criterios de Aceptación de Riesgo">
+            <methodElementProperty xmi:id="_nMQIYM12EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-KcN3UKS3Z-r6znLbfIMzOg" href="uma://-KcN3UKS3Z-r6znLbfIMzOg#-KcN3UKS3Z-r6znLbfIMzOg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_bVdrIM13EeulHfspCiGMPA" name="categoria_de_riesgos" guid="_bVdrIM13EeulHfspCiGMPA" presentationName="Categoría de Riesgos">
+            <methodElementProperty xmi:id="_edt1gM13EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-9NGpkXEnq-JK2lbGC_-Vuw" href="uma://-9NGpkXEnq-JK2lbGC_-Vuw#-9NGpkXEnq-JK2lbGC_-Vuw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_oHkrsM13EeulHfspCiGMPA" name="categoria_de_factores_de_riesgos" guid="_oHkrsM13EeulHfspCiGMPA" presentationName="Categoría de Factores de Riesgos">
+            <methodElementProperty xmi:id="_rKBJAM13EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-FKLR28Bl-1s8ZEASq6Vi1g" href="uma://-FKLR28Bl-1s8ZEASq6Vi1g#-FKLR28Bl-1s8ZEASq6Vi1g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_7flCMM13EeulHfspCiGMPA" name="factor_de_riesgo" guid="_7flCMM13EeulHfspCiGMPA" presentationName="Factor de Riesgo">
+            <methodElementProperty xmi:id="_FzsWUM14EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-SvRbvlfVqFcNpJCekvsaPA" href="uma://-SvRbvlfVqFcNpJCekvsaPA#-SvRbvlfVqFcNpJCekvsaPA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_TK_HkM14EeulHfspCiGMPA" name="criterios_de_probabilidad_del_riesgo" guid="_TK_HkM14EeulHfspCiGMPA" presentationName="Criterios de Probabilidad del Riesgo">
+            <methodElementProperty xmi:id="_VXur8M14EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-Odsg-rAeqnr3LuL8UVb0Ww" href="uma://-Odsg-rAeqnr3LuL8UVb0Ww#-Odsg-rAeqnr3LuL8UVb0Ww"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_WryU0M14EeulHfspCiGMPA" name="criterios_de_impacto_del_Riesgo" guid="_WryU0M14EeulHfspCiGMPA" presentationName="Criterios de Impacto del Riesgo">
+            <methodElementProperty xmi:id="_cqIikM14EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="--NvXjVqvw1aZMHMgWQy0UA" href="uma://--NvXjVqvw1aZMHMgWQy0UA#--NvXjVqvw1aZMHMgWQy0UA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_tsyyUM14EeulHfspCiGMPA" name="variables_de_control" guid="_tsyyUM14EeulHfspCiGMPA" presentationName="Variables de Control">
+            <methodElementProperty xmi:id="_v0UfgM14EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gk9rxrP6qQyv4AQeGJBUlA" href="uma://-gk9rxrP6qQyv4AQeGJBUlA#-gk9rxrP6qQyv4AQeGJBUlA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_G8U84M15EeulHfspCiGMPA" name="metrica" guid="_G8U84M15EeulHfspCiGMPA" presentationName="Métrica">
+            <methodElementProperty xmi:id="_KQVEQM15EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-TxHP7YFlSGQMJxOI8Bd_mA" href="uma://-TxHP7YFlSGQMJxOI8Bd_mA#-TxHP7YFlSGQMJxOI8Bd_mA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_yBynMM15EeulHfspCiGMPA" name="criterios_de_nivel_de_riesgo" guid="_yBynMM15EeulHfspCiGMPA" presentationName="Criterios de Nivel de Riesgo">
+            <methodElementProperty xmi:id="_WorEgM16EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-LNIhdrCmRDeTY1Itu8s1bw" href="uma://-LNIhdrCmRDeTY1Itu8s1bw#-LNIhdrCmRDeTY1Itu8s1bw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_fX6skM16EeulHfspCiGMPA" name="plan_de_gestion_de_riesgos" guid="_fX6skM16EeulHfspCiGMPA" presentationName="Plan de Gestión de Riesgos">
+            <methodElementProperty xmi:id="_ho0YMM16EeulHfspCiGMPA" name="me_edited" value="true"/>
+            <presentation xmi:id="-o9z1Yb_OHmKg5B-bn2J_3Q" href="uma://-o9z1Yb_OHmKg5B-bn2J_3Q#-o9z1Yb_OHmKg5B-bn2J_3Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="__9D9UM17Eeu9DYw48QRJHQ" name="causa" guid="__9D9UM17Eeu9DYw48QRJHQ" presentationName="Causa">
+            <methodElementProperty xmi:id="_FcxHQM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-WfV201WCnkDPBw0dIm6RAQ" href="uma://-WfV201WCnkDPBw0dIm6RAQ#-WfV201WCnkDPBw0dIm6RAQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_NlndsM18Eeu9DYw48QRJHQ" name="consecuencia" guid="_NlndsM18Eeu9DYw48QRJHQ" presentationName="Consecuencia">
+            <methodElementProperty xmi:id="_QHe9gM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-1f2m-ijf-1rIHrAXi2uyIQ" href="uma://-1f2m-ijf-1rIHrAXi2uyIQ#-1f2m-ijf-1rIHrAXi2uyIQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_R5mbYM18Eeu9DYw48QRJHQ" name="estimacion_de_impacto" guid="_R5mbYM18Eeu9DYw48QRJHQ" presentationName="Estimación de Impacto">
+            <methodElementProperty xmi:id="_VbSZcM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-6kXR6E0Q4fsZAdmmLcCY9g" href="uma://-6kXR6E0Q4fsZAdmmLcCY9g#-6kXR6E0Q4fsZAdmmLcCY9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_YSugoM18Eeu9DYw48QRJHQ" name="accion_de_respuesta" guid="_YSugoM18Eeu9DYw48QRJHQ" presentationName="Acción de Respuesta">
+            <methodElementProperty xmi:id="_cELZAM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-gdJthIzSF_AMqZa-T-DxVA" href="uma://-gdJthIzSF_AMqZa-T-DxVA#-gdJthIzSF_AMqZa-T-DxVA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_cvoJwM18Eeu9DYw48QRJHQ" name="evento_de_riesgo" guid="_cvoJwM18Eeu9DYw48QRJHQ" presentationName="Evento de Riesgo">
+            <methodElementProperty xmi:id="_gMjjoM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-e5t78813oFHZnFCPqYqmQA" href="uma://-e5t78813oFHZnFCPqYqmQA#-e5t78813oFHZnFCPqYqmQA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_kKD7AM18Eeu9DYw48QRJHQ" name="respuesta_al_riesgo" guid="_kKD7AM18Eeu9DYw48QRJHQ" presentationName="Respuesta al Riesgo">
+            <methodElementProperty xmi:id="_mRTUUM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-h4YdvW_aiirRysKXO6Qj7w" href="uma://-h4YdvW_aiirRysKXO6Qj7w#-h4YdvW_aiirRysKXO6Qj7w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_oRr3sM18Eeu9DYw48QRJHQ" name="perfil_del_riesgo" guid="_oRr3sM18Eeu9DYw48QRJHQ" presentationName="Perfil del riesgo">
+            <methodElementProperty xmi:id="_qYxgAM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-4Lv6VJEwTep0S4eaO1aBYg" href="uma://-4Lv6VJEwTep0S4eaO1aBYg#-4Lv6VJEwTep0S4eaO1aBYg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_swrLgM18Eeu9DYw48QRJHQ" name="riesgo" guid="_swrLgM18Eeu9DYw48QRJHQ" presentationName="Riesgo">
+            <methodElementProperty xmi:id="_xCtocM18Eeu9DYw48QRJHQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-40wqgNNhOzUNpJ86l7-_6g" href="uma://-40wqgNNhOzUNpJ86l7-_6g#-40wqgNNhOzUNpJ86l7-_6g"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_v0Qq_auTEeuuCssargsKeA" name="CapabilityPatterns" guid="_v0Qq_auTEeuuCssargsKeA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_UJEUMKxtEeuVEdXlov3DVQ" name="Metodologia_Gestion_de_Riesgos" guid="_UJEUMKxtEeuVEdXlov3DVQ">
+          <methodElementProperty xmi:id="_UJEUMaxtEeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_eOvjsKxtEeuVEdXlov3DVQ" name="EGRN_Establecimiento_de_ la_Gestion_Riesgos_del_Negocio" guid="_eOvjsKxtEeuVEdXlov3DVQ">
+            <methodElementProperty xmi:id="_eOvjsaxtEeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_usgWoKxtEeuVEdXlov3DVQ" name="Actividades" guid="_usgWoKxtEeuVEdXlov3DVQ">
+              <methodElementProperty xmi:id="_usgWoaxtEeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_H42-AKz1EeuleM-t5CAq6g" href="uma://_H42-AKz1EeuleM-t5CAq6g#_H42-AKz1EeuleM-t5CAq6g"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_O1icQKz1EeuleM-t5CAq6g" href="uma://_O1icQKz1EeuleM-t5CAq6g#_O1icQKz1EeuleM-t5CAq6g"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="__dzn0Kz1EeuleM-t5CAq6g" href="uma://__dzn0Kz1EeuleM-t5CAq6g#__dzn0Kz1EeuleM-t5CAq6g"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_5GZPQKz0EeuleM-t5CAq6g" href="uma://_5GZPQKz0EeuleM-t5CAq6g#_5GZPQKz0EeuleM-t5CAq6g"/>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_hEisIKxtEeuVEdXlov3DVQ" name="GR_Gestion_de_Riesgos" guid="_hEisIKxtEeuVEdXlov3DVQ">
+            <methodElementProperty xmi:id="_hEisIaxtEeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tYGAEKx7EeuVEdXlov3DVQ" name="Actividades" guid="_tYGAEKx7EeuVEdXlov3DVQ">
+              <methodElementProperty xmi:id="_tYGAEax7EeuVEdXlov3DVQ" name="pkg_loadCheck" value="true"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_YaMCUKz1EeuleM-t5CAq6g" href="uma://_YaMCUKz1EeuleM-t5CAq6g#_YaMCUKz1EeuleM-t5CAq6g"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_nFgnQKz1EeuleM-t5CAq6g" href="uma://_nFgnQKz1EeuleM-t5CAq6g#_nFgnQKz1EeuleM-t5CAq6g"/>
+              <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_zwwWwK01EeuleM-t5CAq6g" href="uma://_zwwWwK01EeuleM-t5CAq6g#_zwwWwK01EeuleM-t5CAq6g"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_WrDnAKz1EeuleM-t5CAq6g" href="uma://_WrDnAKz1EeuleM-t5CAq6g#_WrDnAKz1EeuleM-t5CAq6g"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_v0Qq_quTEeuuCssargsKeA" name="DeliveryProcesses" guid="_v0Qq_quTEeuuCssargsKeA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_v0Qq_6uTEeuuCssargsKeA" name="ProcessContributions" guid="_v0Qq_6uTEeuuCssargsKeA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-U8FPzxhGZu0MneahkdHR6g" name="EGRN_A1.10,_l3r20L9MEeuXwcSzT7huYg" guid="-U8FPzxhGZu0MneahkdHR6g">
+  <mainDescription>Desarrollar una estrategia de comunicación que plasme la intención y expectativas de la organización con la implementación&#xD;
+de la EGR. Así como también que promueva una comunicación y compresión efectiva en los diferentes niveles de la&#xD;
+organización.</mainDescription>
+  <sections xmi:id="__liC4MTPEeuSQpRAqzZuYg" name="P1. Identificar el público objetivo." guid="__liC4MTPEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_BDG0IMTQEeuSQpRAqzZuYg" name="P2. Definir los objetivos del plan de capacitación." guid="_BDG0IMTQEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_EGTfYMTQEeuSQpRAqzZuYg" name="P3. Estructurar y desarrollar el mensaje a comunicar." guid="_EGTfYMTQEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_GwplwMTQEeuSQpRAqzZuYg" name="P4. Establecer los mecanismos o canales de comunicación." guid="_GwplwMTQEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_JYULkMTQEeuSQpRAqzZuYg" name="P5. Planificar las actividades de comunicación, con los recursos y el presupuesto necesario para el desarrollo de las mismas." guid="_JYULkMTQEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_MlBYIMTQEeuSQpRAqzZuYg" name="P6. Aprobar el plan de comunicación de la EGR." guid="_MlBYIMTQEeuSQpRAqzZuYg"/>
+</org.eclipse.epf.uma:TaskDescription>

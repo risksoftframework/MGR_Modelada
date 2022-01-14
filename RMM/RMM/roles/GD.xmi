@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hd7xIU-HeAM6b0UAQX5e3w" name="GD,_qGtx8KuWEeuuCssargsKeA" guid="-hd7xIU-HeAM6b0UAQX5e3w" changeDate="2021-06-03T18:42:05.293-0500">
+  <mainDescription>&lt;p>&#xD;
+    Grupo de altos directivos de la organización responsables de la planificación estratégica del negocio y la toma de&#xD;
+    decisiones conducentes al logro de los objetivos de la organización. Además, son los encargados de garantizar que la&#xD;
+    EGR funcione de manera correcta.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

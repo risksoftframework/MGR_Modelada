@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Wr8-4Kz1EeuleM-t5CAq6g" guid="_Wr8-4Kz1EeuleM-t5CAq6g">
+    <resourceDescriptors xmi:id="_Wr8-4az1EeuleM-t5CAq6g" id="-y9cXRKE5Y6XiRrlG6c9EBQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_WrDnAKz1EeuleM-t5CAq6g" name="GR_Proceso" guid="_WrDnAKz1EeuleM-t5CAq6g">
+    <methodElementProperty xmi:id="_WrDnAqz1EeuleM-t5CAq6g" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_fXa_wK0tEeuleM-t5CAq6g" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OYa7cK1CEeuleM-t5CAq6g" name="GR_A1" guid="_OYa7cK1CEeuleM-t5CAq6g">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_OYa7ca1CEeuleM-t5CAq6g" name="GR_A1" guid="_OYa7ca1CEeuleM-t5CAq6g" superActivities="_WrDnAaz1EeuleM-t5CAq6g" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_YaMCUKz1EeuleM-t5CAq6g#_YaMCUaz1EeuleM-t5CAq6g"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OYa7cq1CEeuleM-t5CAq6g" name="GR_A2" guid="_OYa7cq1CEeuleM-t5CAq6g">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_OYa7c61CEeuleM-t5CAq6g" name="GR_A2" guid="_OYa7c61CEeuleM-t5CAq6g" superActivities="_WrDnAaz1EeuleM-t5CAq6g" linkToPredecessor="_QzTCcK1CEeuleM-t5CAq6g" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_zwwWwK01EeuleM-t5CAq6g#_zwwWwa01EeuleM-t5CAq6g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_QzTCcK1CEeuleM-t5CAq6g" guid="_QzTCcK1CEeuleM-t5CAq6g" pred="_OYa7ca1CEeuleM-t5CAq6g"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_OYa7dK1CEeuleM-t5CAq6g" name="GR_A3" guid="_OYa7dK1CEeuleM-t5CAq6g">
+      <processElements xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_OYa7da1CEeuleM-t5CAq6g" name="GR_A3" guid="_OYa7da1CEeuleM-t5CAq6g" superActivities="_WrDnAaz1EeuleM-t5CAq6g" linkToPredecessor="_RrYhAK1CEeuleM-t5CAq6g" variabilityType="extends">
+        <variabilityBasedOnElement xsi:type="org.eclipse.epf.uma:CapabilityPattern" href="uma://_nFgnQKz1EeuleM-t5CAq6g#_nFgnQaz1EeuleM-t5CAq6g"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_RrYhAK1CEeuleM-t5CAq6g" guid="_RrYhAK1CEeuleM-t5CAq6g" pred="_OYa7c61CEeuleM-t5CAq6g"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_WrDnAaz1EeuleM-t5CAq6g" name="GR_Proceso" guid="_WrDnAaz1EeuleM-t5CAq6g" presentationName="GR. Gestión de Riesgos " briefDescription="Brindar los elementos claves que permitan definir y establecer el contexto para la GR, a través de la identificación de las diferentes fuentes y factores causales de riesgos que tienen incidencia en los activos y que pueden estar en el contexto interno y externo de la organización. Así como también, cada uno de los criterios o parámetros del riesgo que facilitarán la toma de decisiones, al momento de llevar a cabo la valoración de riesgos, respecto a la cantidad y el tipo de riesgo que una organización está dispuesta asumir en el cumplimiento o no de los objetivos de sus activos. Además, establece las prácticas de GR, que permiten asistir a la organización para hacer frente a los riesgos, a través de la aplicación sistemática de actividades que soporten la identificación, análisis, valoración, tratamiento y seguimiento de los riesgos que pueden generar un impacto negativo en el logro de los objetivos del activo o en el aprovechamiento del impacto positivo de los riesgos, para generar beneficios a la organización. Y finalmente, ayudar a la creación y preservación de valor de las prácticas de GR en cualquier nivel de la organización." breakdownElements="_OYa7ca1CEeuleM-t5CAq6g _OYa7c61CEeuleM-t5CAq6g _OYa7da1CEeuleM-t5CAq6g">
+      <presentation xmi:id="-y9cXRKE5Y6XiRrlG6c9EBQ" href="uma://-y9cXRKE5Y6XiRrlG6c9EBQ#-y9cXRKE5Y6XiRrlG6c9EBQ"/>
+      <defaultContext href="uma://_uF3PcKuTEeuuCssargsKeA#_x45GwKz0EeuleM-t5CAq6g"/>
+      <validContext href="uma://_uF3PcKuTEeuuCssargsKeA#_x45GwKz0EeuleM-t5CAq6g"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

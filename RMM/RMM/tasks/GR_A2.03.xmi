@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jtlxNwBbJ7xqP42jj5g_kw" name=",_bUZtwKxSEeuVEdXlov3DVQ" guid="-jtlxNwBbJ7xqP42jj5g_kw" changeDate="2021-06-04T17:09:46.014-0500">
+  <mainDescription>Comparar los resultados del análisis de riesgos con los criterios de aceptación del riesgo, para determinar si los riesgos&#xD;
+son aceptables o requieren de un tratamiento, proporcionando justificación, priorización y estrategia que permitan una&#xD;
+respuesta al riesgo. La valoración del riesgo también implica revisar los controles implementados y las acciones de&#xD;
+respuesta.</mainDescription>
+  <sections xmi:id="_AIij8KxTEeuVEdXlov3DVQ" name="P1. Evaluar los resultados del análisis de riesgo." guid="_AIij8KxTEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_Dj0_EKxTEeuVEdXlov3DVQ" name="P2. Determinar el nivel y tipo de riesgo de cada uno de los riesgos analizados." guid="_Dj0_EKxTEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_jzdvUKxTEeuVEdXlov3DVQ" name="P3. Establecer el tipo de respuesta al riesgo y su priorización." guid="_jzdvUKxTEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_nvfgAKxTEeuVEdXlov3DVQ" name="P4. Identificar y definir controles del riesgo o evaluar la efectividad de los ya existentes." guid="_nvfgAKxTEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_6Jf9MKxTEeuVEdXlov3DVQ" name="P5. Recomendar o evaluar las acciones de respuesta para el tratamiento de los riesgos." guid="_6Jf9MKxTEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_GJT-IKxUEeuVEdXlov3DVQ" name="P6. Recomendar o evaluar los controles (disparadores de acciones de respuesta) para medir la eficacia de las acciones para el tratamiento de los riesgos." guid="_GJT-IKxUEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_IsqrsKxUEeuVEdXlov3DVQ" name="P7. Actualizar el perfil de riesgos del activo." guid="_IsqrsKxUEeuVEdXlov3DVQ"/>
+  <purpose>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;COLOR: black; FONT-SIZE: 9pt; mso-themecolor: text1&quot;>&lt;font face=&quot;Times New Roman&quot;>Comparar los resultados&#xD;
+    del analisis de riesgos con los criterios de aceptacion del riesgo, para determinar si los riesgos son aceptables o&#xD;
+    requieren de un tratamiento, proporcionando justificacion, priorizacion y estrategia que permitan una respuesta al&#xD;
+    riesgo. La valoracion del riesgo tambien implica revisar los controles implementados y las acciones de&#xD;
+    respuesta.&lt;/font>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZMOts_zOCeLUrmB76-WPMQ" name=",_1unWQKujEeuuCssargsKeA" guid="-ZMOts_zOCeLUrmB76-WPMQ" changeDate="2021-06-03T19:23:33.240-0500">
+  <mainDescription>Establecer y mantener un proceso de GR que proporcione una visión estándar y formal, que ayude a la organización hacer&#xD;
+frente a los riesgos. Además, que cumpla con los requerimientos de la organización y establezca los recursos necesarios&#xD;
+para soportar las prácticas de GR.</mainDescription>
+  <sections xmi:id="_B2Uu8KukEeuuCssargsKeA" name="P1. Seleccionar o adaptar un enfoque de referencia de GR que se soporte las necesidades de la organización." guid="_B2Uu8KukEeuuCssargsKeA"/>
+  <sections xmi:id="_FfTAwKukEeuuCssargsKeA" name="P2. Proveer una visión general de cómo se realizarán cada una de las prácticas/componentes del proceso de GR." guid="_FfTAwKukEeuuCssargsKeA"/>
+  <sections xmi:id="_OWkjcKukEeuuCssargsKeA" name="P3. Establecer o seleccionar los recursos para la GR." guid="_OWkjcKukEeuuCssargsKeA">
+    <sectionDescription>Determinar los recursos necesarios para soportar las prácticas de GR, proporcionando una descripción general de los mismos,&#xD;
+algunos de estos pueden ser: artefactos, plantillas, procedimientos y herramientas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_zoHuYKukEeuuCssargsKeA" name="P4. Proporcionar glosario sobre GR." guid="_zoHuYKukEeuuCssargsKeA">
+    <sectionDescription>Establecer una terminología y definiciones consistentes sobre la GR que permita asegurar el entendimiento de esta práctica&#xD;
+de gestión al interior de la organización.</sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

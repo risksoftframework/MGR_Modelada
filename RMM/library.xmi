@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_uF3PcauTEeuuCssargsKeA" guid="_uF3PcauTEeuuCssargsKeA">
+    <subManagers xmi:id="_v0Z04auTEeuuCssargsKeA" href="uma://_v0Qq8KuTEeuuCssargsKeA#_v0Z04auTEeuuCssargsKeA"/>
+    <resourceDescriptors xmi:id="_uF3PcquTEeuuCssargsKeA" id="_uF3PcKuTEeuuCssargsKeA" uri=""/>
+    <resourceDescriptors xmi:id="_v0Z04quTEeuuCssargsKeA" id="_v0Qq8KuTEeuuCssargsKeA" uri="RMM/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_uF3PcKuTEeuuCssargsKeA" name="SRMM" guid="_uF3PcKuTEeuuCssargsKeA">
+    <methodElementProperty xmi:id="_uH86IKuTEeuuCssargsKeA" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_v0Qq8KuTEeuuCssargsKeA" href="uma://_v0Qq8KuTEeuuCssargsKeA#_v0Qq8KuTEeuuCssargsKeA"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

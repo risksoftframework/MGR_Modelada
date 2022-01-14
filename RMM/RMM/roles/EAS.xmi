@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZKmch_o6Y0_etG0v9ZhT4w" name="EAS,_zAHJoKuYEeuuCssargsKeA" guid="-ZKmch_o6Y0_etG0v9ZhT4w" changeDate="2021-06-03T18:41:06.153-0500">
+  <mainDescription>&lt;p>&#xD;
+    Cada una de las partes interesadas externas a la organización (consultores, proveedores, accionistas, clientes,&#xD;
+    entidades financieras, etc.) y que participan directamente en la ejecución y seguimiento del activo. En el contexto de&#xD;
+    la GR brindan asesoría en las diferentes tareas de gestión según sean las necesidades y la experiencia que puedan&#xD;
+    aportar.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-twZtETm2vcuI_sJSZmEZ3A" name="EV,_e9rLgKuXEeuuCssargsKeA" guid="-twZtETm2vcuI_sJSZmEZ3A" changeDate="2021-06-03T18:41:32.584-0500">
+  <mainDescription>Persona experta responsable de llevar a cabo la evaluación de la EGR. Así como también de asesorar al comité de riesgos en&#xD;
+la elaboración de la propuesta de mejora de la EGR.</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

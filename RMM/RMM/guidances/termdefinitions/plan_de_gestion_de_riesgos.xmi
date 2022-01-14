@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-o9z1Yb_OHmKg5B-bn2J_3Q" name="plan_de_gestion_de_riesgos,_fX6skM16EeulHfspCiGMPA" guid="-o9z1Yb_OHmKg5B-bn2J_3Q" changeDate="2022-01-11T11:38:24.524-0500">
+  <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Es un componente del plan de estratégico de la organización que sirve para implementar la estrategia de gestión de&#xD;
+    riesgos y que además define como se deberán gestionar los riesgos de un activo.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

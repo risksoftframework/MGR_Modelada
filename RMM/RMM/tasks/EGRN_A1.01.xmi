@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-q3XEUwdEBp0ySVXNaYmSBg" name=",_U-_xUKuWEeuuCssargsKeA" guid="-q3XEUwdEBp0ySVXNaYmSBg" changeDate="2021-06-03T19:02:56.431-0500">
+  <mainDescription>Formular una política de riesgos que esté alineada con los objetivos del negocio, que provea dirección y transparencia a&#xD;
+las diferentes partes interesadas involucradas en las prácticas de GR. Para la actualización soporte la tarea con las&#xD;
+recomendaciones realizadas en la propuesta de mejora, en caso de existir.</mainDescription>
+  <sections xmi:id="_FJeGQKuaEeuuCssargsKeA" name="P1. Desarrollar la intención de la política." guid="_FJeGQKuaEeuuCssargsKeA">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+Determinar la intención de la política de riesgos, asegurando que sea coherente al tamaño y naturaleza de la organización.&#xD;
+Además, la política deberá estar conectada con la intención de la alta dirección frente a los riesgos.&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_S56XUKuaEeuuCssargsKeA" name="P2.Establecer las estrategias o directrices de gestión." guid="_S56XUKuaEeuuCssargsKeA">
+    <sectionDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+    Las directrices generales que permitirán consolidar, promover y fortalecer la transparencia de las prácticas de GR. Así&#xD;
+    como también generar una cultura del riesgo que ayude a mantener el valor de la organización&lt;/span>&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_duJ9AKuaEeuuCssargsKeA" name="P3. Generar el documento de la política de riesgos." guid="_duJ9AKuaEeuuCssargsKeA">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+Documento que consolida la política de riesgos de la organización y las directrices de gestión.&lt;/span></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

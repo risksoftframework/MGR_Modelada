@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1f2m-ijf-1rIHrAXi2uyIQ" name="new_term_definition,_NlndsM18Eeu9DYw48QRJHQ" guid="-1f2m-ijf-1rIHrAXi2uyIQ" changeDate="2022-01-11T11:26:06.304-0500">
+  <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Efectos sobre los objetivos de un activo de la organización causados por la materialización de un riesgo. Por ejemplo,&#xD;
+    en un proyecto esta consecuencia puede verse en el coste, el tiempo, la calidad, etc.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hlGNmsGMWb9DiTxYWn5tRQ" name="recurso_de_gestion,_80_A0M11EeulHfspCiGMPA" guid="-hlGNmsGMWb9DiTxYWn5tRQ" changeDate="2022-01-11T11:39:51.612-0500">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+    Son todas las estructuras organizativas y roles que requieren una organización para llevar a cabo las actividades de&#xD;
+    gobierno y gestión de los procesos de negocio.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

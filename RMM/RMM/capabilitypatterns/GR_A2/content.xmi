@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-qdfJHoV_jvPfScknRvAqag" name="GR_A2,_zwwWwa01EeuleM-t5CAq6g" guid="-qdfJHoV_jvPfScknRvAqag">
+    <mainDescription>&lt;font face=&quot;Times New Roman&quot;>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>Realización: &lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
+ lang=&quot;ES-CO&quot;>Es la aplicación sistemática de las prácticas de GR a un activo de la organización las cuales están&#xD;
+orientadas a la identificación, análisis, valoración, tratamiento y seguimiento del riesgo. Las cuales deberán ser&#xD;
+recopiladas, documentadas y comunicadas mediante el perfil de riesgo del activo.&lt;/span>&lt;/span>&lt;/font></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lJcvdsJe6l4UmgJlhGOmKw" name="RGRA,_66Yr5q01EeuleM-t5CAq6g" guid="-lJcvdsJe6l4UmgJlhGOmKw">
+    <refinedDescription>&lt;p>&#xD;
+    Profesional encargado de soportar la definición e implementación del PGR del activo de la organización. Además, es&#xD;
+    responsable de la ejecución y supervisión de las tareas de GR del activo. Esta función también podrá ser realizada por&#xD;
+    el responsable del activo.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-e9JNAPwIZmi4MucPjKbgrQ" name="RA,_66Yr6K01EeuleM-t5CAq6g" guid="-e9JNAPwIZmi4MucPjKbgrQ">
+    <refinedDescription>&lt;p>&#xD;
+    Profesional que rinde cuentas por un activo de la organización y que es el encargado de la ejecución de las prácticas&#xD;
+    de gestión tendientes a lograr los objetivos esperados. El RA, soporta la planificación de acciones de mejora y aprueba&#xD;
+    los cambios, de ser necesario. En lo referente a la GR, es el responsable de la planificación, ejecución y supervisión&#xD;
+    del PGR.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-AfBQ4b2NtXCjEYbNXBYyvQ" name="ETA,_66Yr6q01EeuleM-t5CAq6g" guid="-AfBQ4b2NtXCjEYbNXBYyvQ">
+    <refinedDescription>&lt;p>&#xD;
+    Profesionales perteneciente a un equipo de trabajo de un activo de la organización que asumen diferentes roles y&#xD;
+    responsabilidades respecto a sus conocimientos y experiencia. Además, que soportan la gestión del activo y colaboran en&#xD;
+    la identificación e implementación de las acciones frente al riesgo según corresponda.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-GCY4zBx5sPLU0QwWa38KRA" name="RGRN,_66Yr7K01EeuleM-t5CAq6g" guid="-GCY4zBx5sPLU0QwWa38KRA">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
+    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
+    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8d7MdercyR-LCMNBZE2LAg" name="GD,_66Yr7q01EeuleM-t5CAq6g" guid="-8d7MdercyR-LCMNBZE2LAg">
+    <refinedDescription>&lt;p>&#xD;
+    Grupo de altos directivos de la organización responsables de la planificación estratégica del negocio y la toma de&#xD;
+    decisiones conducentes al logro de los objetivos de la organización. Además, son los encargados de garantizar que la&#xD;
+    EGR funcione de manera correcta.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-hRLI3Hg4N5FjTecm6X0Brw" name="RR,_66Yr8K01EeuleM-t5CAq6g" guid="-hRLI3Hg4N5FjTecm6X0Brw">
+    <refinedDescription>&lt;p>&#xD;
+    Profesional que conforma un equipo de trabajo de un activo de la organización y que tiene la responsabilidad de&#xD;
+    gestionar los riesgos individuales que le han sido asignados. Un RR debe colaborar en la identificación y definición de&#xD;
+    las acciones de control frente al riesgo, así como garantizar que se apliquen de manera eficaz conforme a lo&#xD;
+    establecido.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OV5F20N2Pa9z7VExosp7JA" name="EAS,_66Yr8q01EeuleM-t5CAq6g" guid="-OV5F20N2Pa9z7VExosp7JA">
+    <refinedDescription>&lt;p>&#xD;
+    Cada una de las partes interesadas externas a la organización (consultores, proveedores, accionistas, clientes,&#xD;
+    entidades financieras, etc.) y que participan directamente en la ejecución y seguimiento del activo. En el contexto de&#xD;
+    la GR brindan asesoría en las diferentes tareas de gestión según sean las necesidades y la experiencia que puedan&#xD;
+    aportar.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cYCu8vqkt2y6eStr9TKzTw" name="GR_A2.01,_66Yr4K01EeuleM-t5CAq6g" guid="-cYCu8vqkt2y6eStr9TKzTw">
+    <refinedDescription>Identificar y registrar claramente cada uno de los riesgos que pueden afectar los objetivos de un activo de la&#xD;
+organización, junto a sus diferentes fuentes y factores generadores del riesgo, ya sea que estén en el contexto interno o&#xD;
+externo de la organización.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LbRHX49lGL5ot1BXuTz_0g" name="GR_A2.03,_66Yr4q01EeuleM-t5CAq6g" guid="-LbRHX49lGL5ot1BXuTz_0g">
+    <refinedDescription>Comparar los resultados del análisis de riesgos con los criterios de aceptación del riesgo, para determinar si los riesgos&#xD;
+son aceptables o requieren de un tratamiento, proporcionando justificación, priorización y estrategia que permitan una&#xD;
+respuesta al riesgo. La valoración del riesgo también implica revisar los controles implementados y las acciones de&#xD;
+respuesta.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-J3_FRZHFum3XFrH6cbhoAg" name="GR_A2.04,_66Yr4601EeuleM-t5CAq6g" guid="-J3_FRZHFum3XFrH6cbhoAg">
+    <refinedDescription>Identificar, seleccionar, planificar e implementar alternativas de control o acciones de respuesta (mitigación y&#xD;
+contingencia) que permitan abordar la exposición al riesgo del activo de manera oportuna, a fin de minimizar el efecto&#xD;
+negativo en el logro de los objetivos o aprovechar el positivo para el beneficio de la organización. A través de unas&#xD;
+acciones de respuesta con un plan definido, comunicado y acordado con las partes interesadas de la organización, en donde&#xD;
+se especifique claramente el orden en el que se implementarán las acciones, los responsables de su realización y recursos&#xD;
+necesarios.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dxLO-l9Pp9UFMqRSFeggQQ" name="GR_A2.05,_66Yr5K01EeuleM-t5CAq6g" guid="-dxLO-l9Pp9UFMqRSFeggQQ">
+    <refinedDescription>Monitorear y controlar continuamente los riesgos del perfil de riesgo del activo durante todo el ciclo de vida, con el fin&#xD;
+de verificar cambios en su estado e identificar y analizar nuevos riesgos, fuentes y factores de riesgo. Supervisar y&#xD;
+documentar los cambios en el contexto de la GR y reevaluar los riesgos con base en los cambios. Realizar la implementación&#xD;
+y seguimiento a las métricas para medir y evaluar la efectividad de las acciones de tratamiento de los riesgos y generar&#xD;
+lecciones aprendidas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Em5AoNZ_7Ob-wQoZ16rKFw" name="GR_A2.06,_66Yr5a01EeuleM-t5CAq6g" guid="-Em5AoNZ_7Ob-wQoZ16rKFw">
+    <refinedDescription>Gestionar y mantener un historial actualizado de los riesgos presentes en un activo de la organización junto a sus&#xD;
+respectivas acciones de tratamiento. Así como también, proporcionar información periódica del perfil de riesgo a todas las&#xD;
+partes interesadas en función de sus necesidades.&amp;nbsp;</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

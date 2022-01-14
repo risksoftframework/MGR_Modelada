@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-If95WIsnj-nIt1R-AaLlLA" name=",_g_gkgKxUEeuVEdXlov3DVQ" guid="-If95WIsnj-nIt1R-AaLlLA" changeDate="2021-06-04T17:11:54.015-0500">
+  <mainDescription>Identificar, seleccionar, planificar e implementar alternativas de control o acciones de respuesta (mitigación y&#xD;
+contingencia) que permitan abordar la exposición al riesgo del activo de manera oportuna, a fin de minimizar el efecto&#xD;
+negativo en el logro de los objetivos o aprovechar el positivo para el beneficio de la organización. A través de unas&#xD;
+acciones de respuesta con un plan definido, comunicado y acordado con las partes interesadas de la organización, en donde&#xD;
+se especifique claramente el orden en el que se implementarán las acciones, los responsables de su realización y recursos&#xD;
+necesarios.</mainDescription>
+  <sections xmi:id="_4jj6EMWBEeukqNeDnMQEfA" name="P1. Corregir o reforzar los controles de riesgos existentes." guid="_4jj6EMWBEeukqNeDnMQEfA"/>
+  <sections xmi:id="_8uwvMMWBEeukqNeDnMQEfA" name="P2. Identificar y selección de las acciones de respuesta para el tratamiento de riesgos." guid="_8uwvMMWBEeukqNeDnMQEfA">
+    <sectionDescription>Para esta selección se deberá tomar en cuenta la prioridad del riesgo y el tipo de estrategia de respuesta asignada.&#xD;
+Además, se deberán considerar los costos, esfuerzos, recursos disponibles, beneficios o resultados esperados para la&#xD;
+organización por la implementación de las acciones de respuesta (mitigación y contingencia). Tener en cuenta los&#xD;
+compromisos y obligaciones contractuales de la organización, así como también los puntos de vista de las partes&#xD;
+interesadas.</sectionDescription>
+  </sections>
+  <sections xmi:id="_BYwZIMWCEeukqNeDnMQEfA" name="P3. Establecer los controles para medir la eficacia de las acciones a implementar." guid="_BYwZIMWCEeukqNeDnMQEfA"/>
+  <sections xmi:id="_CzWu4MWCEeukqNeDnMQEfA" name="P4. Establecer los responsables de la responsables y recursos necesarios." guid="_CzWu4MWCEeukqNeDnMQEfA"/>
+  <sections xmi:id="_EqOJ4MWCEeukqNeDnMQEfA" name="P5. Desarrollar y aprobar el plan de tratamiento de riesgos." guid="_EqOJ4MWCEeukqNeDnMQEfA">
+    <sectionDescription>El plan deberá incluir detalles sobre cómo se implementarán cada una de las acciones elegidas, los responsables (roles y&#xD;
+responsabilidades), recursos necesarios, el cronograma con plazos y costos previstos para su realización, informes de&#xD;
+progreso y seguimientos requeridos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Gf55IMWCEeukqNeDnMQEfA" name="P6. Comunicar e implementar el plan de tratamiento de riesgos." guid="_Gf55IMWCEeukqNeDnMQEfA">
+    <sectionDescription>Comunicar de forma eficaz el plan a las diferentes partes interesadas e integrarlo en el plan de gestión del activo.</sectionDescription>
+  </sections>
+  <sections xmi:id="_J5aLkMWCEeukqNeDnMQEfA" name="P7. Planificar el seguimiento al plan de tratamiento de riesgos." guid="_J5aLkMWCEeukqNeDnMQEfA"/>
+  <sections xmi:id="_PrthYMWCEeukqNeDnMQEfA" name="P8. Realizar el seguimiento y revisión al plan de tratamiento de riesgos." guid="_PrthYMWCEeukqNeDnMQEfA">
+    <sectionDescription>Verificar si las acciones de respuesta al riesgo son efectivas, si cumplen con el presupuesto, si requieren recursos&#xD;
+adicionales o determinar la necesidad de nuevas acciones para abordar el riesgo.</sectionDescription>
+  </sections>
+  <sections xmi:id="_TT8MUMWCEeukqNeDnMQEfA" name="P9. Generar y proporcionar informes sobre el plan de tratamiento de riesgos." guid="_TT8MUMWCEeukqNeDnMQEfA"/>
+  <sections xmi:id="_Ufq_oMWCEeukqNeDnMQEfA" name="P10: Actualizar el perfil de riesgos del activo." guid="_Ufq_oMWCEeukqNeDnMQEfA"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+Identificar, seleccionar, planificar e implementar alternativas de control o acciones de respuesta (&lt;i>mitigacion y&#xD;
+contingencia&lt;/i>) que permitan abordar la exposición al riesgo de un activo de manera oportuna, a fin de minimizar el&#xD;
+efecto negativo en el logro de los objetivos o aprovechar el positivo para el beneficio de la organizacion. A traves de&#xD;
+unas acciones de respuesta con un plan definido, comunicado y acordado con las partes interesadas de la organizacion, en&#xD;
+donde se especifique claramente el orden en el que se implementaran las acciones, los responsables de su realizacion y&#xD;
+recursos necesarios.&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

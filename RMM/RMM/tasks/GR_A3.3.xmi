@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ren0X7ltmZnvGnVlVA8WjQ" name=",_EY36QKxfEeuVEdXlov3DVQ" guid="-ren0X7ltmZnvGnVlVA8WjQ" changeDate="2021-06-04T17:52:26.180-0500">
+  <mainDescription>Recolectar las lecciones aprendidas relacionadas a la implementación del PGR del activo, con el fin de compartir el&#xD;
+conocimiento a toda la organización.</mainDescription>
+  <sections xmi:id="_5sFK-6xfEeuVEdXlov3DVQ" name="P1. Identificar y documentar las lecciones aprendidas." guid="_5sFK-6xfEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_5sFK-qxfEeuVEdXlov3DVQ" name="P2. Integrar las lecciones aprendidas en el repositorio institucional." guid="_5sFK-qxfEeuVEdXlov3DVQ"/>
+  <purpose>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

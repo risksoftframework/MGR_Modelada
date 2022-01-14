@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r4uRtCuvhgU_GAkdfxpeeQ" name=",_jHaUIKuvEeuuCssargsKeA" guid="-r4uRtCuvhgU_GAkdfxpeeQ" changeDate="2021-06-03T20:24:48.603-0500">
+  <mainDescription>Revisar la implementación de la EGR respecto al cronograma establecido, y a los objetivos y métricas acordadas, para así&#xD;
+identificar los problemas y determinar sus posibles causas, a fin de que puedan ser corregidas.</mainDescription>
+  <sections xmi:id="_Tp2TIawhEeuVEdXlov3DVQ" name="P1. Realizar el seguimiento a la implementación de la EGR." guid="_Tp2TIawhEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_Tp2TI6whEeuVEdXlov3DVQ" name="P2. Revisar y analizar los informes de evaluación y seguimiento al PGR del activo." guid="_Tp2TI6whEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_Tp2TIqwhEeuVEdXlov3DVQ" name="P3. Medir la eficacia de la EGR." guid="_Tp2TIqwhEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_Tp2TJKwhEeuVEdXlov3DVQ" name="P4. Generar los informes de seguimiento y medición de la EGR." guid="_Tp2TJKwhEeuVEdXlov3DVQ"/>
+  <purpose>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

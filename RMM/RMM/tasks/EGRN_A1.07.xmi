@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iqOm55kUwslqu4wMYsIkTQ" name=",_DxaNgKuiEeuuCssargsKeA" guid="-iqOm55kUwslqu4wMYsIkTQ" changeDate="2021-06-03T19:45:47.111-0500">
+  <mainDescription>Establecer claramente la periodicidad en la que se llevará a cabo el seguimiento de la EGR, la cual pretenderá evaluar su&#xD;
+grado de eficacia y la detección de problemas o limitaciones que impidan la consecución de los objetivos. Para las&#xD;
+actualizaciones, seguir las indicaciones realizadas en la propuesta de mejora, en caso de existir.</mainDescription>
+  <sections xmi:id="_V_7zcKuiEeuuCssargsKeA" name="P1. Determinar el número de hitos necesarios." guid="_V_7zcKuiEeuuCssargsKeA">
+    <sectionDescription>&lt;p>&#xD;
+    Garantizar un seguimiento continuo a la EGR durante su ciclo de vida y establecer los recursos de gestión necesarios&#xD;
+    (responsable y participantes).&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

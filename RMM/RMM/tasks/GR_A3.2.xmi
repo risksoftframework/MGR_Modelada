@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hvu5z85PpC8qnh0QdWdWLw" name=",_Znp3EKxdEeuVEdXlov3DVQ" guid="-hvu5z85PpC8qnh0QdWdWLw" changeDate="2021-06-04T17:45:41.952-0500">
+  <mainDescription>Identificar e implementar acciones de mejora necesarias al PGR para resolver los problemas o limitaciones identificadas.</mainDescription>
+  <sections xmi:id="_5sFK-KxfEeuVEdXlov3DVQ" name="P1. Analizar los informes de seguimiento y evaluación del PGR del activo." guid="_5sFK-KxfEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_5sFK9qxfEeuVEdXlov3DVQ" name="P2. Identificar y definir las acciones de mejora." guid="_5sFK9qxfEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_5sFK96xfEeuVEdXlov3DVQ" name="P3. Generar y aprobar el plan de mejora al PGR del activo." guid="_5sFK96xfEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_5sFK9axfEeuVEdXlov3DVQ" name="P4. Ejecutar y dar seguimiento al plan de mejora del PGR del activo." guid="_5sFK9axfEeuVEdXlov3DVQ"/>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

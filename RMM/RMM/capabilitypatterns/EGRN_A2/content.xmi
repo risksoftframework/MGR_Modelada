@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S2ahRR6C-CZBChsNa-6MZw" name="EGRN_A2,_H42-Aaz1EeuleM-t5CAq6g" guid="-S2ahRR6C-CZBChsNa-6MZw">
+  <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Preparación para la implementacion: &lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
+ lang=&quot;ES-CO&quot;>Permite la instauración, asignación de roles y responsabilidades a los diferentes recursos de gestión&#xD;
+necesarios. Además, involucra la ejecución del plan de capacitación y comunicación de la EGR en los diferentes niveles de&#xD;
+la organización.&lt;/span>&lt;/font>&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ProcessDescription>

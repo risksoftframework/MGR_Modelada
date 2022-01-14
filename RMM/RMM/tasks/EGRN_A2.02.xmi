@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Dxtmzmj2Ch0Kcj0reb9E0g" name=",_cuxMgKuuEeuuCssargsKeA" guid="-Dxtmzmj2Ch0Kcj0reb9E0g" changeDate="2021-06-03T20:22:28.402-0500">
+  <mainDescription>Implementar el plan de capacitación y comunicación sobre la EGR dentro del plazo y el presupuesto asignado, garantizado su&#xD;
+correcta ejecución y proporcionando una retroalimentación de su realización.</mainDescription>
+  <sections xmi:id="_eRJUQMTTEeuSQpRAqzZuYg" name="P1. Ejecutar y supervisar los planes de capacitación y comunicación de la EGR." guid="_eRJUQMTTEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_es0joMTTEeuSQpRAqzZuYg" name="P2. Evaluar los planes de capacitación y comunicación de la EGR." guid="_es0joMTTEeuSQpRAqzZuYg"/>
+  <sections xmi:id="_gvvdoMTTEeuSQpRAqzZuYg" name="P3. Generar los informes de seguimiento sobre la capacitación y comunicación de la EGR." guid="_gvvdoMTTEeuSQpRAqzZuYg"/>
+  <purpose>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

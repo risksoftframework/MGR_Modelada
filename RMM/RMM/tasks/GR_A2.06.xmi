@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CV6DRbBNlzUX_rOjNEdpZw" name=",_pFKgMKxYEeuVEdXlov3DVQ" guid="-CV6DRbBNlzUX_rOjNEdpZw" changeDate="2021-06-04T17:18:43.124-0500">
+  <mainDescription>Gestionar y mantener un historial actualizado de los riesgos presentes en un activo de la organización junto a sus&#xD;
+respectivas acciones de tratamiento. Así como también, proporcionar información periódica del perfil de riesgo a todas las&#xD;
+partes interesadas en función de sus necesidades.&amp;nbsp;</mainDescription>
+  <sections xmi:id="_7M4QQMWCEeukqNeDnMQEfA" name="P1. Capturar, registrar y mantener regularmente la información del perfil de riesgo del activo." guid="_7M4QQMWCEeukqNeDnMQEfA">
+    <sectionDescription>El perfil del riesgo contiene el historial de los riesgos identificados para un activo. Cada uno de los riesgos&#xD;
+identificados deberán estar clasificados, contener una descripción general, los controles establecidos (disparadores del&#xD;
+riesgo) y sus propietarios. Así como también los eventos de su materialización, sus causas, consecuencias y factores de&#xD;
+riesgos que lo generaron. Junto a los resultados del análisis del riesgo (probabilidad e impacto), la valoración y los&#xD;
+planes implementados para su tratamiento.</sectionDescription>
+  </sections>
+  <sections xmi:id="_-4_VoMWCEeukqNeDnMQEfA" name="P2. Comunicar periódicamente el perfil de riesgo." guid="_-4_VoMWCEeukqNeDnMQEfA">
+    <sectionDescription>Generar transparencia sobre el proceso de GR a través de la disponibilidad de la información consignada en el perfil de&#xD;
+riesgo del activo, para que sean accesibles por todas las partes interesadas, en función de sus necesidades y requisitos&#xD;
+para apoyar la toma de decisiones en la organización.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

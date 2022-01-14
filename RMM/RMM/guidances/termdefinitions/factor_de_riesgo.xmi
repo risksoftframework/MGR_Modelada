@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SvRbvlfVqFcNpJCekvsaPA" name="new_term_definition,_7flCMM13EeulHfspCiGMPA" guid="-SvRbvlfVqFcNpJCekvsaPA" changeDate="2022-01-11T11:35:02.938-0500">
+  <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Es una condición que tiene el potencial de generar riesgos, la cual puede estar en el contexto interno o externo de una&#xD;
+    organización. Los factores de riesgos son causales de eventos/escenarios de riesgo que pueden tener un efecto&#xD;
+    positivo/negativo sobre los activos. Un factor de riesgo interno puede estar relacionado con aspectos financieros,&#xD;
+    jurídicos, gestión, planificación, etc. Mientras que un factor externo puede estar relacionado, por ejemplo, con&#xD;
+    cualquier componente del análisis PESTEL (Políticos, Económicos, Sociales, Tecnológicos, Ambientales, Legales).&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

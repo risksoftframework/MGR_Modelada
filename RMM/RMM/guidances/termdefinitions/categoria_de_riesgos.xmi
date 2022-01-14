@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9NGpkXEnq-JK2lbGC_-Vuw" name="new_term_definition,_bVdrIM13EeulHfspCiGMPA" guid="-9NGpkXEnq-JK2lbGC_-Vuw" changeDate="2022-01-11T11:24:04.981-0500">
+  <mainDescription>&lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-ansi-language: ES-TRAD; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-theme-font: minor-latin&quot;&#xD;
+ lang=&quot;ES-TRAD&quot;>También conocidas como fuentes de riesgos o tipos de riesgos. Una categoría permite identificar y agrupar&#xD;
+los riesgos de un tipo de activo de la organización. Estas categorías pueden dividirse en grupos comunes, adoptando una&#xD;
+estructura jerárquica y niveles necesarios para comprender la exposición al riesgo de un activo de la organización. A esta&#xD;
+estructura jerárquica se le denomina Estructura de Desglose de Riesgos (RBS)/taxonomía de riesgos, los cuales son métodos&#xD;
+empleados para identificar y clasificar los riesgos. Estos métodos pueden ser genéricos, específicos o realizados a la&#xD;
+medida de un activo de la organización.&lt;/span>&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

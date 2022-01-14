@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_lnUuQXJrC1aXIppFcGjyA" name=",_Y1zq0KuWEeuuCssargsKeA" guid="-_lnUuQXJrC1aXIppFcGjyA" changeDate="2021-06-03T19:15:05.702-0500">
+  <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    &lt;span style=&quot;COLOR: black; FONT-SIZE: 9pt; mso-themecolor: text1&quot;>&lt;font face=&quot;Times New Roman&quot;>Definir los objetivos y&#xD;
+    acordar las métricas claves que permitirán medir la eficacia de la ejecución de la EGR. Para la actualización, soporte&#xD;
+    la tarea con las recomendaciones realizadas en la propuesta de mejora, en caso de existir.&lt;/font>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_rIDg4KubEeuuCssargsKeA" name="P1. Definir los objetivos y métricas." guid="_rIDg4KubEeuuCssargsKeA">
+    <sectionDescription>&lt;P style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot; class=MsoListParagraph>&lt;FONT face=&quot;Times New Roman&quot;>&lt;SPAN style=&quot;COLOR: black; FONT-SIZE: 9pt; mso-themecolor: text1&quot;>&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;SPAN style=&quot;FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; FONT-SIZE: 9pt; mso-themecolor: text1; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot; lang=ES-CO>En el caso de las métricas especificar como se deben usar.&lt;/SPAN>&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P></sectionDescription>
+  </sections>
+  <sections xmi:id="_ywxwUKucEeuuCssargsKeA" name="P2. Evaluar si los objetivos y métricas son adecuadas." guid="_ywxwUKucEeuuCssargsKeA"/>
+  <sections xmi:id="_90VkYKucEeuuCssargsKeA" name="P3. Acordar y aprobar los objetivos y métricas con las partes interesadas." guid="_90VkYKucEeuuCssargsKeA"/>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

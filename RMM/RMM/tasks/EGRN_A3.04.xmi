@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-w-6lNAehLC0ecK_nYCQqRQ" name=",_TAUX8KuzEeuuCssargsKeA" guid="-w-6lNAehLC0ecK_nYCQqRQ" changeDate="2021-06-03T20:36:37.231-0500">
+  <mainDescription>Documentar las lecciones aprendidas que fueron recopiladas durante la ejecución de la EGR, con el fin de compartir el&#xD;
+conocimiento a toda la organización.</mainDescription>
+  <sections xmi:id="_Tp2TM6whEeuVEdXlov3DVQ" name="P1. Identificar, evaluar y documentar las lecciones aprendidas." guid="_Tp2TM6whEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_Tp2TMqwhEeuVEdXlov3DVQ" name="P2. Integrar las lecciones aprendidas en el repositorio institucional." guid="_Tp2TMqwhEeuVEdXlov3DVQ"/>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

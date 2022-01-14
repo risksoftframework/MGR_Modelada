@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9itozSR8nlSv46Ey45SkKw" name=",_JrHfsKxOEeuVEdXlov3DVQ" guid="-9itozSR8nlSv46Ey45SkKw" changeDate="2021-06-04T17:03:23.227-0500">
+  <sections xmi:id="_oyb9AKxOEeuVEdXlov3DVQ" name="P1. Definir y acordar el alcance y nivel de detalle del análisis de riesgos." guid="_oyb9AKxOEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_3BOW8KxOEeuVEdXlov3DVQ" name="P2. Seleccionar los procedimientos que soporten el análisis de riesgos." guid="_3BOW8KxOEeuVEdXlov3DVQ">
+    <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
+class=&quot;MsoListParagraph&quot;>&#xD;
+    Seleccionar las técnicas o métodos que soporten el análisis de riesgos tomando en cuenta la disponibilidad,&#xD;
+    confiabilidad de la información y los&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
+class=&quot;MsoListParagraph&quot;>&#xD;
+    recursos disponibles por la organización.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_r_y0YKxPEeuVEdXlov3DVQ" name="P3. Estimar la probabilidad, impacto y magnitud de los riesgos." guid="_r_y0YKxPEeuVEdXlov3DVQ">
+    <sectionDescription>&lt;p>&#xD;
+    Determinar la probabilidad de ocurrencia y gravedad de las consecuencias de los riesgos. Así como también, el cálculo&#xD;
+    de la magnitud del riesgo.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="__3W0sKxPEeuVEdXlov3DVQ" name="P4. Analizar la complejidad de los riesgos y sus interconexiones." guid="__3W0sKxPEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_HHh2sKxQEeuVEdXlov3DVQ" name="P5. Analizar la eficacia de los controles existentes." guid="_HHh2sKxQEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_IxT38KxQEeuVEdXlov3DVQ" name="P6. Analizar las posibles acciones de respuesta al riesgo." guid="_IxT38KxQEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_MGgSIKxQEeuVEdXlov3DVQ" name="P7: Priorizar los riesgos: Determinar que riesgos serán considerados para su evaluación o acciones posteriores." guid="_MGgSIKxQEeuVEdXlov3DVQ">
+    <sectionDescription>&lt;p>&#xD;
+    Esto con el fin de centrar los esfuerzos en los riesgos que tengan una mayor prioridad, en función de los que puedan&#xD;
+    representar una mayor amenaza u oportunidad para el activo de la organización.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+  <sections xmi:id="_T9zlkKxQEeuVEdXlov3DVQ" name="P8. Identificar y acordar los dueños o responsables del riesgo." guid="_T9zlkKxQEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_aNHAcKxQEeuVEdXlov3DVQ" name="P9: Actualizar el perfil de riesgos del activo." guid="_aNHAcKxQEeuVEdXlov3DVQ"/>
+</org.eclipse.epf.uma:TaskDescription>

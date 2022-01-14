@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-JWabpdA1O-pMakCJqmIuCQ" name="EGRN_A3,_O1icQaz1EeuleM-t5CAq6g" guid="-JWabpdA1O-pMakCJqmIuCQ">
+    <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Seguimiento, evaluación y mejora: &lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
+ lang=&quot;ES-CO&quot;>Permite llevar a cabo la revisión y evaluación a la EGR. Y a partir del análisis de los resultados&#xD;
+encontrados proponer acciones tendientes a mejorar la capacidad de la organización frente a los riesgos y lograr que estas&#xD;
+sean sostenibles en el tiempo. Además de identificar y registrar cada una de las lecciones aprendidas.&lt;/span>&lt;/font>&lt;/span></mainDescription>
+    <keyConsiderations>&lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES; mso-fareast-language: EN-US; mso-bidi-language: AR-SA&quot;>&#xD;
+&lt;strong>Nota&lt;/strong>: Una vez que la EGR ha sido evaluada y existe un plan de mejora, se deberá revisar y actualizar los&#xD;
+elementos de la EGR que han sido afectados.&lt;/span></keyConsiderations>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-H5bnCZjD2wOLa2ihQ7eW7Q" name="EGRN_A3.01,_x2_FcKz4EeuleM-t5CAq6g" guid="-H5bnCZjD2wOLa2ihQ7eW7Q">
+    <refinedDescription>Revisar la implementación de la EGR respecto al cronograma establecido, y a los objetivos y métricas acordadas, para así&#xD;
+identificar los problemas y determinar sus posibles causas, a fin de que puedan ser corregidas.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1_pVTHY3FwTYCGQ4PmzqlA" name="EGRN_A3.02,_x2_Fcaz4EeuleM-t5CAq6g" guid="-1_pVTHY3FwTYCGQ4PmzqlA">
+    <refinedDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Evaluar si la EGR está operando de manera eficaz, si se cumple con sus objetivos. Así como también, si se ha integrado&#xD;
+    a los objetivos organización, para generar valor a través de las prácticas de GR.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uxQtoaJFTzpn8rW5mPu2uQ" name="EGRN_A3.03,_x2_Fcqz4EeuleM-t5CAq6g" guid="-uxQtoaJFTzpn8rW5mPu2uQ">
+    <refinedDescription>Establecer acciones de mejora tendientes a solucionar los problemas o limitaciones identificadas en la EGR.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nl7D_lDtS1yw95gOkEMYuw" name="EGRN_A3.04,_x2_Fc6z4EeuleM-t5CAq6g" guid="-nl7D_lDtS1yw95gOkEMYuw">
+    <refinedDescription>Documentar las lecciones aprendidas que fueron recopiladas durante la ejecución de la EGR, con el fin de compartir el&#xD;
+conocimiento a toda la organización.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ca0ooBgKJYiVFlIYiMrdMw" name="CEO,_x2_FdKz4EeuleM-t5CAq6g" guid="-ca0ooBgKJYiVFlIYiMrdMw">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo con el más alto rango que tiene como responsabilidad la gestión y dirección de la organización, tendiente a&#xD;
+    garantizar que las actividades se realicen de manera eficiente para lograr el cumplimiento de los objetivos y la&#xD;
+    generación de ganancias o utilidades.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ia6bz4pLHkBNDlc08yeRsQ" name="RGRN,_x2_Fdqz4EeuleM-t5CAq6g" guid="-Ia6bz4pLHkBNDlc08yeRsQ">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
+    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
+    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SkrzqIWXnUc-Crg7SDQAhQ" name="CRN,_x2_FeKz4EeuleM-t5CAq6g" guid="-SkrzqIWXnUc-Crg7SDQAhQ">
+    <refinedDescription>&lt;p>&#xD;
+    Grupo de directivos y expertos seleccionados por la organización que tienen la función principal de realizar y dirigir&#xD;
+    el diseño e implementación de la estrategia de gestión de riesgos del negocio. Así como también, garantizar los&#xD;
+    resultados de la estrategia y respaldar la toma decisiones.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QymjtiFMhYqTesO0kPVPng" name="GD,_x2_Feqz4EeuleM-t5CAq6g" guid="-QymjtiFMhYqTesO0kPVPng">
+    <refinedDescription>&lt;p>&#xD;
+    Grupo de altos directivos de la organización responsables de la planificación estratégica del negocio y la toma de&#xD;
+    decisiones conducentes al logro de los objetivos de la organización. Además, son los encargados de garantizar que la&#xD;
+    EGR funcione de manera correcta.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xpFS5t6n6QzWE0KZhH9xRA" name="EV,_x2_FfKz4EeuleM-t5CAq6g" guid="-xpFS5t6n6QzWE0KZhH9xRA">
+    <refinedDescription>Persona experta responsable de llevar a cabo la evaluación de la EGR. Así como también de asesorar al comité de riesgos en&#xD;
+la elaboración de la propuesta de mejora de la EGR.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

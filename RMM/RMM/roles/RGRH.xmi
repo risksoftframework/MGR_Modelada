@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ZR3PNjGQjL7Rd88Arb_yjg" name="RGRH,_LzNsUKuYEeuuCssargsKeA" guid="-ZR3PNjGQjL7Rd88Arb_yjg" changeDate="2021-06-03T18:45:21.605-0500">
+  <mainDescription>&lt;p>&#xD;
+    Directivo responsable de rendir cuentas por la planificación y gestión de los recursos humanos, conforme a las&#xD;
+    políticas y necesidades de la organización.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

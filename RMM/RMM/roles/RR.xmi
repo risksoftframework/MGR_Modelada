@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oLpYbYgWSAKFKgPDKAL_fQ" name="RR,_SP4qQKuXEeuuCssargsKeA" guid="-oLpYbYgWSAKFKgPDKAL_fQ" changeDate="2021-06-03T18:46:29.122-0500">
+  <mainDescription>&lt;p>&#xD;
+    Profesional que conforma un equipo de trabajo de un activo de la organización y que tiene la responsabilidad de&#xD;
+    gestionar los riesgos individuales que le han sido asignados. Un RR debe colaborar en la identificación y definición de&#xD;
+    las acciones de control frente al riesgo, así como garantizar que se apliquen de manera eficaz conforme a lo&#xD;
+    establecido.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

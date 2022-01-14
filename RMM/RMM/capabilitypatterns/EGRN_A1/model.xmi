@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="__eGiwqz1EeuleM-t5CAq6g" guid="__eGiwqz1EeuleM-t5CAq6g">
+    <resourceDescriptors xmi:id="__eGiw6z1EeuleM-t5CAq6g" id="-ccxSF2pD3sq_x5xghBPf9g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_rlWaMKz2EeuleM-t5CAq6g" id="-i5OSl0n7p0_7Y98RcYUneg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1RUTQb9MEeuXwcSzT7huYg" id="-mrfdzowgTpHvSIDNhamTwg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1RUTQr9MEeuXwcSzT7huYg" id="-L-lXrl_EaiWjBhucXPceYQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1RUTQ79MEeuXwcSzT7huYg" id="-DdjTrd3YjWR0bdnHPlhY4g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1RUTRL9MEeuXwcSzT7huYg" id="--melGOfxXYbIZsF5Rlwtaw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1RddML9MEeuXwcSzT7huYg" id="-MkGU2CKe3LU8yvsH92BJUQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1RddMb9MEeuXwcSzT7huYg" id="-YnJwwDVAUmvzZQ2fi_O1vQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_1RddMr9MEeuXwcSzT7huYg" id="-EWoYDpNZ4zzTm_Z-LAc0tA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="__dzn0Kz1EeuleM-t5CAq6g" name="EGRN_A1" guid="__dzn0Kz1EeuleM-t5CAq6g">
+    <methodElementProperty xmi:id="__dzn0qz1EeuleM-t5CAq6g" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_C8XZYKz2EeuleM-t5CAq6g" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDJ4gKz2EeuleM-t5CAq6g" name="EGRN_A1.02" guid="_lDJ4gKz2EeuleM-t5CAq6g" presentationName="A1.02: Identificar las necesidades actuales de la organizacion frente al riesgo" superActivities="__dzn0az1EeuleM-t5CAq6g" additionallyPerformedBy="_lDwVcqz2EeuleM-t5CAq6g _lDwVdKz2EeuleM-t5CAq6g" performedPrimarilyBy="_lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFFyMKz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <methodElementProperty xmi:id="_3IeQkq0hEeuleM-t5CAq6g" name="wbe_GlobalPresentedAfter" value="_lDTpgKz2EeuleM-t5CAq6g"/>
+      <presentation xmi:id="-i5OSl0n7p0_7Y98RcYUneg" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-i5OSl0n7p0_7Y98RcYUneg"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_45zoQKuVEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-q4VsILrHRfupKtrKpxPsSA#_YzDKYKuZEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-q4VsILrHRfupKtrKpxPsSA#_eJYV4KuZEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDTpgKz2EeuleM-t5CAq6g" name="EGRN_A1.01" guid="_lDTpgKz2EeuleM-t5CAq6g" presentationName="A1.01: Formular o actualizar las politicas de riesgos del negocio" superActivities="__dzn0az1EeuleM-t5CAq6g" additionallyPerformedBy="_lDwVcqz2EeuleM-t5CAq6g _lDwVdKz2EeuleM-t5CAq6g" performedPrimarilyBy="_lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFPjNaz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <methodElementProperty xmi:id="_3IeQkK0hEeuleM-t5CAq6g" name="wbe_GlobalPresentedAfter" value="__dzn0az1EeuleM-t5CAq6g"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_U-_xUKuWEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-q3XEUwdEBp0ySVXNaYmSBg#_FJeGQKuaEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-q3XEUwdEBp0ySVXNaYmSBg#_S56XUKuaEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-q3XEUwdEBp0ySVXNaYmSBg#_duJ9AKuaEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDTpgaz2EeuleM-t5CAq6g" name="EGRN_A1.03" guid="_lDTpgaz2EeuleM-t5CAq6g" presentationName="A1.03: Desarrollar o actualizar los objetivos de la EGR y metricas claves" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="_heK8wa0gEeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFPjN6z2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <methodElementProperty xmi:id="_3IeQka0hEeuleM-t5CAq6g" name="wbe_GlobalPresentedAfter" value="_lDJ4gKz2EeuleM-t5CAq6g"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_Y1zq0KuWEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-_lnUuQXJrC1aXIppFcGjyA#_rIDg4KubEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-_lnUuQXJrC1aXIppFcGjyA#_ywxwUKucEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-_lnUuQXJrC1aXIppFcGjyA#_90VkYKucEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDTpgqz2EeuleM-t5CAq6g" name="EGRN_A1.04" guid="_lDTpgqz2EeuleM-t5CAq6g" presentationName="A1.04. Definir o actualizar el alcance de la EGR" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="_n5PU0Kz2EeuleM-t5CAq6g" additionallyPerformedBy="_lDwVdKz2EeuleM-t5CAq6g _lDwVcqz2EeuleM-t5CAq6g" performedPrimarilyBy="_lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFYtIKz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_98wrIKudEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-WaBh2wUMZsdimQr9zkno-g#_V3XqIKueEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-WaBh2wUMZsdimQr9zkno-g#_b3y7gKueEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-WaBh2wUMZsdimQr9zkno-g#_feZOwKueEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDTpg6z2EeuleM-t5CAq6g" name="EGRN_A1.06" guid="_lDTpg6z2EeuleM-t5CAq6g" presentationName="A1.06: Definir o actualizar los recursos de gestion de riesgos del negocio" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="_tJGygK0jEeuleM-t5CAq6g" additionallyPerformedBy="_lDwVdqz2EeuleM-t5CAq6g _lDwVdKz2EeuleM-t5CAq6g" performedPrimarilyBy="_lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFYtIaz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <methodElementProperty xmi:id="_MigMYK0mEeuleM-t5CAq6g" name="wbe_GlobalPresentedAfter" value="_lDczcKz2EeuleM-t5CAq6g"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_jRyn4KueEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-9X96jH6HZB88g5YJyMsnAA#_BaxNoKufEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-9X96jH6HZB88g5YJyMsnAA#_DqyIcKufEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDTphKz2EeuleM-t5CAq6g" name="EGRN_A1.07" guid="_lDTphKz2EeuleM-t5CAq6g" presentationName="A1.07: Establecer o actualizar la periodicidad para el seguimiento y evaluacion de la EGR" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="_9LpCAa0jEeuleM-t5CAq6g" additionallyPerformedBy="_lD5fYKz2EeuleM-t5CAq6g" performedPrimarilyBy="_lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFYtJKz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <methodElementProperty xmi:id="_MJNioK0mEeuleM-t5CAq6g" name="wbe_GlobalPresentedAfter" value="_lDTpg6z2EeuleM-t5CAq6g"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_DxaNgKuiEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-iqOm55kUwslqu4wMYsIkTQ#_V_7zcKuiEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDczcKz2EeuleM-t5CAq6g" name="EGRN_A1.05" guid="_lDczcKz2EeuleM-t5CAq6g" presentationName="A1.05: Definir o actualizar el proceso de GR" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="_uyvCwK0jEeuleM-t5CAq6g" performedPrimarilyBy="_lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFYtJqz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <methodElementProperty xmi:id="_MJNioq0mEeuleM-t5CAq6g" name="wbe_GlobalPresentedAfter" value="_lDTpgqz2EeuleM-t5CAq6g"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_1unWQKujEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-ZMOts_zOCeLUrmB76-WPMQ#_B2Uu8KukEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-ZMOts_zOCeLUrmB76-WPMQ#_FfTAwKukEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-ZMOts_zOCeLUrmB76-WPMQ#_OWkjcKukEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-ZMOts_zOCeLUrmB76-WPMQ#_zoHuYKukEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDczcaz2EeuleM-t5CAq6g" name="EGRN_A1.08" guid="_lDczcaz2EeuleM-t5CAq6g" presentationName="A1.08: Generar, validar y aprobar el documento de la EGR" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="_yQtMMa0oEeuleM-t5CAq6g _rWSiUK0pEeuleM-t5CAq6g" additionallyPerformedBy="_lDwVcqz2EeuleM-t5CAq6g" performedPrimarilyBy="_lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFieIKz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <methodElementProperty xmi:id="_MJNioa0mEeuleM-t5CAq6g" name="wbe_GlobalPresentedAfter" value="_lDTphKz2EeuleM-t5CAq6g"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_5r09QKukEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-tq_BKYeztPv54Moa7J5zmg#_bzK2AKulEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-tq_BKYeztPv54Moa7J5zmg#_eDCm4KulEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-tq_BKYeztPv54Moa7J5zmg#_gsCpcKulEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-tq_BKYeztPv54Moa7J5zmg#_knnuMKulEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-tq_BKYeztPv54Moa7J5zmg#_o5EVQKulEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-tq_BKYeztPv54Moa7J5zmg#_xWTnUKulEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lDczcqz2EeuleM-t5CAq6g" name="EGRN_A1.09" guid="_lDczcqz2EeuleM-t5CAq6g" presentationName="A1.09. Definir el plan de capacitacion de la EGR" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="__Ot6wK0oEeuleM-t5CAq6g" additionallyPerformedBy="_lDwVcqz2EeuleM-t5CAq6g _lDwVdqz2EeuleM-t5CAq6g" performedPrimarilyBy="_lD5fYqz2EeuleM-t5CAq6g _lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lFieI6z2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_BTv7cKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_ZvzaoKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_c6lUkKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_hhAtIKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_lrdUUKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_qINzgKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_s1_BUKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_wSK0UKumEeuuCssargsKeA"/>
+      <selectedSteps href="uma://-dYyTY24tJhc7K3YJBtPN2Q#_zcDWYKumEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_lDczc6z2EeuleM-t5CAq6g" name="RGRN" guid="_lDczc6z2EeuleM-t5CAq6g" presentationName="Responsable de la gestion de Riesgos del Negocio" isPlanned="false" superActivities="__dzn0az1EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lDczdKz2EeuleM-t5CAq6g" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_lFPjNKz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-mrfdzowgTpHvSIDNhamTwg" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-mrfdzowgTpHvSIDNhamTwg"/>
+      <Role href="uma://_v0Qq8KuTEeuuCssargsKeA#_iA_A8KuWEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_lDwVcKz2EeuleM-t5CAq6g" name="CRN" guid="_lDwVcKz2EeuleM-t5CAq6g" presentationName="Comite de Riesgos del Negocio " isPlanned="false" superActivities="__dzn0az1EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lDwVcaz2EeuleM-t5CAq6g" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_lFPjM6z2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-L-lXrl_EaiWjBhucXPceYQ" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-L-lXrl_EaiWjBhucXPceYQ"/>
+      <Role href="uma://_v0Qq8KuTEeuuCssargsKeA#_MEcbsKuXEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_lDwVcqz2EeuleM-t5CAq6g" name="CEO" guid="_lDwVcqz2EeuleM-t5CAq6g" presentationName="Director General Ejecutivo" isPlanned="false" superActivities="__dzn0az1EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lDwVc6z2EeuleM-t5CAq6g" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_lFPjMaz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-DdjTrd3YjWR0bdnHPlhY4g" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-DdjTrd3YjWR0bdnHPlhY4g"/>
+      <Role href="uma://_v0Qq8KuTEeuuCssargsKeA#_sq9QUKuWEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_lDwVdKz2EeuleM-t5CAq6g" name="GD" guid="_lDwVdKz2EeuleM-t5CAq6g" presentationName="Grupo Directivo" isPlanned="false" superActivities="__dzn0az1EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lDwVdaz2EeuleM-t5CAq6g" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_lFPjMqz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="--melGOfxXYbIZsF5Rlwtaw" href="uma://-ccxSF2pD3sq_x5xghBPf9g#--melGOfxXYbIZsF5Rlwtaw"/>
+      <Role href="uma://_v0Qq8KuTEeuuCssargsKeA#_qGtx8KuWEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_lDwVdqz2EeuleM-t5CAq6g" name="RGRH" guid="_lDwVdqz2EeuleM-t5CAq6g" presentationName="Responsable de la Gestion de Recursos Humanos" isPlanned="false" superActivities="__dzn0az1EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lDwVd6z2EeuleM-t5CAq6g" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_lFYtIqz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-MkGU2CKe3LU8yvsH92BJUQ" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-MkGU2CKe3LU8yvsH92BJUQ"/>
+      <Role href="uma://_v0Qq8KuTEeuuCssargsKeA#_LzNsUKuYEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_lD5fYKz2EeuleM-t5CAq6g" name="EV" guid="_lD5fYKz2EeuleM-t5CAq6g" presentationName="Evaluador" isPlanned="false" superActivities="__dzn0az1EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lD5fYaz2EeuleM-t5CAq6g" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_lFYtJaz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-YnJwwDVAUmvzZQ2fi_O1vQ" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-YnJwwDVAUmvzZQ2fi_O1vQ"/>
+      <Role href="uma://_v0Qq8KuTEeuuCssargsKeA#_e9rLgKuXEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_lD5fYqz2EeuleM-t5CAq6g" name="RC" guid="_lD5fYqz2EeuleM-t5CAq6g" presentationName="Responsable de la Capacitacion" isPlanned="false" superActivities="__dzn0az1EeuleM-t5CAq6g">
+      <methodElementProperty xmi:id="_lD5fY6z2EeuleM-t5CAq6g" name="descriptor_createdByReference" value="true"/>
+      <methodElementProperty xmi:id="_lFieJqz2EeuleM-t5CAq6g" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <presentation xmi:id="-EWoYDpNZ4zzTm_Z-LAc0tA" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-EWoYDpNZ4zzTm_Z-LAc0tA"/>
+      <Role href="uma://_v0Qq8KuTEeuuCssargsKeA#_-0BSAKuXEeuuCssargsKeA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_n5PU0Kz2EeuleM-t5CAq6g" guid="_n5PU0Kz2EeuleM-t5CAq6g" pred="_lDTpgaz2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_heK8wa0gEeuleM-t5CAq6g" guid="_heK8wa0gEeuleM-t5CAq6g" pred="_lDJ4gKz2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_tJGygK0jEeuleM-t5CAq6g" guid="_tJGygK0jEeuleM-t5CAq6g" pred="_lDczcKz2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_uyvCwK0jEeuleM-t5CAq6g" guid="_uyvCwK0jEeuleM-t5CAq6g" pred="_lDTpgqz2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9LpCAa0jEeuleM-t5CAq6g" guid="_9LpCAa0jEeuleM-t5CAq6g" pred="_lDTpg6z2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_yQtMMa0oEeuleM-t5CAq6g" guid="_yQtMMa0oEeuleM-t5CAq6g" pred="_lDTphKz2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__Ot6wK0oEeuleM-t5CAq6g" guid="__Ot6wK0oEeuleM-t5CAq6g" pred="_lDczcaz2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_rWSiUK0pEeuleM-t5CAq6g" guid="_rWSiUK0pEeuleM-t5CAq6g" pred="_lDTpgKz2EeuleM-t5CAq6g"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_4LuO4L9MEeuXwcSzT7huYg" name="EGRN_A1.10" guid="_4LuO4L9MEeuXwcSzT7huYg" presentationName="A1.10 Definir y aprobar el plan de comunicacion de la EGR" superActivities="__dzn0az1EeuleM-t5CAq6g" linkToPredecessor="_5PRWkL9MEeuXwcSzT7huYg">
+      <methodElementProperty xmi:id="_4MUr0L9MEeuXwcSzT7huYg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+      <Task href="uma://_v0Qq8KuTEeuuCssargsKeA#_l3r20L9MEeuXwcSzT7huYg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_5PRWkL9MEeuXwcSzT7huYg" guid="_5PRWkL9MEeuXwcSzT7huYg" pred="_lDczcqz2EeuleM-t5CAq6g"/>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="__dzn0az1EeuleM-t5CAq6g" name="EGRN_A1" guid="__dzn0az1EeuleM-t5CAq6g" presentationName="A1. Planificacion de la estrategia de riesgos" breakdownElements="_lDTpgKz2EeuleM-t5CAq6g _lDJ4gKz2EeuleM-t5CAq6g _lDTpgaz2EeuleM-t5CAq6g _lDTpgqz2EeuleM-t5CAq6g _lDczcKz2EeuleM-t5CAq6g _lDTpg6z2EeuleM-t5CAq6g _lDTphKz2EeuleM-t5CAq6g _lDczcaz2EeuleM-t5CAq6g _lDczcqz2EeuleM-t5CAq6g _lDczc6z2EeuleM-t5CAq6g _lDwVcKz2EeuleM-t5CAq6g _lDwVcqz2EeuleM-t5CAq6g _lDwVdKz2EeuleM-t5CAq6g _lDwVdqz2EeuleM-t5CAq6g _lD5fYKz2EeuleM-t5CAq6g _lD5fYqz2EeuleM-t5CAq6g _4LuO4L9MEeuXwcSzT7huYg">
+      <presentation xmi:id="-ccxSF2pD3sq_x5xghBPf9g" href="uma://-ccxSF2pD3sq_x5xghBPf9g#-ccxSF2pD3sq_x5xghBPf9g"/>
+      <defaultContext href="uma://_uF3PcKuTEeuuCssargsKeA#_x45GwKz0EeuleM-t5CAq6g"/>
+      <validContext href="uma://_uF3PcKuTEeuuCssargsKeA#_x45GwKz0EeuleM-t5CAq6g"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

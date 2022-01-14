@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_17ZZQaz8EeuleM-t5CAq6g" name="EGRN_Proceso">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_17ZZQqz8EeuleM-t5CAq6g" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_17ZZQ6z8EeuleM-t5CAq6g" key="uri" value="uma://_5GZPQKz0EeuleM-t5CAq6g#_5GZPQaz0EeuleM-t5CAq6g"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_17ZZRKz8EeuleM-t5CAq6g" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_172FMKz8EeuleM-t5CAq6g" name="A1. Planificacion de la estrategia de riesgos" outgoing="_172FPaz8EeuleM-t5CAq6g">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_172FMaz8EeuleM-t5CAq6g" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_172FMqz8EeuleM-t5CAq6g" key="uri" value="uma://_5GZPQKz0EeuleM-t5CAq6g#_xNKIgaz8EeuleM-t5CAq6g"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_172FM6z8EeuleM-t5CAq6g" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_172FNKz8EeuleM-t5CAq6g" name="A2. Preparacion para la implementacion" outgoing="_172FPKz8EeuleM-t5CAq6g" incoming="_172FPaz8EeuleM-t5CAq6g">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_172FNaz8EeuleM-t5CAq6g" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_172FNqz8EeuleM-t5CAq6g" key="uri" value="uma://_5GZPQKz0EeuleM-t5CAq6g#_xNKIg6z8EeuleM-t5CAq6g"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_172FN6z8EeuleM-t5CAq6g" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_172FOKz8EeuleM-t5CAq6g" name="A3. Seguimiento, evaluacion y mejora" incoming="_172FPKz8EeuleM-t5CAq6g">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_172FOaz8EeuleM-t5CAq6g" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_172FOqz8EeuleM-t5CAq6g" key="uri" value="uma://_5GZPQKz0EeuleM-t5CAq6g#_xNKIhaz8EeuleM-t5CAq6g"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_172FO6z8EeuleM-t5CAq6g" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_172FPKz8EeuleM-t5CAq6g" source="_172FNKz8EeuleM-t5CAq6g" target="_172FOKz8EeuleM-t5CAq6g"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_172FPaz8EeuleM-t5CAq6g" source="_172FMKz8EeuleM-t5CAq6g" target="_172FNKz8EeuleM-t5CAq6g"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_17ZZRaz8EeuleM-t5CAq6g" type="AD" element="_17ZZQaz8EeuleM-t5CAq6g" name="EGRN_Proceso" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_17ZZRqz8EeuleM-t5CAq6g"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_17ZZR6z8EeuleM-t5CAq6g"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_17ZZSKz8EeuleM-t5CAq6g"/>
+  </notation:Diagram>
+</xmi:XMI>

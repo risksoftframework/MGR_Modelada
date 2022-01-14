@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-ccxSF2pD3sq_x5xghBPf9g" name="EGRN_A1,__dzn0az1EeuleM-t5CAq6g" guid="-ccxSF2pD3sq_x5xghBPf9g">
+    <mainDescription>&lt;font face=&quot;Times New Roman&quot;>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>Planificación de la estrategia de riesgos: &lt;span&#xD;
+style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
+ lang=&quot;ES-CO&quot;>Permite establecer un marco para ayudar en la implementación exitosa de la GR en una organización, su&#xD;
+seguimiento y evaluación. Este marco contiene cada uno de los elementos necesarios para ayudar a las diferentes partes&#xD;
+interesadas a comprender la GR, establecer cambios y tomar decisiones para alcanzar los objetivos de la organización frente&#xD;
+al riesgo.&lt;/span>&lt;/span>&lt;/font></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-i5OSl0n7p0_7Y98RcYUneg" name="EGRN_A1.01,_lDJ4gKz2EeuleM-t5CAq6g" guid="-i5OSl0n7p0_7Y98RcYUneg">
+    <refinedDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Se deberán identificar los activos que estarán en el ámbito de aplicación de la EGR.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mrfdzowgTpHvSIDNhamTwg" name="RGRN,_lDczc6z2EeuleM-t5CAq6g" guid="-mrfdzowgTpHvSIDNhamTwg">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
+    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
+    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-L-lXrl_EaiWjBhucXPceYQ" name="CRN,_lDwVcKz2EeuleM-t5CAq6g" guid="-L-lXrl_EaiWjBhucXPceYQ">
+    <refinedDescription>&lt;p>&#xD;
+    Grupo de directivos y expertos seleccionados por la organización que tienen la función principal de realizar y dirigir&#xD;
+    el diseño e implementación de la estrategia de gestión de riesgos del negocio. Así como también, garantizar los&#xD;
+    resultados de la estrategia y respaldar la toma decisiones.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DdjTrd3YjWR0bdnHPlhY4g" name="CEO,_lDwVcqz2EeuleM-t5CAq6g" guid="-DdjTrd3YjWR0bdnHPlhY4g">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo con el más alto rango que tiene como responsabilidad la gestión y dirección de la organización, tendiente a&#xD;
+    garantizar que las actividades se realicen de manera eficiente para lograr el cumplimiento de los objetivos y la&#xD;
+    generación de ganancias o utilidades.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--melGOfxXYbIZsF5Rlwtaw" name="GD,_lDwVdKz2EeuleM-t5CAq6g" guid="--melGOfxXYbIZsF5Rlwtaw">
+    <refinedDescription>&lt;p>&#xD;
+    Grupo de altos directivos de la organización responsables de la planificación estratégica del negocio y la toma de&#xD;
+    decisiones conducentes al logro de los objetivos de la organización. Además, son los encargados de garantizar que la&#xD;
+    EGR funcione de manera correcta.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-MkGU2CKe3LU8yvsH92BJUQ" name="RGRH,_lDwVdqz2EeuleM-t5CAq6g" guid="-MkGU2CKe3LU8yvsH92BJUQ">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo responsable de rendir cuentas por la planificación y gestión de los recursos humanos, conforme a las&#xD;
+    políticas y necesidades de la organización.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YnJwwDVAUmvzZQ2fi_O1vQ" name="EV,_lD5fYKz2EeuleM-t5CAq6g" guid="-YnJwwDVAUmvzZQ2fi_O1vQ">
+    <refinedDescription>Persona experta responsable de llevar a cabo la evaluación de la EGR. Así como también de asesorar al comité de riesgos en&#xD;
+la elaboración de la propuesta de mejora de la EGR.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EWoYDpNZ4zzTm_Z-LAc0tA" name="RC,_lD5fYqz2EeuleM-t5CAq6g" guid="-EWoYDpNZ4zzTm_Z-LAc0tA">
+    <refinedDescription>&lt;p>&#xD;
+    Profesional experto en las necesidades de formación requeridas por la organización y que será responsable de implantar&#xD;
+    el plan de capacitación de manera exitosa.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>
