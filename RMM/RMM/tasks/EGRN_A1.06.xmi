@@ -1,44 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9X96jH6HZB88g5YJyMsnAA" name=",_jRyn4KueEeuuCssargsKeA" guid="-9X96jH6HZB88g5YJyMsnAA" changeDate="2021-06-03T19:41:47.879-0500">
-  <mainDescription>Identificar los roles y estructuras organizacionales claves del negocio que tendrán un nivel de responsabilidad frente a&#xD;
-las prácticas GR. Para la actualización soporte la tarea con las recomendaciones realizadas en la propuesta de mejora, en&#xD;
-caso de existir.</mainDescription>
-  <sections xmi:id="_BaxNoKufEeuuCssargsKeA" name="P1. Identificar, seleccionar o definir los recursos de gestión." guid="_BaxNoKufEeuuCssargsKeA">
-    <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    Identificar y seleccionar que recursos de gestión de los existentes en la organización son claves para soportar las&#xD;
-    prácticas de gestión de riesgos.&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    Así como también, definir los roles y/o estructuras organizacionales específicas para la gestión de riesgos. En el caso&#xD;
-    de los roles se deberá&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    identificar las habilidades, competencias, conocimiento y funciones requeridas para lograr los objetivos de gestión de&#xD;
-    riesgos. Y en el caso de las&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    estructuras organizacionales las funciones específicas.&#xD;
-&lt;/p></sectionDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9X96jH6HZB88g5YJyMsnAA" name=",_jRyn4KueEeuuCssargsKeA" guid="-9X96jH6HZB88g5YJyMsnAA" changeDate="2022-04-05T11:57:21.154-0500">
+  <mainDescription>&lt;p>&#xD;
+    Identificar los roles y estructuras organizacionales claves del negocio que tendrán un nivel de responsabilidad frente&#xD;
+    a las prácticas GR. Para la actualización soporte la tarea con las recomendaciones realizadas en la propuesta de&#xD;
+    mejora, en caso de existir.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_92u6sLUBEeyf3PC9lZDdsA" name="P1. Identificar, seleccionar o definir los recursos de gestión." guid="_92u6sLUBEeyf3PC9lZDdsA">
+    <sectionDescription>Identificar y seleccionar que recursos de gestión de los existentes en la organización son claves para soportar las&#xD;
+prácticas de GR. Así como también, definir los roles y/o estructuras organizacionales específicas para la GR. En el caso de&#xD;
+los roles se deberá identificar las habilidades, competencias, conocimiento y funciones requeridas para lograr los&#xD;
+objetivos de GR. Y en el caso de las estructuras organizacionales las funciones específicas.&lt;br /></sectionDescription>
   </sections>
-  <sections xmi:id="_DqyIcKufEeuuCssargsKeA" name="P2. Establecer las responsabilidades a los recursos de gestión." guid="_DqyIcKufEeuuCssargsKeA">
-    <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    Asignar los niveles de responsabilidad a cada uno de los recursos de gestión para asegurar que su participación se&#xD;
-    ejerza adecuadamente. Los niveles de&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    responsabilidad representarán las obligaciones o autoridades de los recursos de gestión las cuales pueden estar&#xD;
-    asociadas a las definidas en la matriz RACI.&amp;nbsp;&#xD;
-&lt;/p></sectionDescription>
+  <sections xmi:id="_US17YLUCEeyf3PC9lZDdsA" name="P2. Establecer las responsabilidades a los recursos de gestión." guid="_US17YLUCEeyf3PC9lZDdsA">
+    <sectionDescription>Asignar los niveles de responsabilidad a cada uno de los recursos de gestión para asegurar que su participación se ejerza&#xD;
+adecuadamente. Los niveles de responsabilidad representarán las obligaciones o autoridades de los recursos de gestión las&#xD;
+cuales pueden estar asociadas a las definidas en la matriz RACI.</sectionDescription>
   </sections>
-  <sections xmi:id="_EOzmAMTOEeuSQpRAqzZuYg" name="P3. Conformar el comité de riesgos del negocio." guid="_EOzmAMTOEeuSQpRAqzZuYg">
-    <sectionDescription>Grupo de directivos de la organización que se enfocan en apoyar principalmente las actividades y decisiones de gestión de&#xD;
-riesgos de la organización.</sectionDescription>
+  <sections xmi:id="_dRZx0LUCEeyf3PC9lZDdsA" name="P3. Conformar el comité de riesgos del negocio." guid="_dRZx0LUCEeyf3PC9lZDdsA">
+    <sectionDescription>Grupo de directivos de la organización que se enfocan en apoyar principalmente las actividades y decisiones de GR de la&#xD;
+organización.</sectionDescription>
   </sections>
   <purpose>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; tab-stops: 23.5pt&quot; class=&quot;MsoNormal&quot;>&#xD;
     &amp;nbsp;&#xD;

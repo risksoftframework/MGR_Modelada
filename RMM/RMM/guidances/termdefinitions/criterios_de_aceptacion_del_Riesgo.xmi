@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KcN3UKS3Z-r6znLbfIMzOg" name="new_term_definition,_gjMJsM12EeulHfspCiGMPA" guid="-KcN3UKS3Z-r6znLbfIMzOg" changeDate="2021-06-14T20:11:18.126-0500">
-  <mainDescription>&lt;P style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=MsoNormal>&lt;SPAN style=&quot;FONT-SIZE: 11pt&quot;>&lt;FONT face=&quot;Times New Roman&quot;>Conjunto de criterios establecidos por la organización para soportar la evaluación del riesgo. Los criterios de aceptación del riesgo están conformados por niveles y medidas que servirán de referencia para determinar si los riesgos son aceptables o requieren de un tratamiento. Algunos estos niveles de aceptación pueden ser: no aceptable, aceptable, tolerable, alerta, etc.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/SPAN>&lt;/P></mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KcN3UKS3Z-r6znLbfIMzOg" name="new_term_definition,_gjMJsM12EeulHfspCiGMPA" guid="-KcN3UKS3Z-r6znLbfIMzOg" changeDate="2022-04-05T16:02:44.785-0500">
+  <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Conjunto de criterios establecidos por una organización para soportar la valoración del riesgo. Los criterios de&#xD;
+    aceptación del riesgo están conformados por niveles y medidas que servirán de referencia para determinar si los riesgos&#xD;
+    son aceptables o requieren de un tratamiento. Algunos estos niveles de aceptación pueden ser: no aceptable, aceptable,&#xD;
+    tolerable, alerta, etc.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WaBh2wUMZsdimQr9zkno-g" name=",_98wrIKudEeuuCssargsKeA" guid="-WaBh2wUMZsdimQr9zkno-g" changeDate="2021-06-03T19:17:16.276-0500">
-  <mainDescription>Establecer el alcance conforme a la política de riesgos del negocio y los objetivos de la EGR. Para la actualización,&#xD;
-soporte esta tarea con las recomendaciones realizadas en la propuesta de mejora, en caso de existir.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WaBh2wUMZsdimQr9zkno-g" name=",_98wrIKudEeuuCssargsKeA" guid="-WaBh2wUMZsdimQr9zkno-g" changeDate="2022-04-05T11:46:18.513-0500">
+  <mainDescription>&lt;p>&#xD;
+    Establecer el alcance conforme a la política de riesgos del negocio y los objetivos de la EGR. Para la actualización,&#xD;
+    soporte esta tarea con las recomendaciones realizadas en la propuesta de mejora, en caso de existir.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_V3XqIKueEeuuCssargsKeA" name="P1. Definir o actualizar el alcance de la EGR." guid="_V3XqIKueEeuuCssargsKeA">
-    <sectionDescription>&lt;p>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-themecolor: text1; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
-    Describir el alcance y límite de la EGR considerando las necesidades actuales de la organización y los recursos&#xD;
-    disponibles para alcanzar los objetivos.&lt;/span>&#xD;
-&lt;/p></sectionDescription>
+    <sectionDescription>Describir el alcance y límite de la EGR considerando las necesidades actuales de la organización y los recursos disponibles&#xD;
+para alcanzar los objetivos.</sectionDescription>
   </sections>
   <sections xmi:id="_b3y7gKueEeuuCssargsKeA" name="P2. Confirmar el alcance de la EGR con las partes interesadas." guid="_b3y7gKueEeuuCssargsKeA"/>
   <sections xmi:id="_feZOwKueEeuuCssargsKeA" name="P3. Perfeccionar y aprobar el alcance de la EGR." guid="_feZOwKueEeuuCssargsKeA"/>

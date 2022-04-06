@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b3_j8PKUV2jjkPNyKgIo3A" name=",_9SRCAKuwEeuuCssargsKeA" guid="-b3_j8PKUV2jjkPNyKgIo3A" changeDate="2021-06-03T20:27:10.630-0500">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b3_j8PKUV2jjkPNyKgIo3A" name=",_9SRCAKuwEeuuCssargsKeA" guid="-b3_j8PKUV2jjkPNyKgIo3A" changeDate="2022-04-05T14:24:33.544-0500">
   <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
-    Evaluar si la EGR está operando de manera eficaz, si se cumple con sus objetivos. Así como también, si se ha integrado&#xD;
-    a los objetivos organización, para generar valor a través de las prácticas de GR.&#xD;
+    Evaluar si la EGR está operando de manera eficaz y si cumple con sus objetivos. Así como también, si se ha integrado a&#xD;
+    los objetivos organización, para generar valor a través de las prácticas de GR.&#xD;
 &lt;/p></mainDescription>
   <sections xmi:id="_Tp2TJ6whEeuVEdXlov3DVQ" name="P1. Revisar y analizar los informes de seguimiento y medicion de la EGR." guid="_Tp2TJ6whEeuVEdXlov3DVQ"/>
   <sections xmi:id="_Tp2TKawhEeuVEdXlov3DVQ" name="P2. Evaluar la eficacia de la EGR." guid="_Tp2TKawhEeuVEdXlov3DVQ"/>

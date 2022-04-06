@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma:ProcessDescription xmi:id="-JWabpdA1O-pMakCJqmIuCQ" name="EGRN_A3,_O1icQaz1EeuleM-t5CAq6g" guid="-JWabpdA1O-pMakCJqmIuCQ">
-    <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Seguimiento, evaluación y mejora: &lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
- lang=&quot;ES-CO&quot;>Permite llevar a cabo la revisión y evaluación a la EGR. Y a partir del análisis de los resultados&#xD;
-encontrados proponer acciones tendientes a mejorar la capacidad de la organización frente a los riesgos y lograr que estas&#xD;
-sean sostenibles en el tiempo. Además de identificar y registrar cada una de las lecciones aprendidas.&lt;/span>&lt;/font>&lt;/span></mainDescription>
-    <keyConsiderations>&lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: ES; mso-fareast-language: EN-US; mso-bidi-language: AR-SA&quot;>&#xD;
-&lt;strong>Nota&lt;/strong>: Una vez que la EGR ha sido evaluada y existe un plan de mejora, se deberá revisar y actualizar los&#xD;
-elementos de la EGR que han sido afectados.&lt;/span></keyConsiderations>
+    <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font size=&quot;2&quot;>Seguimiento, evaluación y mejora: Permite llevar a cabo la revisión y&#xD;
+evaluación a la EGR. Y a partir del análisis de los resultados encontrados proponer acciones tendientes a mejorar la&#xD;
+capacidad de la organización frente a los riesgos y lograr que estas sean sostenibles en el tiempo. Además de identificar y&#xD;
+registrar cada una de las lecciones aprendidas.&lt;/font>&lt;/span></mainDescription>
+    <keyConsiderations>&lt;p>&#xD;
+    Nota: Una vez que la EGR ha sido evaluada y existe un plan de mejora, se deberá revisar y actualizar los elementos que&#xD;
+    han sido afectados.&#xD;
+&lt;/p></keyConsiderations>
   </org.eclipse.epf.uma:ProcessDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-H5bnCZjD2wOLa2ihQ7eW7Q" name="EGRN_A3.01,_x2_FcKz4EeuleM-t5CAq6g" guid="-H5bnCZjD2wOLa2ihQ7eW7Q">
     <refinedDescription>Revisar la implementación de la EGR respecto al cronograma establecido, y a los objetivos y métricas acordadas, para así&#xD;
@@ -37,16 +36,16 @@ conocimiento a toda la organización.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Ia6bz4pLHkBNDlc08yeRsQ" name="RGRN,_x2_Fdqz4EeuleM-t5CAq6g" guid="-Ia6bz4pLHkBNDlc08yeRsQ">
     <refinedDescription>&lt;p>&#xD;
-    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
-    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
-    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+    Directivo responsable de rendir cuentas por el proceso de GR de la organización. Es un profesional experto, encargado&#xD;
+    de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes responsables de la GR de los&#xD;
+    activos, en la identificación y tratamiento de los riesgos.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-SkrzqIWXnUc-Crg7SDQAhQ" name="CRN,_x2_FeKz4EeuleM-t5CAq6g" guid="-SkrzqIWXnUc-Crg7SDQAhQ">
     <refinedDescription>&lt;p>&#xD;
     Grupo de directivos y expertos seleccionados por la organización que tienen la función principal de realizar y dirigir&#xD;
-    el diseño e implementación de la estrategia de gestión de riesgos del negocio. Así como también, garantizar los&#xD;
-    resultados de la estrategia y respaldar la toma decisiones.&#xD;
+    el diseño e implementación de la EGR del negocio. Así como también, garantizar los resultados de la estrategia y&#xD;
+    respaldar la toma decisiones.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QymjtiFMhYqTesO0kPVPng" name="GD,_x2_Feqz4EeuleM-t5CAq6g" guid="-QymjtiFMhYqTesO0kPVPng">
@@ -57,7 +56,9 @@ conocimiento a toda la organización.</refinedDescription>
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xpFS5t6n6QzWE0KZhH9xRA" name="EV,_x2_FfKz4EeuleM-t5CAq6g" guid="-xpFS5t6n6QzWE0KZhH9xRA">
-    <refinedDescription>Persona experta responsable de llevar a cabo la evaluación de la EGR. Así como también de asesorar al comité de riesgos en&#xD;
-la elaboración de la propuesta de mejora de la EGR.</refinedDescription>
+    <refinedDescription>&lt;p>&#xD;
+    Persona experta responsable de llevar a cabo la evaluación de la EGR. Así como también de asesorar al comité de riesgos&#xD;
+    en la elaboración de la propuesta de mejora de la EGR.&#xD;
+&lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

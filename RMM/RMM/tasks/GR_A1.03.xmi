@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hYAWULDWZQdE0yUuJ_Kf4A" name=",_k3Hr4KwrEeuVEdXlov3DVQ" guid="-hYAWULDWZQdE0yUuJ_Kf4A" changeDate="2021-06-04T16:51:35.026-0500">
-  <mainDescription>Definir una estrategia que describa como se llevará a cabo las prácticas de GR, cuando y con que frecuencia serán aplicadas&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hYAWULDWZQdE0yUuJ_Kf4A" name=",_k3Hr4KwrEeuVEdXlov3DVQ" guid="-hYAWULDWZQdE0yUuJ_Kf4A" changeDate="2022-04-05T15:10:52.657-0500">
+  <mainDescription>Definir una estrategia que describa como se llevará a cabo las prácticas de GR, cuando y con qué frecuencia serán aplicadas&#xD;
 durante el ciclo de vida de un activo. El documento del PGR del activo deberá vincular los criterios del riesgo necesarios&#xD;
 para soportar la toma de decisiones sobre los riesgos y que influirán durante las tareas de GR. Así como también, deberá&#xD;
-especificar las categorías de riesgos y factores de riesgo aplicables a un activo y los recursos de gestión necesarios para&#xD;
-soportar las prácticas de GR con sus diferentes niveles de responsabilidad frente al riesgo.</mainDescription>
-  <sections xmi:id="_UG5IkKwuEeuVEdXlov3DVQ" name="P1. Incluir las categorías de riesgos y factores de riesgos aplicables al activo." guid="_UG5IkKwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_Wn3QgKwuEeuVEdXlov3DVQ" name="P2. Incluir los criterios del riesgo aplicables al activo." guid="_Wn3QgKwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_ZoqvEKwuEeuVEdXlov3DVQ" name="P3. Definir el alcance del PGR." guid="_ZoqvEKwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_dksfwKwuEeuVEdXlov3DVQ" name="P4.Identificar y asignar los niveles de responsabilidades a las partes interesadas frente al riesgo del activo." guid="_dksfwKwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_hznXQKwuEeuVEdXlov3DVQ" name="P5. Establecer un cronograma para llevar a cabo la GR del activo, así como también el seguimiento y evaluación del PGR." guid="_hznXQKwuEeuVEdXlov3DVQ">
+especificar las fuentes de riesgo aplicables a un activo y los recursos de gestión necesarios para soportar las prácticas&#xD;
+de GR con sus diferentes niveles de responsabilidad frente al riesgo.</mainDescription>
+  <sections xmi:id="_ogm2YLUcEeyAJq4tRWWqQA" name="P1. Incluir los criterios del riesgo aplicables al activo." guid="_ogm2YLUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_phBxkLUcEeyAJq4tRWWqQA" name="P2. Incluir las fuentes de riesgo del activo." guid="_phBxkLUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_qvbeYLUcEeyAJq4tRWWqQA" name="P3. Definir el alcance del PGR." guid="_qvbeYLUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_sF3F0LUcEeyAJq4tRWWqQA" name="P4. Identificar y asignar los niveles de responsabilidades a las partes interesadas frente al riesgo del activo." guid="_sF3F0LUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_tbQygLUcEeyAJq4tRWWqQA" name="P5. Establecer un cronograma para llevar a cabo la GR del activo, así como también el seguimiento y evaluación del PGR." guid="_tbQygLUcEeyAJq4tRWWqQA">
     <sectionDescription>Definir el cronograma para llevar a cabo las prácticas de GR del activo durante su ciclo de vida y el presupuesto&#xD;
 requerido.</sectionDescription>
   </sections>
-  <sections xmi:id="_nzcywKwuEeuVEdXlov3DVQ" name="P6. Establecer un cronograma para el seguimiento y la evaluación al PGR del activo." guid="_nzcywKwuEeuVEdXlov3DVQ">
+  <sections xmi:id="_wzR3MLUcEeyAJq4tRWWqQA" name="P6. Establecer un cronograma para el seguimiento y la evaluación al PGR del activo." guid="_wzR3MLUcEeyAJq4tRWWqQA">
     <sectionDescription>Definir claramente la programación y los hitos para llevar a cabo el seguimiento y la evaluación al PGR.</sectionDescription>
   </sections>
-  <sections xmi:id="_qAVhEKwuEeuVEdXlov3DVQ" name="P7. Generar el documento del PGR del activo mediante la integración de los pasos anteriores." guid="_qAVhEKwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_wbsa8KwuEeuVEdXlov3DVQ" name="P8. Revisar y validar la viabilidad del PGR, documentando cada uno de los hallazgos en el informe de validación al PGR del activo." guid="_wbsa8KwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_27XNEKwuEeuVEdXlov3DVQ" name="P9. Aplicar y acordar las mejoras al documento de PGR del activo con base al informe de validación y solicitar la aprobación de las correcciones." guid="_27XNEKwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_6pjWEKwuEeuVEdXlov3DVQ" name="P10.Solicitar la aprobación del PGR del activo ante la alta dirección y generar el acta de aprobación." guid="_6pjWEKwuEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_BwzFkKwvEeuVEdXlov3DVQ" name="P11. Integrar el PGR al plan de gestión del activo." guid="_BwzFkKwvEeuVEdXlov3DVQ">
+  <sections xmi:id="_zsgHELUcEeyAJq4tRWWqQA" name="P7. Generar el documento del PGR del activo mediante la integración de los pasos anteriores." guid="_zsgHELUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_1Nf_wLUcEeyAJq4tRWWqQA" name="P8. Revisar y validar la viabilidad del PGR, documentando cada uno de los hallazgos en el informe de validación al PGR del activo." guid="_1Nf_wLUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_29FHALUcEeyAJq4tRWWqQA" name="P9. Aplicar y acordar las mejoras al documento de PGR del activo con base al informe de validación y solicitar la aprobación de las correcciones." guid="_29FHALUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_4fRSgLUcEeyAJq4tRWWqQA" name="P10. Solicitar la aprobación del PGR del activo ante la alta dirección y generar el acta de aprobación." guid="_4fRSgLUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_52dH4LUcEeyAJq4tRWWqQA" name="P11. Integrar el PGR al plan de gestión del activo." guid="_52dH4LUcEeyAJq4tRWWqQA">
     <sectionDescription>Integrar las tareas de GR en el cronograma del activo.</sectionDescription>
   </sections>
-  <sections xmi:id="_GKbYQKwvEeuVEdXlov3DVQ" name="P12. Comunicar y generar el acta de asignación de funciones y responsabilidades a las diferentes partes interesadas frente a la GR del activo." guid="_GKbYQKwvEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_KyVXgKwvEeuVEdXlov3DVQ" name="P13. Establecer un plan de comunicación sobre el PGR del activo." guid="_KyVXgKwvEeuVEdXlov3DVQ">
-    <sectionDescription>&lt;p>&#xD;
-    La estrategia de comunicación deberá tener un público objetivo, un mensaje clave, especificar los canales de&#xD;
-    comunicación y el calendario de las acciones a realizar con los recursos necesarios.&#xD;
-&lt;/p></sectionDescription>
+  <sections xmi:id="_8T2-cLUcEeyAJq4tRWWqQA" name="P12. Comunicar y generar el acta de asignación de funciones y responsabilidades a las diferentes partes interesadas frente a la GR del activo." guid="_8T2-cLUcEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_-KRtgLUcEeyAJq4tRWWqQA" name="P13. Establecer un plan de comunicación sobre el PGR del activo." guid="_-KRtgLUcEeyAJq4tRWWqQA">
+    <sectionDescription>La estrategia de comunicación deberá tener un público objetivo, un mensaje clave, especificar los canales de comunicación y&#xD;
+el calendario de las acciones a realizar con los recursos necesarios.&lt;br /></sectionDescription>
   </sections>
 </org.eclipse.epf.uma:TaskDescription>

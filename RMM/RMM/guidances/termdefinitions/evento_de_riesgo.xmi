@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e5t78813oFHZnFCPqYqmQA" name="new_term_definition,_cvoJwM18Eeu9DYw48QRJHQ" guid="-e5t78813oFHZnFCPqYqmQA" changeDate="2021-06-14T20:53:38.381-0500">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e5t78813oFHZnFCPqYqmQA" name="new_term_definition,_cvoJwM18Eeu9DYw48QRJHQ" guid="-e5t78813oFHZnFCPqYqmQA" changeDate="2022-04-05T16:00:50.632-0500">
   <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
-    &lt;span style=&quot;FONT-SIZE: 11pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Es algo que puede ocurrir en cualquier momento y tiempo&#xD;
-    específico, que puede tener varias causas y consecuencias que pueden impactar el logro de los objetivos de los activos&#xD;
-    de una organización, teniendo efectos positivo o negativo.&lt;/font>&lt;/span>&#xD;
+    Es algo que puede ocurrir en cualquier momento y tiempo específico, que puede tener varias causas y consecuencias que&#xD;
+    pueden impactar el logro de los objetivos de los activos de una organización, teniendo efectos positivo o negativo.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

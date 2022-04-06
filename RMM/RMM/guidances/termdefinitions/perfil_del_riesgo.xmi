@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4Lv6VJEwTep0S4eaO1aBYg" name="new_term_definition,_oRr3sM18Eeu9DYw48QRJHQ" guid="-4Lv6VJEwTep0S4eaO1aBYg" changeDate="2021-06-14T20:54:46.741-0500">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4Lv6VJEwTep0S4eaO1aBYg" name="new_term_definition,_oRr3sM18Eeu9DYw48QRJHQ" guid="-4Lv6VJEwTep0S4eaO1aBYg" changeDate="2022-04-05T16:08:05.891-0500">
   <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
     Provee la identificación y descripción de todo el conjunto de riesgos claves a los cuales está expuesto un activo de la&#xD;
     organización. Es decir, todos los riesgos que afectan el logro de los objetivos de un activo y que pueden ser generados&#xD;
-    en el contexto interno de la organización como los que están fuera (contexto externo).&amp;nbsp;&#xD;
+    en el contexto interno de la organización como los que están fuera (contexto externo).&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

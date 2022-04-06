@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fQRyb0I3OVc732ju0thdNQ" name=",_FlOwAKusEeuuCssargsKeA" guid="-fQRyb0I3OVc732ju0thdNQ" changeDate="2021-06-14T15:21:34.750-0500">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fQRyb0I3OVc732ju0thdNQ" name=",_FlOwAKusEeuuCssargsKeA" guid="-fQRyb0I3OVc732ju0thdNQ" changeDate="2022-04-05T14:16:49.271-0500">
   <mainDescription>Formalizar los diferentes roles y niveles de responsabilidad de los recursos de gestión a las partes involucradas en la&#xD;
-EGR, para garantizar que se pueda llevar acabo las prácticas de GR en la organización.</mainDescription>
+EGR, para garantizar que se pueda llevar a cabo las prácticas de GR en la organización.</mainDescription>
   <sections xmi:id="_YsvMYKusEeuuCssargsKeA" name="P1. Asignar funciones y responsabilidades." guid="_YsvMYKusEeuuCssargsKeA"/>
   <sections xmi:id="_W-zD4KusEeuuCssargsKeA" name="P2. Comunicar las funciones y responsabilidades." guid="_W-zD4KusEeuuCssargsKeA"/>
   <sections xmi:id="_b42jEKusEeuuCssargsKeA" name="P3. Generar el acta respecto a la asignación de funciones y responsabilidades." guid="_b42jEKusEeuuCssargsKeA"/>

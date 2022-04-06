@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7X7rIzW5cnf7jeRBtMoGyA" name=",_im3HMKwwEeuVEdXlov3DVQ" guid="-7X7rIzW5cnf7jeRBtMoGyA" changeDate="2021-06-14T16:02:51.616-0500">
-  <mainDescription>Identificar y registrar claramente cada uno de los riesgos que pueden afectar los objetivos de un activo de la&#xD;
-organización, junto a sus diferentes fuentes y factores generadores del riesgo, ya sea que estén en el contexto interno o&#xD;
-externo de la organización.</mainDescription>
-  <sections xmi:id="_CeGlkKwxEeuVEdXlov3DVQ" name="P1. Revisar la documentación asociada al activo." guid="_CeGlkKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_FtVhsKwxEeuVEdXlov3DVQ" name="P2. Identificar el riesgo mediante las categorías riesgos seleccionadas para el PGR del activo." guid="_FtVhsKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_KDPyAKwxEeuVEdXlov3DVQ" name="P3. Realizar el registro del riesgo y determinar si existe una relación con otros riesgos (Interdependencias)." guid="_KDPyAKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_N56hkKwxEeuVEdXlov3DVQ" name="P4. Relacionar o identificar los factores generadores del riesgo." guid="_N56hkKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_XHzNcKwxEeuVEdXlov3DVQ" name="P5. Registrar las posibles causas." guid="_XHzNcKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_Z2BHMKwxEeuVEdXlov3DVQ" name="P6. Registrar las posibles consecuencias." guid="_Z2BHMKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_ctmYUKwxEeuVEdXlov3DVQ" name="P7. Registrar el propietario potencial del riesgo." guid="_ctmYUKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_mpdkgKwxEeuVEdXlov3DVQ" name="P8. Recomendar posibles acciones de respuesta al riesgo." guid="_mpdkgKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_po7mUKwxEeuVEdXlov3DVQ" name="P9. Recomendar posibles controles (disparadores del riesgo) frente al riesgo." guid="_po7mUKwxEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_xCU1wKwxEeuVEdXlov3DVQ" name="P10. Registrar los eventos de riesgo." guid="_xCU1wKwxEeuVEdXlov3DVQ">
-    <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    Se deberán registrar sus respectivas causas y los factores de riesgo internas/externas que generaron la ocurrencia del&#xD;
-    riesgo. Además, las sus&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    consecuencias de su materialización sobre los objetivos de un activo.&amp;nbsp;&#xD;
-&lt;/p></sectionDescription>
-  </sections>
-  <sections xmi:id="_JdC4MKwyEeuVEdXlov3DVQ" name="P11. Generar el perfil de riesgos del activo." guid="_JdC4MKwyEeuVEdXlov3DVQ"/>
-  <purpose>&lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
-Identificar y registrar claramente cada uno de los riesgos que pueden afectar los objetivos de un activo de la&#xD;
-organizacion, junto a sus diferentes fuente y factores generadores del riesgo, ya sea que esten en el contexto interno o&#xD;
-externo de la organización.&lt;/span></purpose>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7X7rIzW5cnf7jeRBtMoGyA" name=",_im3HMKwwEeuVEdXlov3DVQ" guid="-7X7rIzW5cnf7jeRBtMoGyA" changeDate="2022-04-05T15:16:05.299-0500">
+  <mainDescription>&lt;p>&#xD;
+    Identificar y registrar claramente cada uno de los riesgos que pueden afectar los objetivos de un activo de la&#xD;
+    organización, junto a sus fuentes generadoras las cuales pueden estar en el contexto interno o externo de la&#xD;
+    organización.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_TbIcALUdEeyAJq4tRWWqQA" name="P1. Revisar y analizar la documentación asociada al activo." guid="_TbIcALUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_VFDnMLUdEeyAJq4tRWWqQA" name="P2. Identificar los riesgos que pueden ocurrir en el activo a través de las fuentes de riesgos establecidas." guid="_VFDnMLUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_WgQZ4LUdEeyAJq4tRWWqQA" name="P3. Realizar una definición clara del riesgo a través de un formato estándar y coherente, que ayude a reducir la ambigüedad y evitar malas interpretaciones." guid="_WgQZ4LUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_YJ4qILUdEeyAJq4tRWWqQA" name="P4. Establecer las posibles causas de los riesgos." guid="_YJ4qILUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_aWxYcLUdEeyAJq4tRWWqQA" name="P5. Determinar las posibles consecuencias de los riesgos." guid="_aWxYcLUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_b7fTgLUdEeyAJq4tRWWqQA" name="P6. Recomendar posibles acciones de respuesta al riesgo." guid="_b7fTgLUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_dY660LUdEeyAJq4tRWWqQA" name="P7. Recomendar posibles controles de riesgos de los existentes en la organización para su gestión." guid="_dY660LUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_fnvi0LUdEeyAJq4tRWWqQA" name="P8. Determinar la posible relación con otros riesgos (Interdependencias), en caso de existir." guid="_fnvi0LUdEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_hZjesLUdEeyAJq4tRWWqQA" name="P9. Generar el registro del riesgo en el perfil de riesgo del activo." guid="_hZjesLUdEeyAJq4tRWWqQA"/>
+  <purpose>&lt;p>&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

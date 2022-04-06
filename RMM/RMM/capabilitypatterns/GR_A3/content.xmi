@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma:ProcessDescription xmi:id="-KQC6j1oDgHQ5EbSpGet81Q" name="AG_A3,_nFgnQaz1EeuleM-t5CAq6g" guid="-KQC6j1oDgHQ5EbSpGet81Q">
-    <mainDescription>&lt;font face=&quot;Times New Roman&quot;>Seguimiento, &lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
- lang=&quot;ES-CO&quot;>evaluación y mejora: Asegurar o mejorar la eficacia de la definición e implementación del PGR, con el fin de&#xD;
-determinar su idoneidad para ayudar a la organización en el logro de sus objetivos, y para supervisar y evaluar el progreso&#xD;
-con el fin de identificar problemas y proponer acciones de mejora cuando estas sean necesarias.&lt;/span>&lt;/font></mainDescription>
+    <mainDescription>&lt;p>&#xD;
+    Seguimiento, evaluación y mejora: Asegurar o mejorar la eficacia de la definición e implementación del PGR, con el fin&#xD;
+    de determinar su idoneidad para ayudar a la organización en el logro de sus objetivos, y para supervisar y evaluar el&#xD;
+    progreso con el fin de identificar problemas y proponer acciones de mejora cuando estas sean necesarias.&#xD;
+&lt;/p></mainDescription>
   </org.eclipse.epf.uma:ProcessDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Nerawjo7g-HrI3FrjZdelw" name="GR_A3.1,_7PG9sK1AEeuleM-t5CAq6g" guid="-Nerawjo7g-HrI3FrjZdelw">
     <refinedDescription>Recolectar, analizar e informar el avance de la implementación del PGR. Así como también, evaluar su eficiencia para ayudar&#xD;
@@ -19,12 +19,9 @@ a conseguir los objetivos de un activo e identificar problemas y posibles causas
 conocimiento a toda la organización.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-73onZHm1fnEgOsmcPnIZUw" name="RA,_7PG9s61AEeuleM-t5CAq6g" guid="-73onZHm1fnEgOsmcPnIZUw">
-    <refinedDescription>&lt;p>&#xD;
-    Profesional que rinde cuentas por un activo de la organización y que es el encargado de la ejecución de las prácticas&#xD;
-    de gestión tendientes a lograr los objetivos esperados. El RA, soporta la planificación de acciones de mejora y aprueba&#xD;
-    los cambios, de ser necesario. En lo referente a la GR, es el responsable de la planificación, ejecución y supervisión&#xD;
-    del PGR.&#xD;
-&lt;/p></refinedDescription>
+    <refinedDescription>Profesional que rinde cuentas por un activo de la organización y que es el encargado de la ejecución de las prácticas de&#xD;
+gestión tendientes a lograr los objetivos esperados. El RA, soporta la planificación de acciones de mejora y aprueba los&#xD;
+cambios, de ser necesario. En lo referente a la GR, es el responsable de la planificación, ejecución y supervisión del PGR.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9BsjB8Ab2LEBLhD-x8VKgA" name="RGRA,_7PG9ta1AEeuleM-t5CAq6g" guid="-9BsjB8Ab2LEBLhD-x8VKgA">
     <refinedDescription>&lt;p>&#xD;
@@ -35,9 +32,9 @@ conocimiento a toda la organización.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ZEREVYx3HbYXdEVWxJ114g" name="RGRN,_7PG9t61AEeuleM-t5CAq6g" guid="-ZEREVYx3HbYXdEVWxJ114g">
     <refinedDescription>&lt;p>&#xD;
-    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
-    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
-    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+    Directivo responsable de rendir cuentas por el proceso de GR de la organización. Es un profesional experto, encargado&#xD;
+    de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes responsables de la GR de los&#xD;
+    activos, en la identificación y tratamiento de los riesgos.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-QkGStJIfg1-2OEuapeDafQ" name="EAS,_7PG9ua1AEeuleM-t5CAq6g" guid="-QkGStJIfg1-2OEuapeDafQ">

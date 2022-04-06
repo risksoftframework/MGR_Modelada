@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-41tj3g4kzg4YTPyqm9j5Bg" name=",_DbDeYKwjEeuVEdXlov3DVQ" guid="-41tj3g4kzg4YTPyqm9j5Bg" changeDate="2021-06-14T20:16:03.265-0500">
-  <mainDescription>&lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
-Definir y mantener las categorías y subcategorías de riesgos (amenazas y oportunidades) necesarias para respaldar la GR del&#xD;
-negocio de un activo de la organización. Las categorías y subcategorías estarán relacionadas con las posibles fuentes de&#xD;
-riesgos internas y externas donde se podrán derivar los riesgos en los activos. Por ejemplo, crear estructuras jerárquicas&#xD;
-como RBS o taxonomías. Así como también, identificar, establecer y gestionar las categorías y factores riesgos internos y&#xD;
-externos que tienen una posibilidad real de influir en la materialización de los riesgos de un activo de la&#xD;
-organización.&lt;/span></mainDescription>
-  <sections xmi:id="_4CFBsKwnEeuVEdXlov3DVQ" name="P1. Definir las categorías y subcategorías de riesgos." guid="_4CFBsKwnEeuVEdXlov3DVQ">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-41tj3g4kzg4YTPyqm9j5Bg" name=",_DbDeYKwjEeuVEdXlov3DVQ" guid="-41tj3g4kzg4YTPyqm9j5Bg" changeDate="2022-04-05T15:01:24.595-0500">
+  <mainDescription>&lt;p>&#xD;
+    Con base a la cantidad y tipo de riesgos que una organización desea tomar o no para conseguir los objetivos de un&#xD;
+    activo, se deberá especificar y acordar los criterios de riesgo necesarios para apoyar la toma de decisiones en la GR,&#xD;
+    al momento de llevar a cabo la evaluación de los riesgos. Estos criterios deberán ser coherentes y alineados con la&#xD;
+    política de riesgos de la organización.&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_4CFBsKwnEeuVEdXlov3DVQ" name="P1. Especificar las variables de control." guid="_4CFBsKwnEeuVEdXlov3DVQ">
     <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
 class=&quot;MsoListParagraph&quot;>&#xD;
     Haga uso de estructuras jerárquicas como RBS o taxonomías, las cuales pueden ser genéricas o específicas, para&#xD;
@@ -19,9 +17,29 @@ class=&quot;MsoListParagraph&quot;>&#xD;
     riesgos de un activo.&#xD;
 &lt;/p></sectionDescription>
   </sections>
-  <sections xmi:id="_DF8XwKwoEeuVEdXlov3DVQ" name="P2. Verificar y aprobar las categorías y subcategorías de riesgos." guid="_DF8XwKwoEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_ITWQwKwoEeuVEdXlov3DVQ" name="P3. Establecer las categorías y factores riesgos." guid="_ITWQwKwoEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_LNd4gKwoEeuVEdXlov3DVQ" name="P4. Verificar y aprobar las categorías y factores riesgos." guid="_LNd4gKwoEeuVEdXlov3DVQ"/>
+  <sections xmi:id="_T0dM4LUbEeyAJq4tRWWqQA" name="P2. Establecer los criterios de probabilidad, impacto y los criterios de aceptación del riesgo." guid="_T0dM4LUbEeyAJq4tRWWqQA">
+    <sectionDescription>Definir los criterios que permitan determinar la probabilidad e impacto de los riesgos de un activo. Y establecer los&#xD;
+criterios para la aceptación del riesgo que permitan la toma de decisiones respecto al nivel de severidad o magnitud del&#xD;
+riesgo. &lt;br />&#xD;
+Por ejemplo, en el caso del criterio de probabilidad una organización podrá tener en cuenta: escala, descripción o valor de&#xD;
+la frecuencia de ocurrencia del riesgo respecto al activo y el porcentaje de su probabilidad. &lt;br />&#xD;
+En el caso del impacto: escala, valor del criterio ya sea cualitativo/cuantitativo respecto a la consecuencia de un riesgo,&#xD;
+contemplando un objetivo clave del activo determinado por una o varias variables de control (por ejemplo, costo, tiempo,&#xD;
+calidad, aspectos reputacionales, legales, etc.). &lt;br />&#xD;
+Y en el caso de los criterios de aceptación: escala, rango de la magnitud del riesgo y descripción de la recomendación.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Z2OiELUbEeyAJq4tRWWqQA" name="P3. Definir los criterios para la evaluación de la eficacia de los controles de riesgo." guid="_Z2OiELUbEeyAJq4tRWWqQA">
+    <sectionDescription>Establecer los elementos necesarios que permitan llevar a cabo la evaluación de los controles de riesgo para soportar su&#xD;
+selección, con el fin de ayudar a gestionar los riesgos de un activo. Una organización para confirmar el porcentaje de&#xD;
+eficacia de un control podrá considerar aspectos relacionados con: diseño del control (preventivo, detectivo, correctivo),&#xD;
+tipo (manual/automático), resultados logrados en evaluaciones internas sobre su implementación, costos, complejidad, tiempo&#xD;
+y recursos necesarios para ponerlos en marcha, etc. Elementos que ayudarán a eliminar los sesgos en la elección de los&#xD;
+controles de riesgo que permitirán reducir la probabilidad o el impacto de la materialización de los riesgos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ee4vQLUbEeyAJq4tRWWqQA" name="P4. Integrar los detalles de los pasos anteriores y generar el documento de criterios del riesgo." guid="_ee4vQLUbEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_hJFEoLUbEeyAJq4tRWWqQA" name="P5. Revisar y validar la viabilidad del documento de criterios del riesgo documentando y registrar cada uno de los hallazgos en el informe de la validación." guid="_hJFEoLUbEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_qmlg4LUbEeyAJq4tRWWqQA" name="P6. Aplicar y acordar las mejoras al documento de criterios del riesgo con base al informe de validación." guid="_qmlg4LUbEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_sxi8kLUbEeyAJq4tRWWqQA" name="P7. Solicitar la aprobación del documento criterios del riesgo." guid="_sxi8kLUbEeyAJq4tRWWqQA"/>
   <purpose>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
     &amp;nbsp;&#xD;
 &lt;/p></purpose>

@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FoqHcqbaV7Nf8wPmxy5oiQ" name=",_6Alq4KwpEeuVEdXlov3DVQ" guid="-FoqHcqbaV7Nf8wPmxy5oiQ" changeDate="2021-06-04T16:46:51.948-0500">
-  <mainDescription>Con base a la cantidad y tipo de riesgos que una organización desea tomar o no para conseguir los objetivos de un activo,&#xD;
-se deberá especificar y acordar los criterios de riesgo necesarios para apoyar la toma de decisiones en la GR, al momento&#xD;
-de llevar a cabo la valoración de los riesgos. Estos criterios deberán ser coherentes con la política de riesgos y en&#xD;
-algunos casos deberán considerar las variables de control o restricciones que deberán ser consideradas para garantizar el&#xD;
-éxito en la gestión de un activo.</mainDescription>
-  <sections xmi:id="_MIlLAKwqEeuVEdXlov3DVQ" name="P1.Especificar las variables de control." guid="_MIlLAKwqEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_N29_cKwqEeuVEdXlov3DVQ" name="P2. Definir los criterios de aceptación del riesgo." guid="_N29_cKwqEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_Q-ns4KwqEeuVEdXlov3DVQ" name="P3. Definir los criterios de probabilidad del riesgo." guid="_Q-ns4KwqEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_UNuGIKwqEeuVEdXlov3DVQ" name="P4. Definir los criterios de impacto del riesgo." guid="_UNuGIKwqEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_uGC5kKwrEeuVEdXlov3DVQ" name="P5. Definir los criterios para la clasificación del nivel de riesgo." guid="_uGC5kKwrEeuVEdXlov3DVQ"/>
-  <sections xmi:id="_iZB48MV-EeukqNeDnMQEfA" name="P6. Integrar los detalles de los pasos anteriores y generar el documento de criterios del riesgo." guid="_iZB48MV-EeukqNeDnMQEfA"/>
-  <sections xmi:id="_kpVusMV-EeukqNeDnMQEfA" name="P7. Revisar y validar la viabilidad del documento de criterios del riesgo, documentando cada uno de los hallazgos en el informe de la validación." guid="_kpVusMV-EeukqNeDnMQEfA"/>
-  <sections xmi:id="_18XVsMV-EeukqNeDnMQEfA" name="P8. Aplicar y acordar las mejoras al documento de criterios del riesgo con base al informe de validación." guid="_18XVsMV-EeukqNeDnMQEfA"/>
-  <sections xmi:id="_5FXG8MV-EeukqNeDnMQEfA" name="P9. Solicitar la aprobación del documento criterios del riesgo." guid="_5FXG8MV-EeukqNeDnMQEfA"/>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FoqHcqbaV7Nf8wPmxy5oiQ" name=",_6Alq4KwpEeuVEdXlov3DVQ" guid="-FoqHcqbaV7Nf8wPmxy5oiQ" changeDate="2022-04-05T15:06:23.845-0500">
+  <mainDescription>Definir y mantener las fuentes de riesgos necesarias para respaldar la identificación de riesgos de un activo de la&#xD;
+organización. Tener en cuenta que las fuentes de riesgos son factores que tienen un potencial real de generar los riesgos&#xD;
+de un activo y pueden estar en el contexto interno o externo de la organización.</mainDescription>
+  <sections xmi:id="_OTx9ILUcEeyAJq4tRWWqQA" name="P1. Identificar y definir las fuentes internas de riesgo." guid="_OTx9ILUcEeyAJq4tRWWqQA">
+    <sectionDescription>Estas fuentes de riesgos están relacionadas al funcionamiento interno de la organización y como esta trata de alcanzar sus&#xD;
+objetivos. Para su definición se pueden considerar factores de riesgo como:&amp;nbsp; financieros, jurídicos, gestión,&#xD;
+planificación, procesos, personas, etc.</sectionDescription>
+  </sections>
+  <sections xmi:id="_SYuZQLUcEeyAJq4tRWWqQA" name="P2. Identificar y definir las fuentes externas de riesgo." guid="_SYuZQLUcEeyAJq4tRWWqQA">
+    <sectionDescription>Estas fuentes de riesgo están relacionadas al entorno en el cual la organización busca lograr sus objetivos. Para su&#xD;
+definición se pueden considerar cualquiera de los componentes del análisis PESTEL (Políticos, Económicos, Sociales,&#xD;
+Tecnológicos, Ambientales, Legales), etc.&lt;br />&#xD;
+Nota: Las fuentes de riesgo en un proyecto están estrechamente relacionadas con las estructuras de desglose del riesgo&#xD;
+(RBS)/taxonomías, las cuales pueden ser genéricas o específicas según el tipo de proyecto. Este tipo de estructuras son&#xD;
+empleadas por las organizaciones para identificar y clasificar los riesgos de los proyectos.</sectionDescription>
+  </sections>
+  <sections xmi:id="_Vq8X8LUcEeyAJq4tRWWqQA" name="P3. Documentar, verificar y aprobar el documento de las fuentes de riesgos internas y externas del activo." guid="_Vq8X8LUcEeyAJq4tRWWqQA"/>
   <purpose>&lt;p>&#xD;
     &amp;nbsp;&#xD;
 &lt;/p></purpose>

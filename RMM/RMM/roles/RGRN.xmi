@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mFtYFH1LR-c0sYcmvzZ9LQ" name="RGRN,_iA_A8KuWEeuuCssargsKeA" guid="-mFtYFH1LR-c0sYcmvzZ9LQ" changeDate="2021-06-03T18:45:51.557-0500">
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mFtYFH1LR-c0sYcmvzZ9LQ" name="RGRN,_iA_A8KuWEeuuCssargsKeA" guid="-mFtYFH1LR-c0sYcmvzZ9LQ" changeDate="2022-04-05T10:17:50.150-0500">
   <mainDescription>&lt;p>&#xD;
-    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
-    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
-    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+    Directivo responsable de rendir cuentas por el proceso de GR de la organización. Es un profesional experto, encargado&#xD;
+    de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes responsables de la GR de los&#xD;
+    activos, en la identificación y tratamiento de los riesgos.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:RoleDescription>

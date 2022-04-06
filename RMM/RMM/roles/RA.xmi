@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WJawypUNjJ7my4DIL0iZ5Q" name="RA,_P7aGMKuXEeuuCssargsKeA" guid="-WJawypUNjJ7my4DIL0iZ5Q" changeDate="2021-06-03T18:43:16.040-0500">
-  <mainDescription>&lt;p>&#xD;
-    Profesional que rinde cuentas por un activo de la organización y que es el encargado de la ejecución de las prácticas&#xD;
-    de gestión tendientes a lograr los objetivos esperados. El RA, soporta la planificación de acciones de mejora y aprueba&#xD;
-    los cambios, de ser necesario. En lo referente a la GR, es el responsable de la planificación, ejecución y supervisión&#xD;
-    del PGR.&#xD;
-&lt;/p></mainDescription>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WJawypUNjJ7my4DIL0iZ5Q" name="RA,_P7aGMKuXEeuuCssargsKeA" guid="-WJawypUNjJ7my4DIL0iZ5Q" changeDate="2022-04-05T10:10:50.108-0500">
+  <mainDescription>Profesional que rinde cuentas por un activo de la organización y que es el encargado de la ejecución de las prácticas de&#xD;
+gestión tendientes a lograr los objetivos esperados. El RA, soporta la planificación de acciones de mejora y aprueba los&#xD;
+cambios, de ser necesario. En lo referente a la GR, es el responsable de la planificación, ejecución y supervisión del PGR.</mainDescription>
 </org.eclipse.epf.uma:RoleDescription>

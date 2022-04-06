@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tq_BKYeztPv54Moa7J5zmg" name=",_5r09QKukEeuuCssargsKeA" guid="-tq_BKYeztPv54Moa7J5zmg" changeDate="2021-06-03T19:47:40.149-0500">
-  <mainDescription>Elaborar el documento de la EGR de la organización que integre los resultados de las tareas anteriores. Trabajar con las&#xD;
-partes interesadas para validar y confirmar que la EGR cumpla con las necesidades de la organización, realizar las mejoras&#xD;
-si se requiere. Presentar el documento de la EGR ante la alta dirección para obtener la aprobación formal e integrarlo al&#xD;
-plan estratégico de la organización.</mainDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tq_BKYeztPv54Moa7J5zmg" name=",_5r09QKukEeuuCssargsKeA" guid="-tq_BKYeztPv54Moa7J5zmg" changeDate="2022-04-05T12:11:04.335-0500">
+  <mainDescription>&lt;p>&#xD;
+    Elaborar el documento de la EGR de la organización que integre los resultados de las tareas anteriores. Trabajar con&#xD;
+    las partes interesadas para validar y confirmar que la EGR cumple con las necesidades de la organización, realizar las&#xD;
+    mejoras si se requiere. Presentar el documento de la EGR ante la alta dirección para obtener la aprobación formal e&#xD;
+    integrarlo al plan estratégico de la organización.&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_bzK2AKulEeuuCssargsKeA" name="P1. Integrar los detalles de las tareas anteriores a través de la documentación de la EGR." guid="_bzK2AKulEeuuCssargsKeA"/>
   <sections xmi:id="_eDCm4KulEeuuCssargsKeA" name="P2. Verificar la consistencia del documento de EGR y corregir los errores o defectos encontrados." guid="_eDCm4KulEeuuCssargsKeA"/>
   <sections xmi:id="_gsCpcKulEeuuCssargsKeA" name="P3. Revisar y validar la viabilidad de la EGR, documentando cada uno de los hallazgos en el informe de la validación de la EGR." guid="_gsCpcKulEeuuCssargsKeA"/>
   <sections xmi:id="_knnuMKulEeuuCssargsKeA" name="P4. Aplicar y acordar las mejoras al documento de la EGR con base al informe de validación y solicitar la aprobación de las correcciones." guid="_knnuMKulEeuuCssargsKeA"/>
-  <sections xmi:id="_o5EVQKulEeuuCssargsKeA" name="P5. Solicitar la aprobacion de la EGR ante la alta dirección y generar el acta de aprobación." guid="_o5EVQKulEeuuCssargsKeA"/>
-  <sections xmi:id="_xWTnUKulEeuuCssargsKeA" name="P6. Integrar la EGR en el plan estratégico de la organización." guid="_xWTnUKulEeuuCssargsKeA"/>
+  <sections xmi:id="_o5EVQKulEeuuCssargsKeA" name="P5. Solicitar la aprobación de la EGR ante la alta dirección y generar el acta de aprobación." guid="_o5EVQKulEeuuCssargsKeA"/>
+  <sections xmi:id="_xWTnUKulEeuuCssargsKeA" name="P6. Integración de la EGR en el plan estratégico de la organización." guid="_xWTnUKulEeuuCssargsKeA"/>
 </org.eclipse.epf.uma:TaskDescription>

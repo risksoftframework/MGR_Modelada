@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma:ProcessDescription xmi:id="-9j7DYFC5kW8L6G-byCIAoQ" name="GR_A1,_YaMCUaz1EeuleM-t5CAq6g" guid="-9j7DYFC5kW8L6G-byCIAoQ">
-    <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Planificación: &lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
- lang=&quot;ES-CO&quot;>Definir y establecer el contexto de la GR considerando el entorno externo e interno sobre los cuales opera la&#xD;
-organización. La definición de los criterios del riesgo necesarios para apoyar la toma de decisiones frente a los riesgos.&#xD;
-Desarrollo del plan de GR del activo el cual permitirá abordar la intención de la organización con la EGR y asegurar que el&#xD;
-proceso de GR sea aplicado de manera consistente.&lt;/span>&lt;/font>&lt;/span></mainDescription>
+    <mainDescription>&lt;p>&#xD;
+    Planificación: Definir y establecer el contexto de la GR considerando el entorno externo e interno sobre los cuales&#xD;
+    opera la organización. La definición de los criterios del riesgo necesarios para apoyar la toma de decisiones frente a&#xD;
+    los riesgos. Desarrollo del plan de GR del activo el cual permitirá abordar la intención de la organización con la EGR&#xD;
+    y asegurar que el proceso de GR sea aplicado de manera consistente.&#xD;
+&lt;/p></mainDescription>
   </org.eclipse.epf.uma:ProcessDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-VyND6ELy7gdpzqWIpT7ucw" name="GR_A1.02,_Q54isa0uEeuleM-t5CAq6g" guid="-VyND6ELy7gdpzqWIpT7ucw">
     <refinedDescription>Con base a la cantidad y tipo de riesgos que una organización desea tomar o no para conseguir los objetivos de un activo,&#xD;
@@ -24,9 +24,9 @@ soportar las prácticas de GR con sus diferentes niveles de responsabilidad fren
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-slXdgWqWpTuOEHCe01v8qA" name="RGRN,_Q54is60uEeuleM-t5CAq6g" guid="-slXdgWqWpTuOEHCe01v8qA">
     <refinedDescription>&lt;p>&#xD;
-    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
-    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
-    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+    Directivo responsable de rendir cuentas por el proceso de GR de la organización. Es un profesional experto, encargado&#xD;
+    de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes responsables de la GR de los&#xD;
+    activos, en la identificación y tratamiento de los riesgos.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-H0Izeq46XzKHPcy_u2XK1Q" name="RGRA,_Q54ita0uEeuleM-t5CAq6g" guid="-H0Izeq46XzKHPcy_u2XK1Q">
@@ -37,12 +37,9 @@ soportar las prácticas de GR con sus diferentes niveles de responsabilidad fren
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-O2aZVVm7IRbew4TdH-ennw" name="RA,_Q54it60uEeuleM-t5CAq6g" guid="-O2aZVVm7IRbew4TdH-ennw">
-    <refinedDescription>&lt;p>&#xD;
-    Profesional que rinde cuentas por un activo de la organización y que es el encargado de la ejecución de las prácticas&#xD;
-    de gestión tendientes a lograr los objetivos esperados. El RA, soporta la planificación de acciones de mejora y aprueba&#xD;
-    los cambios, de ser necesario. En lo referente a la GR, es el responsable de la planificación, ejecución y supervisión&#xD;
-    del PGR.&#xD;
-&lt;/p></refinedDescription>
+    <refinedDescription>Profesional que rinde cuentas por un activo de la organización y que es el encargado de la ejecución de las prácticas de&#xD;
+gestión tendientes a lograr los objetivos esperados. El RA, soporta la planificación de acciones de mejora y aprueba los&#xD;
+cambios, de ser necesario. En lo referente a la GR, es el responsable de la planificación, ejecución y supervisión del PGR.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-noCN39c3vDX794tWFJPNgw" name="GD,_Q54iua0uEeuleM-t5CAq6g" guid="-noCN39c3vDX794tWFJPNgw">
     <refinedDescription>&lt;p>&#xD;

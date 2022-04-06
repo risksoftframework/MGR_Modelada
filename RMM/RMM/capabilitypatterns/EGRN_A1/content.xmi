@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma:ProcessDescription xmi:id="-ccxSF2pD3sq_x5xghBPf9g" name="EGRN_A1,__dzn0az1EeuleM-t5CAq6g" guid="-ccxSF2pD3sq_x5xghBPf9g">
-    <mainDescription>&lt;font face=&quot;Times New Roman&quot;>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>Planificación de la estrategia de riesgos: &lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
- lang=&quot;ES-CO&quot;>Permite establecer un marco para ayudar en la implementación exitosa de la GR en una organización, su&#xD;
-seguimiento y evaluación. Este marco contiene cada uno de los elementos necesarios para ayudar a las diferentes partes&#xD;
-interesadas a comprender la GR, establecer cambios y tomar decisiones para alcanzar los objetivos de la organización frente&#xD;
-al riesgo.&lt;/span>&lt;/span>&lt;/font></mainDescription>
+    <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font size=&quot;2&quot;>Planificación de la estrategia de riesgos: Permite establecer un framework para&#xD;
+ayudar en la implementación exitosa de la GR en una organización, su seguimiento y evaluación. Este framework contiene cada&#xD;
+uno de los elementos necesarios para ayudar a las diferentes partes interesadas a comprender la GR, establecer cambios y&#xD;
+tomar decisiones para alcanzar los objetivos de la organización frente al riesgo.&lt;/font>&lt;/span></mainDescription>
   </org.eclipse.epf.uma:ProcessDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-i5OSl0n7p0_7Y98RcYUneg" name="EGRN_A1.01,_lDJ4gKz2EeuleM-t5CAq6g" guid="-i5OSl0n7p0_7Y98RcYUneg">
     <refinedDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
@@ -15,16 +13,16 @@ al riesgo.&lt;/span>&lt;/span>&lt;/font></mainDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-mrfdzowgTpHvSIDNhamTwg" name="RGRN,_lDczc6z2EeuleM-t5CAq6g" guid="-mrfdzowgTpHvSIDNhamTwg">
     <refinedDescription>&lt;p>&#xD;
-    Directivo responsable de rendir cuentas por el proceso de gestión de los riesgos de la organización. Es un profesional&#xD;
-    experto, encargado de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes&#xD;
-    responsables de la GR de los activos, en la identificación y tratamiento de los riesgos.&#xD;
+    Directivo responsable de rendir cuentas por el proceso de GR de la organización. Es un profesional experto, encargado&#xD;
+    de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes responsables de la GR de los&#xD;
+    activos, en la identificación y tratamiento de los riesgos.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-L-lXrl_EaiWjBhucXPceYQ" name="CRN,_lDwVcKz2EeuleM-t5CAq6g" guid="-L-lXrl_EaiWjBhucXPceYQ">
     <refinedDescription>&lt;p>&#xD;
     Grupo de directivos y expertos seleccionados por la organización que tienen la función principal de realizar y dirigir&#xD;
-    el diseño e implementación de la estrategia de gestión de riesgos del negocio. Así como también, garantizar los&#xD;
-    resultados de la estrategia y respaldar la toma decisiones.&#xD;
+    el diseño e implementación de la EGR del negocio. Así como también, garantizar los resultados de la estrategia y&#xD;
+    respaldar la toma decisiones.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DdjTrd3YjWR0bdnHPlhY4g" name="CEO,_lDwVcqz2EeuleM-t5CAq6g" guid="-DdjTrd3YjWR0bdnHPlhY4g">
@@ -48,13 +46,66 @@ al riesgo.&lt;/span>&lt;/span>&lt;/font></mainDescription>
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YnJwwDVAUmvzZQ2fi_O1vQ" name="EV,_lD5fYKz2EeuleM-t5CAq6g" guid="-YnJwwDVAUmvzZQ2fi_O1vQ">
-    <refinedDescription>Persona experta responsable de llevar a cabo la evaluación de la EGR. Así como también de asesorar al comité de riesgos en&#xD;
-la elaboración de la propuesta de mejora de la EGR.</refinedDescription>
+    <refinedDescription>&lt;p>&#xD;
+    Persona experta responsable de llevar a cabo la evaluación de la EGR. Así como también de asesorar al comité de riesgos&#xD;
+    en la elaboración de la propuesta de mejora de la EGR.&#xD;
+&lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EWoYDpNZ4zzTm_Z-LAc0tA" name="RC,_lD5fYqz2EeuleM-t5CAq6g" guid="-EWoYDpNZ4zzTm_Z-LAc0tA">
     <refinedDescription>&lt;p>&#xD;
-    Profesional experto en las necesidades de formación requeridas por la organización y que será responsable de implantar&#xD;
-    el plan de capacitación de manera exitosa.&#xD;
+    &amp;nbsp;Profesional experto en las necesidades de formación requeridas por la organización y que será responsable de&#xD;
+    implantar el plan de capacitación de manera exitosa.&#xD;
 &lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-j3eYd-NSOqxb_pycvSAkCw" name="EGRN_A1.01,_lDTpgKz2EeuleM-t5CAq6g" guid="-j3eYd-NSOqxb_pycvSAkCw">
+    <refinedDescription>Formular una política de riesgos que esté alineada con los objetivos del negocio, que provea dirección y transparencia a&#xD;
+las diferentes partes interesadas involucradas en las prácticas de GR. Para su actualización, soporte la tarea con las&#xD;
+recomendaciones realizadas en la propuesta de mejora, en caso de existir.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PrZVq2XeGb3tn6wvw53EVA" name="EGRN_A1.03,_lDTpgaz2EeuleM-t5CAq6g" guid="-PrZVq2XeGb3tn6wvw53EVA">
+    <refinedDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Definir los objetivos y acordar las métricas claves que permitirán medir la eficacia de la ejecución de la EGR. Para la&#xD;
+    actualización, soporte la tarea con las recomendaciones realizadas en la propuesta de mejora, en caso de existir.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ABKvbUYK4ohfSxiZTVaDZQ" name="EGRN_A1.04,_lDTpgqz2EeuleM-t5CAq6g" guid="-ABKvbUYK4ohfSxiZTVaDZQ">
+    <refinedDescription>&lt;p>&#xD;
+    Establecer el alcance conforme a la política de riesgos del negocio y los objetivos de la EGR. Para la actualización,&#xD;
+    soporte esta tarea con las recomendaciones realizadas en la propuesta de mejora, en caso de existir.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CE86KkgX0Fd486ebvehMTQ" name="EGRN_A1.06,_lDTpg6z2EeuleM-t5CAq6g" guid="-CE86KkgX0Fd486ebvehMTQ">
+    <refinedDescription>&lt;p>&#xD;
+    Identificar los roles y estructuras organizacionales claves del negocio que tendrán un nivel de responsabilidad frente&#xD;
+    a las prácticas GR. Para la actualización soporte la tarea con las recomendaciones realizadas en la propuesta de&#xD;
+    mejora, en caso de existir.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-0gt4rbpcM-cAjPVddF_8iw" name="EGRN_A1.07,_lDTphKz2EeuleM-t5CAq6g" guid="-0gt4rbpcM-cAjPVddF_8iw">
+    <refinedDescription>Establecer claramente la periodicidad en la que se llevará a cabo el seguimiento de la EGR, la cual pretenderá evaluar su&#xD;
+grado de eficacia y la detección de problemas o limitaciones que impidan la consecución de los objetivos. Para las&#xD;
+actualizaciones, seguir las indicaciones realizadas en la propuesta de mejora, en caso de existir.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gx_5c8bHdKNWZETAF_CTgw" name="EGRN_A1.05,_lDczcKz2EeuleM-t5CAq6g" guid="-gx_5c8bHdKNWZETAF_CTgw">
+    <refinedDescription>Establecer y mantener un proceso de GR que proporcione una visión estándar y formal, que ayude a la organización hacer&#xD;
+frente a los riesgos. Además, que cumpla con los requerimientos de la organización y establezca los recursos necesarios&#xD;
+para soportar las prácticas de GR.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-UXcXZidFPT_5wz55-WAI6g" name="EGRN_A1.08,_lDczcaz2EeuleM-t5CAq6g" guid="-UXcXZidFPT_5wz55-WAI6g">
+    <refinedDescription>&lt;p>&#xD;
+    Elaborar el documento de la EGR de la organización que integre los resultados de las tareas anteriores. Trabajar con&#xD;
+    las partes interesadas para validar y confirmar que la EGR cumple con las necesidades de la organización, realizar las&#xD;
+    mejoras si se requiere. Presentar el documento de la EGR ante la alta dirección para obtener la aprobación formal e&#xD;
+    integrarlo al plan estratégico de la organización.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-k6HUyxOtiy2lq98JuT7J8Q" name="EGRN_A1.09,_lDczcqz2EeuleM-t5CAq6g" guid="-k6HUyxOtiy2lq98JuT7J8Q">
+    <refinedDescription>Desarrollar un plan de capacitación que permita crear concienciación y comprensión del valor de la GR al público objetivo y&#xD;
+así ayudar al logro de los objetivos de la organización.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Jct-xORRaGc0TmPOOJzVMg" name="EGRN_A1.10,_4LuO4L9MEeuXwcSzT7huYg" guid="-Jct-xORRaGc0TmPOOJzVMg">
+    <refinedDescription>Desarrollar una estrategia de comunicación que plasme la intención y expectativas de la organización con la implementación&#xD;
+de la EGR. Así como también que promueva una comunicación y compresión efectiva en los diferentes niveles de la&#xD;
+organización.</refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

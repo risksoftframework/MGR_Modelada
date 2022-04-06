@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-FU0K_Yndbs6-hWevHa441g" name="new_term_definition,_5JIRYLUoEeyAJq4tRWWqQA" guid="-FU0K_Yndbs6-hWevHa441g" changeDate="2022-04-05T16:44:16.348-0500">
+  <mainDescription>Un control de riesgo es cualquier medida o acción que es empleada por una organización para reducir o gestionar los&#xD;
+riesgos. Los controles de riesgo pueden incluir: una política, procedimiento, prácticas, procesos, tecnología, etc. Por&#xD;
+otro lado, las acciones de respuesta establecidas en los tratamientos del riesgo una vez implementadas y evaluada su&#xD;
+eficacia podrán convertir en controles, lo cual ayudaría a mejorar o sustituir los existentes en la organización. Los&#xD;
+controles de riesgo podrán ser empelados para reducir la probabilidad o el impacto de los riesgos. Además, podrán ser&#xD;
+manuales o automáticos y del tipo preventivos, detectivos y correctivos.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

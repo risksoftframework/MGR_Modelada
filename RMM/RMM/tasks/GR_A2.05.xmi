@@ -1,55 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i3IxEra30awybFRrvSuJzQ" name=",_s-UqcKxVEeuVEdXlov3DVQ" guid="-i3IxEra30awybFRrvSuJzQ" changeDate="2021-06-04T17:15:49.638-0500">
-  <mainDescription>Monitorear y controlar continuamente los riesgos del perfil de riesgo del activo durante todo el ciclo de vida, con el fin&#xD;
-de verificar cambios en su estado e identificar y analizar nuevos riesgos, fuentes y factores de riesgo. Supervisar y&#xD;
-documentar los cambios en el contexto de la GR y reevaluar los riesgos con base en los cambios. Realizar la implementación&#xD;
-y seguimiento a las métricas para medir y evaluar la efectividad de las acciones de tratamiento de los riesgos y generar&#xD;
-lecciones aprendidas.</mainDescription>
-  <sections xmi:id="_4eKK0KxVEeuVEdXlov3DVQ" name="P1. Supervisar los riesgos presentes en el perfil de riesgos del activo." guid="_4eKK0KxVEeuVEdXlov3DVQ">
-    <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    Realizar los seguimientos programados para verificar hasta qué punto se gestionan los riesgos dentro de los umbrales&#xD;
-    definidos por la organización.&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    Cuando se produzcan cambios en la EGR y el contexto de la GR reevaluar y gestionar los riesgos con base en los nuevos&#xD;
-    cambios.&#xD;
-&lt;/p></sectionDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-i3IxEra30awybFRrvSuJzQ" name=",_s-UqcKxVEeuVEdXlov3DVQ" guid="-i3IxEra30awybFRrvSuJzQ" changeDate="2022-04-05T15:31:08.856-0500">
+  <mainDescription>Monitorear y controlar continuamente los riesgos del perfil de riesgo del activo durante todo el ciclo de vida. Supervisar&#xD;
+los cambios en la probabilidad e impacto de los riesgos, criterios, fuentes de riesgo e identificar nuevos riesgos. Medir y&#xD;
+evaluar la eficacia de las acciones de respuesta y generar lecciones aprendidas.</mainDescription>
+  <sections xmi:id="_hM20kLUfEeyAJq4tRWWqQA" name="P1. Supervisar los riesgos presentes en el perfil de riesgos del activo." guid="_hM20kLUfEeyAJq4tRWWqQA">
+    <sectionDescription>Realizar los seguimientos programados para verificar hasta qué punto se gestionan los riesgos dentro de los umbrales&#xD;
+definidos por la organización. Cuando se produzcan cambios en los criterios del riesgo del activo, reevaluar los riesgos&#xD;
+para garantizar el alineamiento con los requisitos de la organización.</sectionDescription>
   </sections>
-  <sections xmi:id="_Hnjy4KxWEeuVEdXlov3DVQ" name="P2. Supervisar el activo." guid="_Hnjy4KxWEeuVEdXlov3DVQ">
-    <sectionDescription>&lt;p>&#xD;
-    &lt;span     style=&quot;FONT-FAMILY: 'Times New Roman','serif'; COLOR: black; FONT-SIZE: 9pt; mso-themecolor: text1; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-GB; mso-ansi-language: ES; mso-bidi-language: AR-SA&quot;>&#xD;
-    Identificar nuevos riesgos, modificar los obsoletos, registrar los eventos de riesgo y de ser necesario actualizar las&#xD;
-    fuentes y factores de riesgos que pueden generar los riesgos en un activo.&lt;/span>&#xD;
-&lt;/p></sectionDescription>
+  <sections xmi:id="_iQ2BILUfEeyAJq4tRWWqQA" name="P2. Supervisar el activo." guid="_iQ2BILUfEeyAJq4tRWWqQA">
+    <sectionDescription>Identificar nuevos riesgos, modificar los obsoletos y proponer nuevas fuentes de riesgos de ser necesario. Gestionar los&#xD;
+nuevos riesgos del activo con prontitud.</sectionDescription>
   </sections>
-  <sections xmi:id="_YmDUUKxWEeuVEdXlov3DVQ" name="P3. Monitorear y evaluar la efectividad de los tratamientos de riesgos" guid="_YmDUUKxWEeuVEdXlov3DVQ">
-    <sectionDescription>&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    Verificar la disminución del impacto de los riesgos con efecto negativo o el aprovechamiento de los positivos. Además&#xD;
-    de identificar las acciones de&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    respuesta ineficaces y remediarlas con prontitud, a través de la selección de acciones adicionales para lograr mejores&#xD;
-    resultados. Aplicar los&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1&quot;&#xD;
-class=&quot;MsoListParagraph&quot;>&#xD;
-    controles a las acciones de respuesta para determinar la efectividad de estas.&#xD;
-&lt;/p></sectionDescription>
+  <sections xmi:id="_oTzpILUfEeyAJq4tRWWqQA" name="P3. Analizar y evaluar los controles asignados a los riesgos: Documentar los cambios cuando proceda." guid="_oTzpILUfEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_rXcZQLUfEeyAJq4tRWWqQA" name="P4. Implementar y supervisar la eficacia de las acciones de respuesta a los riesgos." guid="_rXcZQLUfEeyAJq4tRWWqQA">
+    <sectionDescription>Implementar las métricas para evaluar el cumplimiento de la ejecución las acciones de respuesta a los riesgos, determinar&#xD;
+su efectividad, de ser necesario, realizar mejoras o identificar un tipo de respuesta más eficaz.&lt;br />&#xD;
+Nota: Las acciones de respuestas que presenten una buena efectividad, podrán convertirse en controles o modificar los&#xD;
+existentes.</sectionDescription>
   </sections>
-  <sections xmi:id="_l2XT0KxWEeuVEdXlov3DVQ" name="P4. Analizar y evaluar los controles existentes de las acciones de respuestas implementadas." guid="_l2XT0KxWEeuVEdXlov3DVQ">
-    <sectionDescription>Documentar los cambios cuando proceda.</sectionDescription>
-  </sections>
-  <sections xmi:id="_pXJ6AKxWEeuVEdXlov3DVQ" name="P5. Registrar y evaluar las lecciones aprendidas resultantes de la monitorización a las acciones para el tratamiento de riesgos. " guid="_pXJ6AKxWEeuVEdXlov3DVQ">
-    <sectionDescription>&lt;p>&#xD;
-    &amp;nbsp;&#xD;
-&lt;/p></sectionDescription>
-  </sections>
-  <sections xmi:id="_3q3QMKxWEeuVEdXlov3DVQ" name="P6. Generar y proporcionar informes del seguimiento a los riesgos." guid="_3q3QMKxWEeuVEdXlov3DVQ">
+  <sections xmi:id="_vtDHkLUfEeyAJq4tRWWqQA" name="P5. Registrar y evaluar las lecciones aprendidas." guid="_vtDHkLUfEeyAJq4tRWWqQA"/>
+  <sections xmi:id="_wr-1ALUfEeyAJq4tRWWqQA" name="P6. Generar y proporcionar los informes del seguimiento a los riesgos." guid="_wr-1ALUfEeyAJq4tRWWqQA">
     <sectionDescription>Comunicar los resultados a cada una de las partes interesadas de la organización para la toma de decisiones.</sectionDescription>
   </sections>
-  <sections xmi:id="_wrQEkMWCEeukqNeDnMQEfA" name="P7. Actualizar el perfil de riesgos del activo." guid="_wrQEkMWCEeukqNeDnMQEfA"/>
+  <sections xmi:id="_yPqOQLUfEeyAJq4tRWWqQA" name="P7. Actualizar el perfil de riesgos del activo." guid="_yPqOQLUfEeyAJq4tRWWqQA"/>
 </org.eclipse.epf.uma:TaskDescription>

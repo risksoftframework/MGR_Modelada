@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WAjfXixcTs1bKmGby1u4DA" name="EGR,_1HOgYM10EeulHfspCiGMPA" guid="-WAjfXixcTs1bKmGby1u4DA" changeDate="2021-06-14T19:59:15.086-0500">
-  <mainDescription>&lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
-Conjunto elementos que permiten guiar las actividades de GR en cualquier nivel de una organización (estratégico, proyecto,&#xD;
-ciclo de vida del software, entre otros). Una estrategia de gestión de riesgos (EGR) tiene como finalidad ayudar a una&#xD;
-organización a incrementar la probabilidad de alcanzar el logro de sus objetivos y a disminuir el impacto de los riesgos en&#xD;
-cualquier nivel, brindando los elementos necesarios que permitan apoyar la toma de decisiones, con el fin de contrarrestar&#xD;
-los riesgos. Así como también, permite el establecimiento de mecanismos de control para llevar a cabo el seguimiento,&#xD;
-medición y evaluación del proceso de GR, teniendo como objetivo contribuir a la mejora continua del mismo al interior de&#xD;
-una organización.&lt;/span></mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WAjfXixcTs1bKmGby1u4DA" name="EGR,_1HOgYM10EeulHfspCiGMPA" guid="-WAjfXixcTs1bKmGby1u4DA" changeDate="2022-04-05T16:07:21.918-0500">
+  <mainDescription>&lt;p>&#xD;
+    Conjunto elementos que permiten guiar las actividades de GR en cualquier nivel de una organización (estratégico,&#xD;
+    proyecto, ciclo de vida del software, etc.). Una EGR tiene como finalidad ayudar a una organización a incrementar la&#xD;
+    probabilidad de alcanzar el logro de sus objetivos y a disminuir el impacto de los riesgos en cualquier nivel,&#xD;
+    brindando los elementos necesarios que permitan apoyar la toma de decisiones, con el fin de contrarrestar los riesgos.&#xD;
+    Así como también, permite el establecimiento de mecanismos de control para llevar a cabo el seguimiento, medición y&#xD;
+    evaluación del proceso de GR, teniendo como objetivo contribuir a la mejora continua del mismo al interior de una&#xD;
+    organización.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

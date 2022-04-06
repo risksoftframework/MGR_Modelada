@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Odsg-rAeqnr3LuL8UVb0Ww" name="new_term_definition,_TK_HkM14EeulHfspCiGMPA" guid="-Odsg-rAeqnr3LuL8UVb0Ww">
-  <mainDescription>&lt;P style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=MsoNormal>&lt;SPAN style=&quot;FONT-SIZE: 11pt&quot;>&lt;FONT face=&quot;Times New Roman&quot;>Entendida como la posibilidad de que un evento ocurra. Es una medida que permite indicar la frecuencia de ocurrencia de un riesgo en un periodo de tiempo determinado. Puede ser cuantitativa o cualitativa y descrita mediante la utilización de términos generales o matemáticos.&lt;?xml:namespace prefix = o ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/SPAN>&lt;/P></mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Odsg-rAeqnr3LuL8UVb0Ww" name="new_term_definition,_TK_HkM14EeulHfspCiGMPA" guid="-Odsg-rAeqnr3LuL8UVb0Ww" changeDate="2022-04-05T16:05:16.510-0500">
+  <mainDescription>&lt;p style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt&quot; class=&quot;MsoNormal&quot;>&#xD;
+    Entendida como la posibilidad de que un evento ocurra. Es una medida que permite indicar la frecuencia de ocurrencia de&#xD;
+    un riesgo en un periodo de tiempo determinado. Puede ser cuantitativa o cualitativa y descrita mediante la utilización&#xD;
+    de términos generales o matemáticos.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

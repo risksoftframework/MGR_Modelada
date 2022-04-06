@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-S2ahRR6C-CZBChsNa-6MZw" name="EGRN_A2,_H42-Aaz1EeuleM-t5CAq6g" guid="-S2ahRR6C-CZBChsNa-6MZw">
-  <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font face=&quot;Times New Roman&quot;>Preparación para la implementacion: &lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 9pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES-CO; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;&#xD;
- lang=&quot;ES-CO&quot;>Permite la instauración, asignación de roles y responsabilidades a los diferentes recursos de gestión&#xD;
-necesarios. Además, involucra la ejecución del plan de capacitación y comunicación de la EGR en los diferentes niveles de&#xD;
-la organización.&lt;/span>&lt;/font>&lt;/span></mainDescription>
-</org.eclipse.epf.uma:ProcessDescription>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ProcessDescription xmi:id="-S2ahRR6C-CZBChsNa-6MZw" name="EGRN_A2,_H42-Aaz1EeuleM-t5CAq6g" guid="-S2ahRR6C-CZBChsNa-6MZw">
+    <mainDescription>&lt;span style=&quot;FONT-SIZE: 9pt&quot;>&lt;font size=&quot;2&quot;>Preparación para la implementación: Permite la instauración, asignación de&#xD;
+roles y responsabilidades a los diferentes recursos de gestión necesarios. Además, involucra la ejecución del plan de&#xD;
+capacitación y comunicación de la EGR en los diferentes niveles de la organización.&lt;/font>&lt;/span></mainDescription>
+  </org.eclipse.epf.uma:ProcessDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-kRJid_OQf7BwWyrhBG9New" name="EGRN_A2.01,_FR73saz4EeuleM-t5CAq6g" guid="-kRJid_OQf7BwWyrhBG9New">
+    <refinedDescription>Formalizar los diferentes roles y niveles de responsabilidad de los recursos de gestión a las partes involucradas en la&#xD;
+EGR, para garantizar que se pueda llevar a cabo las prácticas de GR en la organización.</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NMejvZUlL6lQSavbusKxyQ" name="EGRN_A2.02,_FR73sqz4EeuleM-t5CAq6g" guid="-NMejvZUlL6lQSavbusKxyQ">
+    <refinedDescription>&lt;p>&#xD;
+    Implementar el plan de capacitación y comunicación sobre la EGR dentro del plazo y el presupuesto asignado, garantizado&#xD;
+    su correcta ejecución y proporcionando una retroalimentación de su realización.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-K8JcCG3HUl6TvuDEHeNo0w" name="RGRN,_FR73s6z4EeuleM-t5CAq6g" guid="-K8JcCG3HUl6TvuDEHeNo0w">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo responsable de rendir cuentas por el proceso de GR de la organización. Es un profesional experto, encargado&#xD;
+    de la definición, implementación y seguimiento de la EGR. Además, asesora a los diferentes responsables de la GR de los&#xD;
+    activos, en la identificación y tratamiento de los riesgos.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-WemCu4NndaPeP7at6JaxQQ" name="CRN,_FR73taz4EeuleM-t5CAq6g" guid="-WemCu4NndaPeP7at6JaxQQ">
+    <refinedDescription>&lt;p>&#xD;
+    Grupo de directivos y expertos seleccionados por la organización que tienen la función principal de realizar y dirigir&#xD;
+    el diseño e implementación de la EGR del negocio. Así como también, garantizar los resultados de la estrategia y&#xD;
+    respaldar la toma decisiones.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CH9V1FascR6RzNv0RbvM1A" name="RC,_FR73t6z4EeuleM-t5CAq6g" guid="-CH9V1FascR6RzNv0RbvM1A">
+    <refinedDescription>&lt;p>&#xD;
+    &amp;nbsp;Profesional experto en las necesidades de formación requeridas por la organización y que será responsable de&#xD;
+    implantar el plan de capacitación de manera exitosa.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wbS1ZGZ_GtflX9XlL4-2LQ" name="RGRH,_I3nluLU4Eey9g_IVOGrzMw" guid="-wbS1ZGZ_GtflX9XlL4-2LQ">
+    <refinedDescription>&lt;p>&#xD;
+    Directivo responsable de rendir cuentas por la planificación y gestión de los recursos humanos, conforme a las&#xD;
+    políticas y necesidades de la organización.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

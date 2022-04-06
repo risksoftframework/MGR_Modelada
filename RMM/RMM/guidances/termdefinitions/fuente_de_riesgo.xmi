@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-9NGpkXEnq-JK2lbGC_-Vuw" name="fuente_de_riesgo,_bVdrIM13EeulHfspCiGMPA" guid="-9NGpkXEnq-JK2lbGC_-Vuw" changeDate="2022-04-05T15:53:36.481-0500">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-ansi-language: ES-TRAD; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-theme-font: minor-latin&quot;&#xD;
+     lang=&quot;ES-TRAD&quot;>Una fuente de riesgo permite identificar los riesgos de un tipo de activo de la organización. Las&#xD;
+    fuentes de riesgo son factores que tiene el potencial de generar riesgos, la cual puede estar en el contexto interno o&#xD;
+    externo de una organización. Las fuentes de riesgo internas pueden estar relacionado con aspectos financieros,&#xD;
+    jurídicos, gestión, planificación, etc. Mientras que las fuentes externas puede estar relacionadas, por ejemplo, con&#xD;
+    cualquier componente del análisis PESTEL (Políticos, Económicos, Sociales, Tecnológicos, Ambientales,&#xD;
+    Legales).&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

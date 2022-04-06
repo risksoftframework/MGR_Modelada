@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gdJthIzSF_AMqZa-T-DxVA" name="new_term_definition,_YSugoM18Eeu9DYw48QRJHQ" guid="-gdJthIzSF_AMqZa-T-DxVA" changeDate="2022-01-11T11:22:13.815-0500">
-  <mainDescription>&lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 11pt; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: EN-GB; mso-bidi-language: AR-SA&quot;>&#xD;
-&lt;span&#xD;
-style=&quot;FONT-FAMILY: 'Times New Roman','serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Calibri; mso-ansi-language: ES-TRAD; mso-fareast-language: EN-US; mso-bidi-language: AR-SA; mso-fareast-theme-font: minor-latin&quot;&#xD;
- lang=&quot;ES-TRAD&quot;>Es una acción específica que pretende reducir al mínimo las causas y consecuencias de un riesgo o potenciar&#xD;
-las oportunidades en beneficio de la organización. Estas son llevadas a cabo por los recursos de gestión y deberán ser&#xD;
-supervisadas para verificar su efectividad. Las acciones de respuesta una vez implementadas, en caso de no resultar&#xD;
-efectivas pueden generar riesgos adicionales. Las acciones de respuesta que pueden ser planificadas por una organización&#xD;
-para gestionar los riesgos son las de mitigación y contingencia. La primera está orientada a reducir la ocurrencia o&#xD;
-materialización del riesgo y las segundas buscan corregir la ocurrencia de un evento de riesgo cuando han fallado los&#xD;
-esfuerzos de mitigación.&lt;/span>&lt;/span></mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gdJthIzSF_AMqZa-T-DxVA" name="new_term_definition,_YSugoM18Eeu9DYw48QRJHQ" guid="-gdJthIzSF_AMqZa-T-DxVA" changeDate="2022-04-05T15:47:38.974-0500">
+  <mainDescription>&lt;p>&#xD;
+    Es una acción específica que pretende reducir al mínimo las posible causas y consecuencias de un riesgo o potenciar las&#xD;
+    oportunidades en beneficio de la organización. Estas son llevadas a cabo por los recursos de gestión y deberán ser&#xD;
+    supervisadas para verificar su efectividad. Las acciones de respuesta una vez implementadas, en caso de no resultar&#xD;
+    efectivas pueden generar riesgos adicionales. Las acciones de respuesta que pueden ser planificadas por una&#xD;
+    organización para gestionar los riesgos son: las de mitigación y contingencia. La primera está orientada a reducir la&#xD;
+    probabilidad de ocurrencia o materialización del riesgo y las segundas buscan corregir la ocurrencia de un evento de&#xD;
+    riesgo cuando han fallado los esfuerzos de mitigación. Las acciones de respuesta que tengan buenos resultados podrán&#xD;
+    ser consideradas como controles permanentes para gestionar los riesgos.&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
